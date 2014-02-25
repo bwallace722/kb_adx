@@ -1,0 +1,32 @@
+15/07 14:19:00 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+15/07 14:19:00 INFO naive.ReasonableBot| DAY 0 bid: 1721 qs: 0.0
+15/07 14:19:12 INFO naive.ReasonableBot| DAY 1 bid: 4131 qs: 1.0
+15/07 14:19:23 INFO naive.ReasonableBot| DAY 2 bid: 1101 qs: 1.0
+15/07 14:19:35 INFO naive.ReasonableBot| DAY 3 bid: 1762 qs: 1.0
+15/07 14:19:44 INFO naive.ReasonableBot| DAY 4 bid: 705 qs: 1.0
+15/07 14:19:53 INFO naive.ReasonableBot| DAY 5 WON at cost 0.732
+15/07 14:19:53 INFO naive.ReasonableBot| DAY 5 bid: 2115 qs: 1.0
+15/07 14:20:04 INFO naive.ReasonableBot| DAY 6 bid: 564 qs: 1.1002056389496842
+15/07 14:20:14 INFO naive.ReasonableBot| DAY 7 bid: 451 qs: 1.1002056389496842
+15/07 14:20:23 INFO naive.ReasonableBot| DAY 8 bid: 722 qs: 1.1002056389496842
+15/07 14:20:33 INFO naive.ReasonableBot| DAY 9 WON at cost 1.3126833989978406
+15/07 14:20:33 INFO naive.ReasonableBot| DAY 9 bid: 1083 qs: 1.1002056389496842
+15/07 14:20:45 INFO naive.ReasonableBot| DAY 10 WON at cost 1.3456754417753949
+15/07 14:20:45 INFO naive.ReasonableBot| DAY 10 bid: 1083 qs: 1.1002056389496842
+15/07 14:20:56 INFO naive.ReasonableBot| DAY 11 WON at cost 6.1125257436959615
+15/07 14:20:56 INFO naive.ReasonableBot| DAY 11 bid: 361 qs: 1.1002056389496842
+15/07 14:21:07 INFO naive.ReasonableBot| DAY 12 WON at cost 0.5666059040590873
+15/07 14:21:07 INFO naive.ReasonableBot| DAY 12 bid: 361 qs: 1.1002056389496842
+15/07 14:21:19 INFO naive.ReasonableBot| DAY 13 bid: 288 qs: 1.1002056389496842
+15/07 14:21:26 INFO naive.ReasonableBot| DAY 14 bid: 462 qs: 1.1002056389496842
+15/07 14:21:34 INFO naive.ReasonableBot| DAY 15 WON at cost 8.130039147487008
+15/07 14:21:34 INFO naive.ReasonableBot| DAY 15 bid: 462 qs: 1.0548552446531194
+15/07 14:22:03 INFO naive.ReasonableBot| DAY 16 WON at cost 1.780983830156303
+15/07 14:22:03 INFO naive.ReasonableBot| DAY 16 bid: 231 qs: 1.1440921392927899
+15/07 14:22:50 INFO naive.ReasonableBot| DAY 17 bid: 369 qs: 1.1440921392927899
+15/07 14:23:46 INFO naive.ReasonableBot| DAY 18 bid: 147 qs: 1.058987066771956
+15/07 14:25:00 INFO naive.ReasonableBot| DAY 19 bid: 118 qs: 1.058987066771956
+15/07 14:36:57 SEVERE agentware.SimClient|************************************************************
+15/07 14:36:57 SEVERE agentware.SimClient|* Forced Simulation End
+15/07 14:36:57 SEVERE agentware.SimClient|* forcing simulation to end at time unit 62 (max 61 time units)
+15/07 14:36:57 SEVERE agentware.SimClient|************************************************************

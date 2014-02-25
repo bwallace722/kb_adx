@@ -1,0 +1,7 @@
+09/07 22:46:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+09/07 22:46:02 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 22:46:17 INFO naive.ReasonableBot|1 DAY 1 bid: 1293 qs: 1.0 ucs bid: 0.0 ucs level: 0.47829690000000014
+09/07 22:46:34 INFO naive.ReasonableBot|1 DAY 2 bid: 690 qs: 1.0 ucs bid: 0.0 ucs level: 0.47829690000000014
+09/07 22:46:39 INFO naive.ReasonableBot|1 DAY 3 bid: 828 qs: 1.0 ucs bid: 0.0 ucs level: 0.47829690000000014
+09/07 22:46:54 INFO naive.ReasonableBot|1 DAY 4 bid: 220 qs: 1.0 ucs bid: 0.0 ucs level: 0.47829690000000014
+09/07 22:47:25 INFO naive.ReasonableBot|1 DAY 5 bid: 529 qs: 1.0 ucs bid: 0.0 ucs level: 0.47829690000000014

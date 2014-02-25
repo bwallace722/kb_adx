@@ -1,0 +1,41 @@
+06/07 15:48:00 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc77fede
+06/07 15:49:03 INFO naive.ReasonableBot| WON at cost 0.032
+06/07 15:49:44 INFO naive.ReasonableBot|bid is now 18
+06/07 15:49:53 INFO naive.ReasonableBot|bid is now 21
+06/07 15:50:05 INFO naive.ReasonableBot|bid is now 24
+06/07 15:50:13 INFO naive.ReasonableBot|bid is now 28
+06/07 15:50:28 INFO naive.ReasonableBot|bid is now 33
+06/07 15:50:33 INFO naive.ReasonableBot|bid is now 39
+06/07 15:50:43 INFO naive.ReasonableBot|bid is now 46
+06/07 15:50:55 INFO naive.ReasonableBot|bid is now 54
+06/07 15:51:03 INFO naive.ReasonableBot|bid is now 64
+06/07 15:51:13 INFO naive.ReasonableBot|bid is now 76
+06/07 15:51:25 INFO naive.ReasonableBot|bid is now 90
+06/07 15:51:34 INFO naive.ReasonableBot|bid is now 108
+06/07 15:51:44 INFO naive.ReasonableBot|bid is now 129
+06/07 15:51:54 INFO naive.ReasonableBot|bid is now 154
+06/07 15:52:06 INFO naive.ReasonableBot|bid is now 184
+06/07 15:52:15 INFO naive.ReasonableBot|bid is now 220
+06/07 15:52:23 INFO naive.ReasonableBot|bid is now 264
+06/07 15:52:35 INFO naive.ReasonableBot|bid is now 316
+06/07 15:52:44 INFO naive.ReasonableBot|bid is now 378
+06/07 15:52:53 INFO naive.ReasonableBot|bid is now 453
+06/07 15:53:13 INFO naive.ReasonableBot|bid is now 543
+06/07 15:53:18 INFO naive.ReasonableBot|bid is now 651
+06/07 15:53:25 INFO naive.ReasonableBot| WON at cost 0.6512935028240255
+06/07 15:53:25 INFO naive.ReasonableBot|bid is now 976
+06/07 15:53:38 INFO naive.ReasonableBot|bid is now 1170
+06/07 15:53:48 INFO naive.ReasonableBot| WON at cost 1.1705274935547003
+06/07 15:53:48 INFO naive.ReasonableBot|bid is now 1755
+06/07 15:53:55 INFO naive.ReasonableBot|bid is now 2106
+06/07 15:54:06 INFO naive.ReasonableBot| WON at cost 2.10694948839846
+06/07 15:54:37 INFO naive.ReasonableBot| WON at cost 4.233081548622974
+06/07 15:55:25 INFO naive.ReasonableBot| WON at cost 2.3475598702194342
+06/07 15:55:37 INFO naive.ReasonableBot| WON at cost 0.790145473770213
+06/07 15:55:50 INFO naive.ReasonableBot| WON at cost 0.6321163790161705
+06/07 15:56:10 INFO naive.ReasonableBot| WON at cost 1.166979718744812
+06/07 15:56:28 INFO naive.ReasonableBot| WON at cost 0.7453337619720516
+06/07 15:56:35 INFO naive.ReasonableBot| WON at cost 0.6259262198319003
+06/07 15:56:54 INFO naive.ReasonableBot| WON at cost 0.3490396998665582
+06/07 15:57:15 INFO naive.ReasonableBot|bid is now 268
+06/07 15:57:24 INFO naive.ReasonableBot|bid is now 321

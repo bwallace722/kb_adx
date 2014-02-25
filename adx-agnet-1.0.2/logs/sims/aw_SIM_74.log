@@ -1,0 +1,33 @@
+06/07 16:14:00 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+06/07 16:14:13 INFO naive.ReasonableBot| WON at cost 0.517
+06/07 16:14:24 INFO naive.ReasonableBot| WON at cost 2.733
+06/07 16:14:35 INFO naive.ReasonableBot| WON at cost 3.683
+06/07 16:14:46 INFO naive.ReasonableBot| WON at cost 0.93
+06/07 16:14:56 INFO naive.ReasonableBot| WON at cost 1.356
+06/07 16:15:07 INFO naive.ReasonableBot| WON at cost 0.4580000000000001
+06/07 16:15:17 INFO naive.ReasonableBot| WON at cost 1.6272719207369406
+06/07 16:15:25 INFO naive.ReasonableBot| WON at cost 1.7093292121456036
+06/07 16:15:36 INFO naive.ReasonableBot| WON at cost 0.1261596219851183
+06/07 16:15:45 INFO naive.ReasonableBot| WON at cost 0.22545453017366623
+06/07 16:15:55 INFO naive.ReasonableBot| WON at cost 5.019680906461876
+06/07 16:16:04 INFO naive.ReasonableBot| WON at cost 1.4211656692506456
+06/07 16:16:16 INFO naive.ReasonableBot| WON at cost 0.37134317735342753
+06/07 16:16:16 INFO naive.ReasonableBot|bid is now 150
+06/07 16:16:25 INFO naive.ReasonableBot| WON at cost 0.9121050447450507
+06/07 16:16:25 INFO naive.ReasonableBot|bid is now 225
+06/07 16:16:34 INFO naive.ReasonableBot| WON at cost 2.768882146654474
+06/07 16:16:44 INFO naive.ReasonableBot| WON at cost 0.37663372422590036
+06/07 16:16:44 INFO naive.ReasonableBot|bid is now 337
+06/07 16:16:56 INFO naive.ReasonableBot| WON at cost 1.38062980374331
+06/07 16:17:07 INFO naive.ReasonableBot| WON at cost 2.0951312567906792
+06/07 16:17:16 INFO naive.ReasonableBot| WON at cost 0.6760412860720344
+06/07 16:17:39 INFO naive.ReasonableBot| WON at cost 2.7534699391357615
+06/07 16:17:41 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+06/07 16:17:41 SEVERE agentware.SimClient|************************************************************
+06/07 16:17:41 SEVERE agentware.SimClient|* Connection Lost
+06/07 16:17:41 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+06/07 16:17:41 SEVERE agentware.SimClient|************************************************************

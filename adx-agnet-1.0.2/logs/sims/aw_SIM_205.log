@@ -1,0 +1,23 @@
+15/07 13:38:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+15/07 13:38:01 INFO naive.ReasonableBot|2 DAY 0 bid: 512 qs: 0.0
+15/07 13:38:18 INFO naive.ReasonableBot|2 DAY 1 WON at cost 5.0
+15/07 13:38:18 INFO naive.ReasonableBot|2 DAY 1 bid: 1025 qs: 1.0
+15/07 13:38:22 INFO naive.ReasonableBot|2 DAY 2 WON at cost 10.0
+15/07 13:38:22 INFO naive.ReasonableBot|2 DAY 2 bid: 1025 qs: 1.0
+15/07 13:38:42 INFO naive.ReasonableBot|2 DAY 3 WON at cost 10.0
+15/07 13:38:42 INFO naive.ReasonableBot|2 DAY 3 bid: 1538 qs: 1.0
+15/07 13:38:46 INFO naive.ReasonableBot|2 DAY 4 bid: 820 qs: 1.0
+15/07 13:39:14 INFO naive.ReasonableBot|2 DAY 5 WON at cost 10.0
+15/07 13:39:14 INFO naive.ReasonableBot|2 DAY 5 bid: 410 qs: 1.0
+15/07 13:39:42 INFO naive.ReasonableBot|2 DAY 6 bid: 348 qs: 1.0963819886879953
+15/07 13:40:09 INFO naive.ReasonableBot|2 DAY 7 bid: 298 qs: 1.038709360065843
+15/07 13:40:19 INFO naive.ReasonableBot|2 DAY 8 bid: 1165 qs: 0.7787303282259155
+15/07 13:40:42 SEVERE agentware.ServerConnection|(2) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+15/07 13:40:42 SEVERE agentware.SimClient|************************************************************
+15/07 13:40:42 SEVERE agentware.SimClient|* Connection Lost
+15/07 13:40:42 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+15/07 13:40:42 SEVERE agentware.SimClient|************************************************************

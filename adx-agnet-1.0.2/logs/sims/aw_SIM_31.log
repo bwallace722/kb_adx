@@ -1,0 +1,35 @@
+04/07 23:39:22 INFO agentware.SimClient|next simulation 31 has already started
+04/07 23:39:22 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+04/07 23:39:31 INFO naive.NaiveAgent|Day 0 :BankStatus[-1.727621]
+04/07 23:39:31 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 2120639305
+04/07 23:39:31 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+04/07 23:39:31 INFO naive.NaiveAgent|Day 21: Campaign opportunity - Campaign ID 1955457069: day 23 to 25 [OLD, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+04/07 23:39:31 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+04/07 23:39:31 INFO naive.NaiveAgent|Day 21: Campaign total budget bid: 0.0010
+04/07 23:39:31 INFO naive.NaiveAgent|Day 21: Adjusting ucs bid: was 0.16781225511750036 level reported: 0.47829690000000014 target: 0.6 adjusted: 0.1323105655597987
+04/07 23:39:31 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+04/07 23:39:31 INFO naive.NaiveAgent|Day 21 : Simulation Status Received
+04/07 23:39:31 INFO naive.NaiveAgent|Day 21: Sending BidBundle
+04/07 23:39:31 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+04/07 23:39:41 INFO naive.NaiveAgent|Day 21 :BankStatus[-1.829974]
+04/07 23:39:41 INFO naive.NaiveAgent|Day 21: Daily notification for campaign 1955457069
+04/07 23:39:41 INFO naive.NaiveAgent|Day 21:  allocated to DummyAdnetwork-3. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+04/07 23:39:41 INFO naive.NaiveAgent|Day 22: Campaign opportunity - Campaign ID 1329768351: day 24 to 28 [OLD, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+04/07 23:39:41 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+04/07 23:39:41 INFO naive.NaiveAgent|Day 22: Campaign total budget bid: 0.0010
+04/07 23:39:41 INFO naive.NaiveAgent|Day 22: Adjusting ucs bid: was 0.1323105655597987 level reported: 0.47829690000000014 target: 0.6 adjusted: 0.14841317155117942
+04/07 23:39:41 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+04/07 23:39:41 INFO naive.NaiveAgent|Day 22 : Simulation Status Received
+04/07 23:39:41 INFO naive.NaiveAgent|Day 22: Sending BidBundle
+04/07 23:39:41 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+04/07 23:39:52 INFO naive.NaiveAgent|Day 22 :BankStatus[-1.921029]
+04/07 23:39:52 INFO naive.NaiveAgent|Day 22: Daily notification for campaign 1329768351
+04/07 23:39:52 INFO naive.NaiveAgent|Day 22:  allocated to DummyAdnetwork. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+04/07 23:39:52 INFO naive.NaiveAgent|Day 23: Campaign opportunity - Campaign ID 983157357: day 25 to 29 [LOW_INCOME, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+04/07 23:39:52 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+04/07 23:39:52 INFO naive.NaiveAgent|Day 23: Campaign total budget bid: 0.0010
+04/07 23:39:52 INFO naive.NaiveAgent|Day 23: Adjusting ucs bid: was 0.14841317155117942 level reported: 0.47829690000000014 target: 0.6 adjusted: 0.10083363434713835
+04/07 23:39:52 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+04/07 23:39:52 INFO naive.NaiveAgent|Day 23 : Simulation Status Received
+04/07 23:39:52 INFO naive.NaiveAgent|Day 23: Sending BidBundle
+04/07 23:39:52 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver

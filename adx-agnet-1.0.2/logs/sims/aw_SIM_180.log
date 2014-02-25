@@ -1,0 +1,35 @@
+14/07 00:58:01 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+14/07 00:58:01 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 00:58:01 INFO agents.BrownAgent|tau.tac.adx.report.demand.InitialCampaignMessage[945282069,1250,1,5,[MALE, HIGH_INCOME],2.0,1.5,demand,[]]
+14/07 00:58:01 INFO agents.BrownAgent|Day 0: Allocated campaign - Campaign ID 945282069: day 1 to 5 [MALE, HIGH_INCOME], reach: 1250 coefs: (v=2.0, m=1.5)
+14/07 00:58:01 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.InitialCampaignMessage[945282069,1250,1,5,[MALE, HIGH_INCOME],2.0,1.5,demand,[]]]
+14/07 00:58:01 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[372491238,10000,2,4,[FEMALE, HIGH_INCOME],2.0,1.5,0,[]]]
+14/07 00:58:01 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 00:58:01 INFO agents.BrownAgent|the bid bundle was null
+14/07 00:58:01 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[0,1608,false,[]]]
+14/07 00:58:15 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 00:58:15 INFO agents.BrownAgent|Day 0: Daily notification for campaign 372491238
+14/07 00:58:15 INFO agents.BrownAgent|about to update modeler
+14/07 00:58:15 INFO agents.BrownAgent|Day 0:  allocated to DummyAdnetwork-7. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:58:15 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[802278903,5000,3,12,[OLD, LOW_INCOME],2.0,1.5,1,[]]]
+14/07 00:58:15 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 00:58:15 INFO agents.BrownAgent|the bid bundle was null
+14/07 00:58:15 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[1,5284,false,[]]]
+14/07 00:58:23 INFO agents.BrownAgent|Day 1 :BankStatus[-0.079045]
+14/07 00:58:23 INFO agents.BrownAgent|Day 1: Updating campaign 945282069 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 00:58:23 INFO agents.BrownAgent|Day 1: Daily notification for campaign 802278903
+14/07 00:58:23 INFO agents.BrownAgent|about to update modeler
+14/07 00:58:23 INFO agents.BrownAgent|Day 1:  allocated to DummyAdnetwork-5. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:58:23 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1411775651,10000,4,6,[OLD, LOW_INCOME],2.0,1.5,2,[]]]
+14/07 00:58:23 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 00:58:23 INFO agents.BrownAgent|the bid bundle was null
+14/07 00:58:23 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[2,3698,false,[]]]
+14/07 00:58:33 INFO agents.BrownAgent|Day 2 :BankStatus[-0.168606]
+14/07 00:58:33 INFO agents.BrownAgent|Day 2: Updating campaign 945282069 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 00:58:33 INFO agents.BrownAgent|Day 2: Daily notification for campaign 1411775651
+14/07 00:58:33 INFO agents.BrownAgent|about to update modeler
+14/07 00:58:33 INFO agents.BrownAgent|Day 2:  allocated to DummyAdnetwork. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:58:33 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1421912515,15000,5,7,[FEMALE, YOUNG],2.0,1.5,3,[]]]
+14/07 00:58:33 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 00:58:33 INFO agents.BrownAgent|the bid bundle was null
+14/07 00:58:33 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[3,3569,false,[]]]

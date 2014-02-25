@@ -1,0 +1,13 @@
+09/07 14:55:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+09/07 14:55:02 INFO naive.ReasonableBot|2 DAY 0 bid: 528 qs: 0.0
+09/07 14:55:19 INFO naive.ReasonableBot|2 DAY 1 bid: 845 qs: 1.0
+09/07 14:55:24 INFO naive.ReasonableBot|2 DAY 2 bid: 338 qs: 1.0
+09/07 14:55:35 INFO naive.ReasonableBot|2 DAY 3 bid: 541 qs: 1.0
+09/07 14:55:45 INFO naive.ReasonableBot|2 DAY 4 bid: 649 qs: 1.0
+09/07 14:55:55 INFO naive.ReasonableBot|2 DAY 5 WON at cost 0.6529999999999999
+09/07 14:55:55 INFO naive.ReasonableBot|2 DAY 5 bid: 216 qs: 1.0
+09/07 15:06:17 INFO naive.ReasonableBot|2 DAY 6 bid: 346 qs: 1.0589893995414559
+09/07 15:06:20 SEVERE agentware.SimClient|************************************************************
+09/07 15:06:20 SEVERE agentware.SimClient|* Forced Simulation End
+09/07 15:06:20 SEVERE agentware.SimClient|* forcing simulation to end at time unit 62 (max 61 time units)
+09/07 15:06:20 SEVERE agentware.SimClient|************************************************************

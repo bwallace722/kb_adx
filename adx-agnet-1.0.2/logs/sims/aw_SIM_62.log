@@ -1,0 +1,79 @@
+06/07 05:04:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+06/07 05:04:01 INFO naive.ReasonableBot|Day 0 :BankStatus[0.000000]
+06/07 05:04:01 INFO naive.ReasonableBot|tau.tac.adx.report.demand.InitialCampaignMessage[1397120162,1250,1,5,[LOW_INCOME, MALE],2.0,1.5,demand,[]]
+06/07 05:04:01 INFO naive.ReasonableBot|Day 0: Allocated campaign - Campaign ID 1397120162: day 1 to 5 [LOW_INCOME, MALE], reach: 1250 coefs: (v=2.0, m=1.5)
+06/07 05:04:01 INFO naive.ReasonableBot|Day 0: Campaign opportunity - Campaign ID 54697201: day 2 to 4 [YOUNG, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:04:01 INFO naive.ReasonableBot|Day 0: Initial ucs bid is 0.0
+06/07 05:04:01 INFO naive.ReasonableBot|Actually bidding -6155996688842646397
+06/07 05:04:01 INFO naive.ReasonableBot|Day 0 : Simulation Status Received
+06/07 05:04:01 INFO naive.ReasonableBot|Day 0: Sending BidBundle
+06/07 05:04:02 INFO naive.ReasonableBot|Day 0 ended. Starting next day
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1 :BankStatus[0.000000]
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1: Daily notification for campaign 54697201
+06/07 05:04:13 INFO naive.ReasonableBot|campaign was NOT won. new bid:-4924797351074117632
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1:  allocated to DummyAdnetwork. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1: Campaign opportunity - Campaign ID 1720095856: day 3 to 5 [MALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 1.0 adjusted: 0.0
+06/07 05:04:13 INFO naive.ReasonableBot|Actually bidding -4924797351074117632
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1 : AdNetworkReport
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1 : Simulation Status Received
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1: Sending BidBundle
+06/07 05:04:13 INFO naive.ReasonableBot|Day 1 ended. Starting next day
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2 :BankStatus[-0.086811]
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2: Updating campaign 1397120162 stats: 625.5 tgtImps 0.0 nonTgtImps. Cost of imps is 3.6737202738540886E-4
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2: Daily notification for campaign 1720095856
+06/07 05:04:23 INFO naive.ReasonableBot|campaign was NOT won. new bid:-3939837880859294208
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2:  allocated to DummyAdnetwork-7. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2: Campaign opportunity - Campaign ID 488236813: day 4 to 13 [YOUNG, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 1.0 adjusted: 0.0
+06/07 05:04:23 INFO naive.ReasonableBot|Actually bidding -3939837880859294208
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2 : AdNetworkReport
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2 : Simulation Status Received
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2: Sending BidBundle
+06/07 05:04:23 INFO naive.ReasonableBot|Day 2 ended. Starting next day
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3 :BankStatus[-0.167136]
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3: Updating campaign 1397120162 stats: 1251.0 tgtImps 2733.0 nonTgtImps. Cost of imps is 0.0019026064365585578
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3: Daily notification for campaign 488236813
+06/07 05:04:35 INFO naive.ReasonableBot|campaign was NOT won. new bid:-3151870304687435776
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3:  allocated to DummyAdnetwork-2. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3: Campaign opportunity - Campaign ID 456491484: day 5 to 9 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 1.0 adjusted: 0.0
+06/07 05:04:35 INFO naive.ReasonableBot|Actually bidding -3151870304687435776
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3 : AdNetworkReport
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3 : Simulation Status Received
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3: Sending BidBundle
+06/07 05:04:35 INFO naive.ReasonableBot|Day 3 ended. Starting next day
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4 :BankStatus[-0.246848]
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4: Updating campaign 1397120162 stats: 1565.5 tgtImps 2845.0 nonTgtImps. Cost of imps is 0.002154964732679335
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4: Daily notification for campaign 456491484
+06/07 05:04:45 INFO naive.ReasonableBot|campaign was NOT won. new bid:-2521496243749948928
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4:  allocated to DummyAdnetwork-4. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4: Campaign opportunity - Campaign ID 1998380009: day 6 to 10 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 1.0 adjusted: 0.0
+06/07 05:04:45 INFO naive.ReasonableBot|Actually bidding -2521496243749948928
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4 : AdNetworkReport
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4 : Simulation Status Received
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4: Sending BidBundle
+06/07 05:04:45 INFO naive.ReasonableBot|Day 4 ended. Starting next day
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5 :BankStatus[-0.330314]
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5: Updating campaign 1397120162 stats: 1568.5 tgtImps 3495.5 nonTgtImps. Cost of imps is 0.0026742745574823788
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5: Daily notification for campaign 1998380009
+06/07 05:04:53 INFO naive.ReasonableBot|campaign was NOT won. new bid:-2017196994999959296
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5:  allocated to DummyAdnetwork-5. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5: Campaign opportunity - Campaign ID 1506848993: day 7 to 16 [OLD, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 1.0 adjusted: 0.0
+06/07 05:04:53 INFO naive.ReasonableBot|Actually bidding -2017196994999959296
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5 : AdNetworkReport
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5 : Simulation Status Received
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5: Sending BidBundle
+06/07 05:04:53 INFO naive.ReasonableBot|Day 5 ended. Starting next day
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6 :BankStatus[-0.414263]
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6: Daily notification for campaign 1506848993
+06/07 05:05:05 INFO naive.ReasonableBot|campaign was NOT won. new bid:-1613757595999967488
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6:  allocated to DummyAdnetwork-3. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0974034275573907
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6: Campaign opportunity - Campaign ID 7085264: day 8 to 17 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 1.0 adjusted: 0.0
+06/07 05:05:05 INFO naive.ReasonableBot|Actually bidding -1613757595999967488
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6 : Simulation Status Received
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6: Sending BidBundle
+06/07 05:05:05 INFO naive.ReasonableBot|Day 6 ended. Starting next day

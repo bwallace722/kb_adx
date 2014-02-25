@@ -1,0 +1,4 @@
+15/07 13:26:01 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+15/07 13:26:01 INFO agents.BrownAgent|BrownAgent DAY 0 bid: 1000
+15/07 13:26:01 INFO agents.BrownAgent|urgency:0.8
+15/07 13:26:14 INFO agents.BrownAgent|BrownAgent DAY 1 bid: 800

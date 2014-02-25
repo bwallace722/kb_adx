@@ -1,0 +1,18 @@
+25/02 11:00:43 INFO file.FileDatabase|infodb: database opened as /Users/Brendan/Code/adx/adx-server-1.0.2/infodb
+25/02 11:00:43 INFO common.BlockingViewerServer|viewer server started at *:4042
+25/02 16:00:47 INFO sim.Admin|adding manager for simulation type tac13adx
+25/02 16:00:47 INFO server.TACTGateway|TACT Server started at *:6502
+25/02 16:01:07 INFO server.TACTChannel|user Agent1 logged in as Agent1@tact-1 with version 0.9.6 from 127.0.0.1
+25/02 16:01:07 INFO sim.Admin|created simulation 227
+25/02 16:01:09 INFO server.TACTChannel|user Agent3 logged in as Agent3@tact-2 with version 0.9.6 from 127.0.0.1
+25/02 16:01:10 INFO server.TACTChannel|user Agent4 logged in as Agent4@tact-3 with version 0.9.6 from 127.0.0.1
+25/02 16:01:10 INFO server.TACTChannel|user Agent5 logged in as Agent5@tact-4 with version 0.9.6 from 127.0.0.1
+25/02 16:01:11 INFO server.TACTChannel|user Agent6 logged in as Agent6@tact-5 with version 0.9.6 from 127.0.0.1
+25/02 16:01:11 INFO server.TACTChannel|user Agent7 logged in as Agent7@tact-6 with version 0.9.6 from 127.0.0.1
+25/02 16:01:11 INFO server.TACTChannel|user Agent8 logged in as Agent8@tact-7 with version 0.9.6 from 127.0.0.1
+25/02 16:02:00 FINE sim.Admin|Entering log for simulation 215
+************************************************************
+* Entering log for simulation 215
+************************************************************
+
+

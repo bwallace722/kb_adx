@@ -1,0 +1,51 @@
+14/07 00:35:02 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+14/07 00:35:02 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 00:35:02 INFO agents.BrownAgent|tau.tac.adx.report.demand.InitialCampaignMessage[1288809736,1250,1,5,[FEMALE, OLD],2.0,1.5,demand,[]]
+14/07 00:35:02 INFO agents.BrownAgent|Day 0: Allocated campaign - Campaign ID 1288809736: day 1 to 5 [FEMALE, OLD], reach: 1250 coefs: (v=2.0, m=1.5)
+14/07 00:35:02 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.InitialCampaignMessage[1288809736,1250,1,5,[FEMALE, OLD],2.0,1.5,demand,[]]]
+14/07 00:35:02 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[464425887,10000,2,6,[LOW_INCOME, OLD],2.0,1.5,0,[]]]
+14/07 00:35:02 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[0,2465,false,[]]]
+14/07 00:35:14 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 00:35:14 INFO agents.BrownAgent|Day 0: Daily notification for campaign 464425887
+14/07 00:35:14 INFO agents.BrownAgent|Day 0:  allocated to DummyAdnetwork. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:35:14 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1069969095,5000,3,12,[HIGH_INCOME, MALE],2.0,1.5,1,[]]]
+14/07 00:35:14 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[1,4051,false,[]]]
+14/07 00:35:24 INFO agents.BrownAgent|Day 1 :BankStatus[-0.082178]
+14/07 00:35:24 INFO agents.BrownAgent|Day 1: Updating campaign 1288809736 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 00:35:24 INFO agents.BrownAgent|Day 1: Daily notification for campaign 1069969095
+14/07 00:35:24 INFO agents.BrownAgent|Day 1:  allocated to DummyAdnetwork. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:35:24 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[2006438277,10000,4,6,[MALE, LOW_INCOME],2.0,1.5,2,[]]]
+14/07 00:35:24 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[2,4068,false,[]]]
+14/07 00:35:39 INFO agents.BrownAgent|Day 2 :BankStatus[-0.177171]
+14/07 00:35:39 INFO agents.BrownAgent|Day 2: Updating campaign 1288809736 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 00:35:39 INFO agents.BrownAgent|Day 2: Daily notification for campaign 2006438277
+14/07 00:35:39 INFO agents.BrownAgent|Day 2:  allocated to DummyAdnetwork-5. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:35:39 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1318534941,5000,5,14,[HIGH_INCOME, FEMALE],2.0,1.5,3,[]]]
+14/07 00:35:39 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[3,9739,false,[]]]
+14/07 00:35:45 INFO agents.BrownAgent|Day 3 :BankStatus[-0.282438]
+14/07 00:35:45 INFO agents.BrownAgent|Day 3: Updating campaign 1288809736 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 00:35:45 INFO agents.BrownAgent|Day 3: Daily notification for campaign 1318534941
+14/07 00:35:45 INFO agents.BrownAgent|Day 3:  allocated to DummyAdnetwork-6. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:35:45 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1507417279,15000,6,8,[LOW_INCOME, FEMALE],2.0,1.5,4,[]]]
+14/07 00:35:45 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[4,5140,false,[]]]
+14/07 00:35:53 INFO agents.BrownAgent|Day 4 :BankStatus[-0.375839]
+14/07 00:35:53 INFO agents.BrownAgent|Day 4: Updating campaign 1288809736 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 00:35:53 INFO agents.BrownAgent|Day 4: Daily notification for campaign 1507417279
+14/07 00:35:53 INFO agents.BrownAgent|Day 4:  allocated to DummyAdnetwork-4. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 1.0
+14/07 00:35:53 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[958577119,5000,7,9,[YOUNG, FEMALE],2.0,1.5,5,[]]]
+14/07 00:35:53 INFO agents.BrownAgent|Day 5 ended. Starting next day
+14/07 00:36:03 INFO agents.BrownAgent|Day 6 :BankStatus[-0.458267]
+14/07 00:36:03 INFO agents.BrownAgent|Day 6: Daily notification for campaign 958577119
+14/07 00:36:03 INFO agents.BrownAgent|Day 6:  allocated to DummyAdnetwork-2. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+14/07 00:36:03 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[299764478,10000,8,17,[MALE, YOUNG],2.0,1.5,6,[]]]
+14/07 00:36:03 INFO agents.BrownAgent|Day 6 ended. Starting next day
+14/07 00:36:13 INFO agents.BrownAgent|Day 7 :BankStatus[-0.552837]
+14/07 00:36:13 INFO agents.BrownAgent|Day 7: Daily notification for campaign 299764478
+14/07 00:36:13 INFO agents.BrownAgent|Day 7:  allocated to DummyAdnetwork-4. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+14/07 00:36:13 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1062130654,5000,9,11,[MALE, OLD],2.0,1.5,7,[]]]
+14/07 00:36:13 INFO agents.BrownAgent|Day 7 ended. Starting next day
+14/07 00:36:23 INFO agents.BrownAgent|Day 8 :BankStatus[-0.651558]
+14/07 00:36:23 INFO agents.BrownAgent|Day 8: Daily notification for campaign 1062130654
+14/07 00:36:23 INFO agents.BrownAgent|Day 8:  allocated to DummyAdnetwork-3. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+14/07 00:36:23 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[139331011,5000,10,12,[LOW_INCOME, OLD],2.0,1.5,8,[]]]
+14/07 00:36:24 INFO agents.BrownAgent|Day 8 ended. Starting next day

@@ -1,0 +1,86 @@
+09/07 15:15:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+09/07 15:15:02 INFO naive.ReasonableBot|2 DAY 0 bid: 3100 qs: 0.0
+09/07 15:15:09 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:09 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+09/07 15:15:09 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent Agent2@127.0.0.1.
+09/07 15:15:09 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:09 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+09/07 15:15:09 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:09 SEVERE agentware.SimClient|* Connection Lost
+09/07 15:15:09 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+09/07 15:15:09 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:18 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc778a7f
+09/07 15:15:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 15:15:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 15:15:22 INFO naive.ReasonableBot|3 DAY 2 bid: 4506 qs: 0.0
+09/07 15:15:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:15:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:15:32 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 15:15:32 INFO naive.ReasonableBot|3 DAY 3 bid: 3604 qs: 1.0
+09/07 15:15:32 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:15:32 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:15:39 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:39 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+09/07 15:15:39 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent Agent3@127.0.0.1.
+09/07 15:15:39 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:39 SEVERE agentware.ServerConnection|(2) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+09/07 15:15:39 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:39 SEVERE agentware.SimClient|* Connection Lost
+09/07 15:15:39 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+09/07 15:15:39 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:42 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc77fede
+09/07 15:15:51 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 15:15:51 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 15:15:51 INFO naive.ReasonableBot|4 DAY 5 bid: 4035 qs: 0.0
+09/07 15:15:51 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:15:51 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:01 INFO naive.ReasonableBot|4 DAY 6 bid: 4842 qs: 0.5329262045750683
+09/07 15:16:01 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:01 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:10 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:10 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+09/07 15:16:10 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent Agent4@127.0.0.1.
+09/07 15:16:10 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:10 SEVERE agentware.ServerConnection|(2) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+09/07 15:16:10 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:10 SEVERE agentware.SimClient|* Connection Lost
+09/07 15:16:10 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+09/07 15:16:10 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:12 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+09/07 15:16:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException
+09/07 15:16:22 INFO naive.ReasonableBot|1 DAY 8 bid: 511 qs: 0.0
+09/07 15:16:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:22 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:32 INFO naive.ReasonableBot|1 DAY 9 bid: 818 qs: 0.21317048183002735
+09/07 15:16:32 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:32 SEVERE naive.ReasonableBot|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+09/07 15:16:38 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:38 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+09/07 15:16:38 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent Agent1@127.0.0.1.
+09/07 15:16:38 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:38 SEVERE agentware.ServerConnection|(3) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+09/07 15:16:38 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:38 SEVERE agentware.SimClient|* Connection Lost
+09/07 15:16:38 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+09/07 15:16:38 SEVERE agentware.SimClient|************************************************************
+09/07 15:16:42 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc778a7f

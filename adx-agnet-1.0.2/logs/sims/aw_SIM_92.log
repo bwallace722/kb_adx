@@ -1,0 +1,97 @@
+07/07 18:02:02 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 18:02:02 INFO naive.ReasonableBot|DAY 0 Actually bidding 4949
+07/07 18:02:14 INFO naive.ReasonableBot|DAY 1 Actually bidding 3959
+07/07 18:02:23 INFO naive.ReasonableBot|DAY 2 Actually bidding 4751
+07/07 18:02:31 INFO naive.ReasonableBot|DAY 3 Actually bidding 3801
+07/07 18:02:42 INFO naive.ReasonableBot|DAY 4 Actually bidding 1013
+07/07 18:02:52 INFO naive.ReasonableBot|DAY 5 Actually bidding 1621
+07/07 18:03:02 INFO naive.ReasonableBot|DAY 6 Actually bidding 648
+07/07 18:03:11 INFO naive.ReasonableBot|DAY 7 WON at cost 0.9399565519945636
+07/07 18:03:11 INFO naive.ReasonableBot|DAY 7 Actually bidding 1297
+07/07 18:03:23 INFO naive.ReasonableBot|DAY 8 WON at cost 2.8508741014472525
+07/07 18:03:23 INFO naive.ReasonableBot|DAY 8 Actually bidding 648
+07/07 18:03:32 INFO naive.ReasonableBot|DAY 9 WON at cost 2.4523938361684396
+07/07 18:03:32 INFO naive.ReasonableBot|DAY 9 Actually bidding 1297
+07/07 18:03:42 INFO naive.ReasonableBot|DAY 10 WON at cost 4.304168135240929
+07/07 18:03:42 INFO naive.ReasonableBot|DAY 10 Actually bidding 1946
+07/07 18:03:54 INFO naive.ReasonableBot|DAY 11 WON at cost 4.030695715131015
+07/07 18:03:54 INFO naive.ReasonableBot|DAY 11 Actually bidding 648
+07/07 18:04:03 INFO naive.ReasonableBot|DAY 12 WON at cost 1.9309511677173947
+07/07 18:04:03 INFO naive.ReasonableBot|DAY 12 Actually bidding 1946
+07/07 18:04:12 INFO naive.ReasonableBot|DAY 13 Actually bidding 1037
+07/07 18:04:29 INFO naive.ReasonableBot|DAY 14 Actually bidding 830
+07/07 18:04:36 INFO naive.ReasonableBot|DAY 15 WON at cost 1.7878563023960605
+07/07 18:04:36 INFO naive.ReasonableBot|DAY 15 Actually bidding 1245
+07/07 18:04:44 INFO naive.ReasonableBot|DAY 16 WON at cost 2.604407070366302
+07/07 18:04:44 INFO naive.ReasonableBot|DAY 16 Actually bidding 1245
+07/07 18:04:52 INFO naive.ReasonableBot|DAY 17 Actually bidding 664
+07/07 18:05:03 INFO naive.ReasonableBot|DAY 18 Actually bidding 531
+07/07 18:05:12 INFO naive.ReasonableBot|DAY 19 WON at cost 1.17954539067567
+07/07 18:05:12 INFO naive.ReasonableBot|DAY 19 Actually bidding 531
+07/07 18:05:22 INFO naive.ReasonableBot|DAY 20 WON at cost 2.7613221788789106
+07/07 18:05:22 INFO naive.ReasonableBot|DAY 20 Actually bidding 531
+07/07 18:05:32 INFO naive.ReasonableBot|DAY 21 WON at cost 2.9286776386742455
+07/07 18:05:32 INFO naive.ReasonableBot|DAY 21 Actually bidding 797
+07/07 18:05:42 INFO naive.ReasonableBot|DAY 22 WON at cost 2.4235103977912544
+07/07 18:05:42 INFO naive.ReasonableBot|DAY 22 Actually bidding 531
+07/07 18:05:54 INFO naive.ReasonableBot|DAY 23 WON at cost 2.6359136918092556
+07/07 18:05:54 INFO naive.ReasonableBot|DAY 23 Actually bidding 265
+07/07 18:06:03 INFO naive.ReasonableBot|DAY 24 WON at cost 0.9761269059135894
+07/07 18:06:03 INFO naive.ReasonableBot|DAY 24 Actually bidding 531
+07/07 18:06:12 INFO naive.ReasonableBot|DAY 25 WON at cost 1.3511035128465676
+07/07 18:06:12 INFO naive.ReasonableBot|DAY 25 Actually bidding 265
+07/07 18:06:23 INFO naive.ReasonableBot|DAY 26 WON at cost 1.3942771919036472
+07/07 18:06:23 INFO naive.ReasonableBot|DAY 26 Actually bidding 531
+07/07 18:06:32 INFO naive.ReasonableBot|DAY 27 WON at cost 2.6827579162385806
+07/07 18:06:32 INFO naive.ReasonableBot|DAY 27 Actually bidding 265
+07/07 18:06:42 INFO naive.ReasonableBot|DAY 28 Actually bidding 637
+07/07 18:06:52 INFO naive.ReasonableBot|DAY 29 WON at cost 1.6827151160753506
+07/07 18:06:52 INFO naive.ReasonableBot|DAY 29 Actually bidding 212
+07/07 18:07:03 INFO naive.ReasonableBot|DAY 30 WON at cost 1.6098335892290798
+07/07 18:07:03 INFO naive.ReasonableBot|DAY 30 Actually bidding 425
+07/07 18:07:13 INFO naive.ReasonableBot|DAY 31 WON at cost 2.4265394044899997
+07/07 18:07:13 INFO naive.ReasonableBot|DAY 31 Actually bidding 212
+07/07 18:07:25 INFO naive.ReasonableBot|DAY 32 WON at cost 1.077321934340169
+07/07 18:07:25 INFO naive.ReasonableBot|DAY 32 Actually bidding 212
+07/07 18:07:34 INFO naive.ReasonableBot|DAY 33 WON at cost 2.1646091603151056
+07/07 18:07:34 INFO naive.ReasonableBot|DAY 33 Actually bidding 637
+07/07 18:07:44 INFO naive.ReasonableBot|DAY 34 WON at cost 1.5346122277881151
+07/07 18:07:44 INFO naive.ReasonableBot|DAY 34 Actually bidding 212
+07/07 18:07:58 INFO naive.ReasonableBot|DAY 35 WON at cost 0.8586263952283495
+07/07 18:07:58 INFO naive.ReasonableBot|DAY 35 Actually bidding 425
+07/07 18:08:02 INFO naive.ReasonableBot|DAY 36 WON at cost 2.5395017875818358
+07/07 18:08:02 INFO naive.ReasonableBot|DAY 36 Actually bidding 637
+07/07 18:08:13 INFO naive.ReasonableBot|DAY 37 WON at cost 2.7411072450397675
+07/07 18:08:13 INFO naive.ReasonableBot|DAY 37 Actually bidding 637
+07/07 18:08:23 INFO naive.ReasonableBot|DAY 38 WON at cost 8.185132666540397
+07/07 18:08:23 INFO naive.ReasonableBot|DAY 38 Actually bidding 637
+07/07 18:08:34 INFO naive.ReasonableBot|DAY 39 Actually bidding 340
+07/07 18:08:43 INFO naive.ReasonableBot|DAY 40 WON at cost 0.7388088615028748
+07/07 18:08:43 INFO naive.ReasonableBot|DAY 40 Actually bidding 170
+07/07 18:08:57 INFO naive.ReasonableBot|DAY 41 WON at cost 0.7129909772494227
+07/07 18:08:57 INFO naive.ReasonableBot|DAY 41 Actually bidding 170
+07/07 18:09:03 INFO naive.ReasonableBot|DAY 42 WON at cost 0.5486409866617044
+07/07 18:09:03 INFO naive.ReasonableBot|DAY 42 Actually bidding 340
+07/07 18:09:13 INFO naive.ReasonableBot|DAY 43 WON at cost 8.020951620602172
+07/07 18:09:13 INFO naive.ReasonableBot|DAY 43 Actually bidding 340
+07/07 18:09:22 INFO naive.ReasonableBot|DAY 44 WON at cost 1.9427239958042621
+07/07 18:09:22 INFO naive.ReasonableBot|DAY 44 Actually bidding 510
+07/07 18:09:32 INFO naive.ReasonableBot|DAY 45 WON at cost 1.8225134548560935
+07/07 18:09:32 INFO naive.ReasonableBot|DAY 45 Actually bidding 170
+07/07 18:09:42 INFO naive.ReasonableBot|DAY 46 WON at cost 0.8284332408172822
+07/07 18:09:42 INFO naive.ReasonableBot|DAY 46 Actually bidding 170
+07/07 18:09:53 INFO naive.ReasonableBot|DAY 47 WON at cost 0.8466527976999825
+07/07 18:09:53 INFO naive.ReasonableBot|DAY 47 Actually bidding 170
+07/07 18:10:03 INFO naive.ReasonableBot|DAY 48 WON at cost 1.8162434423563156
+07/07 18:10:03 INFO naive.ReasonableBot|DAY 48 Actually bidding 340
+07/07 18:10:12 INFO naive.ReasonableBot|DAY 49 WON at cost 1.4309006517555931
+07/07 18:10:12 INFO naive.ReasonableBot|DAY 49 Actually bidding 510
+07/07 18:10:24 INFO naive.ReasonableBot|DAY 50 WON at cost 0.6044915333740627
+07/07 18:10:34 INFO naive.ReasonableBot|DAY 51 Actually bidding 408
+07/07 18:10:47 INFO naive.ReasonableBot|DAY 52 Actually bidding 326
+07/07 18:11:01 INFO naive.ReasonableBot|DAY 53 WON at cost 2.498049684388536
+07/07 18:11:01 INFO naive.ReasonableBot|DAY 53 Actually bidding 217
+07/07 18:12:20 SEVERE agentware.SimClient|************************************************************
+07/07 18:12:20 SEVERE agentware.SimClient|* Forced Simulation End
+07/07 18:12:20 SEVERE agentware.SimClient|* forcing simulation to end at time unit 62 (max 61 time units)
+07/07 18:12:20 SEVERE agentware.SimClient|************************************************************

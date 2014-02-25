@@ -1,0 +1,409 @@
+06/07 05:06:02 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0 :BankStatus[0.000000]
+06/07 05:06:02 INFO naive.ReasonableBot|tau.tac.adx.report.demand.InitialCampaignMessage[1358430427,1250,1,5,[MALE, LOW_INCOME],2.0,1.5,demand,[]]
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0: Allocated campaign - Campaign ID 1358430427: day 1 to 5 [MALE, LOW_INCOME], reach: 1250 coefs: (v=2.0, m=1.5)
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0: Campaign opportunity - Campaign ID 1726531547: day 2 to 4 [MALE, LOW_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0: Initial ucs bid is 0.0
+06/07 05:06:02 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0 : Simulation Status Received
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0: Sending BidBundle
+06/07 05:06:02 INFO naive.ReasonableBot|Day 0 ended. Starting next day
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1 :BankStatus[0.000000]
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1: Daily notification for campaign 1726531547
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1:  WON at cost 0.292. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1: Campaign opportunity - Campaign ID 1139537151: day 3 to 12 [OLD, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:06:15 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1 : AdNetworkReport
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1 : Simulation Status Received
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1: Sending BidBundle
+06/07 05:06:15 INFO naive.ReasonableBot|Day 1 ended. Starting next day
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2 :BankStatus[-0.103540]
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2: Updating campaign 1358430427 stats: 626.5 tgtImps 324.5 nonTgtImps. Cost of imps is 5.711695177349081E-4
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2: Daily notification for campaign 1139537151
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2:  WON at cost 1.313. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2: Campaign opportunity - Campaign ID 942348483: day 4 to 8 [OLD, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:06:23 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2 : AdNetworkReport
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2 : Simulation Status Received
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2: Sending BidBundle
+06/07 05:06:23 INFO naive.ReasonableBot|Day 2 ended. Starting next day
+06/07 05:06:32 INFO naive.ReasonableBot|Day 3 :BankStatus[-0.200131]
+06/07 05:06:32 INFO naive.ReasonableBot|Day 3: Updating campaign 1358430427 stats: 626.5 tgtImps 324.5 nonTgtImps. Cost of imps is 5.711695177349081E-4
+06/07 05:06:32 INFO naive.ReasonableBot|Day 3: Updating campaign 1726531547 stats: 851.5 tgtImps 418.0 nonTgtImps. Cost of imps is 2.4715706903260672E-5
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3: Daily notification for campaign 942348483
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3:  WON at cost 0.439. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3: Campaign opportunity - Campaign ID 92708244: day 5 to 14 [OLD, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:06:33 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3 : AdNetworkReport
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3 : Simulation Status Received
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3: Sending BidBundle
+06/07 05:06:33 INFO naive.ReasonableBot|Day 3 ended. Starting next day
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4 :BankStatus[-0.290876]
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Updating campaign 1358430427 stats: 626.5 tgtImps 324.5 nonTgtImps. Cost of imps is 5.711695177349081E-4
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Updating campaign 1726531547 stats: 1558.0 tgtImps 825.5 nonTgtImps. Cost of imps is 4.4887706127906566E-5
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Updating campaign 1139537151 stats: 2501.0 tgtImps 3581.0 nonTgtImps. Cost of imps is 0.0010382410620210982
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Daily notification for campaign 92708244
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4:  WON at cost 0.1. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Campaign opportunity - Campaign ID 1793422602: day 6 to 8 [OLD, LOW_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:06:42 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4 : AdNetworkReport
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4 : Simulation Status Received
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4: Sending BidBundle
+06/07 05:06:42 INFO naive.ReasonableBot|Day 4 ended. Starting next day
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5 :BankStatus[-0.381044]
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Updating campaign 1358430427 stats: 626.5 tgtImps 324.5 nonTgtImps. Cost of imps is 5.711695177349081E-4
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Updating campaign 1139537151 stats: 5002.5 tgtImps 9829.5 nonTgtImps. Cost of imps is 0.002511791183917546
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Updating campaign 942348483 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Daily notification for campaign 1793422602
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5:  WON at cost 0.41200000000000003. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.43430550102342574
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Campaign opportunity - Campaign ID 526335188: day 7 to 9 [FEMALE, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:06:53 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5 : AdNetworkReport
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5 : Simulation Status Received
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5: Sending BidBundle
+06/07 05:06:53 INFO naive.ReasonableBot|Day 5 ended. Starting next day
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6 :BankStatus[-0.448419]
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Updating campaign 92708244 stats: 613.0 tgtImps 621.5 nonTgtImps. Cost of imps is 1.5127294585877718E-5
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Updating campaign 1139537151 stats: 6252.0 tgtImps 10909.0 nonTgtImps. Cost of imps is 0.002852332929498838
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Updating campaign 942348483 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Daily notification for campaign 526335188
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6:  WON at cost 0.3496159283238577. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.5372086865434424
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Campaign opportunity - Campaign ID 1130551901: day 8 to 17 [HIGH_INCOME, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:07:02 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6 : AdNetworkReport
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6 : Simulation Status Received
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6: Sending BidBundle
+06/07 05:07:02 INFO naive.ReasonableBot|Day 6 ended. Starting next day
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7 :BankStatus[0.227837]
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Updating campaign 92708244 stats: 866.0 tgtImps 1065.0 nonTgtImps. Cost of imps is 2.3621592816356516E-5
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Updating campaign 1793422602 stats: 1120.5 tgtImps 661.0 nonTgtImps. Cost of imps is 9.098344829280862E-5
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Updating campaign 1139537151 stats: 6253.5 tgtImps 10909.0 nonTgtImps. Cost of imps is 0.0028523360248974335
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Updating campaign 942348483 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Daily notification for campaign 1130551901
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7:  WON at cost 1.5283587132160936. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.5372086865434424
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Campaign opportunity - Campaign ID 109188660: day 9 to 18 [HIGH_INCOME, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:07:12 INFO naive.ReasonableBot|Day 7: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:07:12 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:07:13 INFO naive.ReasonableBot|Day 7 : AdNetworkReport
+06/07 05:07:13 INFO naive.ReasonableBot|Day 7 : Simulation Status Received
+06/07 05:07:13 INFO naive.ReasonableBot|Day 7: Sending BidBundle
+06/07 05:07:13 INFO naive.ReasonableBot|Day 7 ended. Starting next day
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8 :BankStatus[0.143191]
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Updating campaign 92708244 stats: 1062.5 tgtImps 1349.0 nonTgtImps. Cost of imps is 2.9503995892268146E-5
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Updating campaign 1793422602 stats: 1806.0 tgtImps 1513.0 nonTgtImps. Cost of imps is 1.6759892375667698E-4
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Updating campaign 1139537151 stats: 6255.0 tgtImps 10912.0 nonTgtImps. Cost of imps is 0.002852457324139464
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Updating campaign 526335188 stats: 2501.0 tgtImps 272.5 nonTgtImps. Cost of imps is 1.0331278079331073E-4
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Updating campaign 942348483 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Daily notification for campaign 109188660
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8:  WON at cost 1.9836430750616614. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.5372086865434424
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Campaign opportunity - Campaign ID 1216091934: day 10 to 12 [MALE, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:07:24 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8 : AdNetworkReport
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8 : Simulation Status Received
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8: Sending BidBundle
+06/07 05:07:24 INFO naive.ReasonableBot|Day 8 ended. Starting next day
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9 :BankStatus[0.059437]
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Updating campaign 1130551901 stats: 1971.0 tgtImps 9456.5 nonTgtImps. Cost of imps is 0.002322800925585316
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Updating campaign 92708244 stats: 1336.5 tgtImps 1481.5 nonTgtImps. Cost of imps is 3.4723663307444926E-5
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Updating campaign 1139537151 stats: 6255.0 tgtImps 10912.0 nonTgtImps. Cost of imps is 0.002852457324139464
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Updating campaign 526335188 stats: 4910.0 tgtImps 487.5 nonTgtImps. Cost of imps is 2.249268725781577E-4
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Daily notification for campaign 1216091934
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9:  WON at cost 1.0112953524180304. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.29416628590860416
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Campaign opportunity - Campaign ID 432699096: day 11 to 20 [MALE, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:07:33 INFO naive.ReasonableBot|Actually bidding 100
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9 : AdNetworkReport
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9 : Simulation Status Received
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9: Sending BidBundle
+06/07 05:07:33 INFO naive.ReasonableBot|Day 9 ended. Starting next day
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10 :BankStatus[0.116693]
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Updating campaign 1130551901 stats: 3493.5 tgtImps 26957.5 nonTgtImps. Cost of imps is 0.005238780006318141
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Updating campaign 92708244 stats: 1593.0 tgtImps 1675.5 nonTgtImps. Cost of imps is 4.0342027539060185E-5
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Updating campaign 109188660 stats: 2501.5 tgtImps 2269.0 nonTgtImps. Cost of imps is 0.0011506143533344274
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Updating campaign 1139537151 stats: 6255.0 tgtImps 10912.0 nonTgtImps. Cost of imps is 0.002852457324139464
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Daily notification for campaign 432699096
+06/07 05:07:42 INFO naive.ReasonableBot|campaign was NOT won. new bid:80
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10:  allocated to DummyAdnetwork. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.8090666272817312
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Campaign opportunity - Campaign ID 590267520: day 12 to 14 [FEMALE, LOW_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:07:42 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10 : AdNetworkReport
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10 : Simulation Status Received
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10: Sending BidBundle
+06/07 05:07:42 INFO naive.ReasonableBot|Day 10 ended. Starting next day
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11 :BankStatus[0.436244]
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Updating campaign 1130551901 stats: 5003.0 tgtImps 35331.0 nonTgtImps. Cost of imps is 0.006951847511740782
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Updating campaign 92708244 stats: 1835.0 tgtImps 1954.5 nonTgtImps. Cost of imps is 4.666142562156448E-5
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Updating campaign 1216091934 stats: 2226.5 tgtImps 5019.5 nonTgtImps. Cost of imps is 7.707410697374697E-4
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Updating campaign 109188660 stats: 2501.5 tgtImps 2269.0 nonTgtImps. Cost of imps is 0.0011506143533344274
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Updating campaign 1139537151 stats: 6255.0 tgtImps 10912.0 nonTgtImps. Cost of imps is 0.002852457324139464
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Daily notification for campaign 590267520
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11:  WON at cost 0.974925285874486. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.8090666272817312
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Campaign opportunity - Campaign ID 1123766839: day 13 to 22 [LOW_INCOME, YOUNG], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:07:55 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:07:55 INFO naive.ReasonableBot|Day 11 : AdNetworkReport
+06/07 05:07:56 INFO naive.ReasonableBot|Day 11 : Simulation Status Received
+06/07 05:07:56 INFO naive.ReasonableBot|Day 11: Sending BidBundle
+06/07 05:07:56 INFO naive.ReasonableBot|Day 11 ended. Starting next day
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12 :BankStatus[0.355373]
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Updating campaign 1130551901 stats: 5757.5 tgtImps 53326.5 nonTgtImps. Cost of imps is 0.009672003311754218
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Updating campaign 92708244 stats: 2292.5 tgtImps 2300.0 nonTgtImps. Cost of imps is 5.705134187251015E-5
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Updating campaign 1216091934 stats: 4363.5 tgtImps 22233.5 nonTgtImps. Cost of imps is 0.002613411707108706
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Updating campaign 109188660 stats: 2501.5 tgtImps 2269.0 nonTgtImps. Cost of imps is 0.0011506143533344274
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Updating campaign 1139537151 stats: 6255.0 tgtImps 10912.0 nonTgtImps. Cost of imps is 0.002852457324139464
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Daily notification for campaign 1123766839
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12:  WON at cost 0.28519598611681024. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.8090666272817312
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Campaign opportunity - Campaign ID 798145501: day 14 to 18 [MALE, YOUNG], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:08:03 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12 : AdNetworkReport
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12 : Simulation Status Received
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12: Sending BidBundle
+06/07 05:08:03 INFO naive.ReasonableBot|Day 12 ended. Starting next day
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13 :BankStatus[0.274859]
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Updating campaign 1130551901 stats: 5759.0 tgtImps 53326.5 nonTgtImps. Cost of imps is 0.009672298519621786
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Updating campaign 92708244 stats: 2632.5 tgtImps 2531.5 nonTgtImps. Cost of imps is 6.435900896896497E-5
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Updating campaign 109188660 stats: 2501.5 tgtImps 2269.0 nonTgtImps. Cost of imps is 0.0011506143533344274
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Updating campaign 590267520 stats: 1029.5 tgtImps 10993.5 nonTgtImps. Cost of imps is 0.0013715439911891304
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Daily notification for campaign 798145501
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13:  WON at cost 0.26294665386656263. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0755112647394123
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Campaign opportunity - Campaign ID 966037331: day 15 to 24 [OLD, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:08:13 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13 : AdNetworkReport
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13 : Simulation Status Received
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13: Sending BidBundle
+06/07 05:08:13 INFO naive.ReasonableBot|Day 13 ended. Starting next day
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14 :BankStatus[2.840647]
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Updating campaign 1130551901 stats: 5762.0 tgtImps 53328.0 nonTgtImps. Cost of imps is 0.009673108136826746
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Updating campaign 92708244 stats: 3158.0 tgtImps 2755.5 nonTgtImps. Cost of imps is 7.464513771777956E-5
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Updating campaign 1123766839 stats: 246.5 tgtImps 864.5 nonTgtImps. Cost of imps is 1.7371735333942808E-5
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Updating campaign 109188660 stats: 2501.5 tgtImps 2269.0 nonTgtImps. Cost of imps is 0.0011506143533344274
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Updating campaign 590267520 stats: 2007.0 tgtImps 17769.5 nonTgtImps. Cost of imps is 0.0022454412955596067
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Daily notification for campaign 966037331
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14:  WON at cost 12.045726165081417. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 1.0755112647394123
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Campaign opportunity - Campaign ID 1219352097: day 16 to 25 [FEMALE, YOUNG], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:08:22 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14 : AdNetworkReport
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14 : Simulation Status Received
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14: Sending BidBundle
+06/07 05:08:22 INFO naive.ReasonableBot|Day 14 ended. Starting next day
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15 :BankStatus[2.758695]
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Updating campaign 1130551901 stats: 5762.0 tgtImps 53328.0 nonTgtImps. Cost of imps is 0.009673108136826746
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Updating campaign 1123766839 stats: 473.5 tgtImps 1188.5 nonTgtImps. Cost of imps is 2.717875104384913E-5
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Updating campaign 109188660 stats: 3752.0 tgtImps 3790.0 nonTgtImps. Cost of imps is 0.001736543235419991
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Updating campaign 798145501 stats: 221.5 tgtImps 257.5 nonTgtImps. Cost of imps is 7.90805523266835E-6
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Daily notification for campaign 1219352097
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15:  WON at cost 3.723957754160215. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4472660729248731
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Campaign opportunity - Campaign ID 469709871: day 17 to 26 [FEMALE, LOW_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:08:33 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15 : AdNetworkReport
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15 : Simulation Status Received
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15: Sending BidBundle
+06/07 05:08:33 INFO naive.ReasonableBot|Day 15 ended. Starting next day
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16 :BankStatus[2.979211]
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Updating campaign 1130551901 stats: 5762.0 tgtImps 53328.0 nonTgtImps. Cost of imps is 0.009673108136826746
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Updating campaign 966037331 stats: 6017.5 tgtImps 16708.0 nonTgtImps. Cost of imps is 0.01064545731467508
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Updating campaign 1123766839 stats: 688.0 tgtImps 2614.5 nonTgtImps. Cost of imps is 5.361069316895724E-5
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Updating campaign 109188660 stats: 5003.0 tgtImps 4423.0 nonTgtImps. Cost of imps is 0.002208111602682694
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Updating campaign 798145501 stats: 415.0 tgtImps 458.0 nonTgtImps. Cost of imps is 1.424368993127858E-5
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Daily notification for campaign 469709871
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16:  WON at cost 1.4424330851827156. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4472660729248731
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Campaign opportunity - Campaign ID 442169958: day 18 to 27 [MALE, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:08:44 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16 : AdNetworkReport
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16 : Simulation Status Received
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16: Sending BidBundle
+06/07 05:08:44 INFO naive.ReasonableBot|Day 16 ended. Starting next day
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17 :BankStatus[2.889771]
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Updating campaign 1130551901 stats: 5762.0 tgtImps 53328.0 nonTgtImps. Cost of imps is 0.009673108136826746
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Updating campaign 966037331 stats: 13518.0 tgtImps 27833.5 nonTgtImps. Cost of imps is 0.02035969805354429
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Updating campaign 1123766839 stats: 921.5 tgtImps 2971.0 nonTgtImps. Cost of imps is 6.387718952491125E-5
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Updating campaign 1219352097 stats: 5002.0 tgtImps 708.5 nonTgtImps. Cost of imps is 9.748229016004926E-4
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Updating campaign 109188660 stats: 5629.0 tgtImps 5247.5 nonTgtImps. Cost of imps is 0.002582657957005933
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Updating campaign 798145501 stats: 688.0 tgtImps 787.0 nonTgtImps. Cost of imps is 2.4471904418562127E-5
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Daily notification for campaign 442169958
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17:  WON at cost 0.9269589361367994. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4472660729248731
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Campaign opportunity - Campaign ID 1070605287: day 19 to 23 [OLD, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:08:53 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17 : AdNetworkReport
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17 : Simulation Status Received
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17: Sending BidBundle
+06/07 05:08:53 INFO naive.ReasonableBot|Day 17 ended. Starting next day
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18 :BankStatus[2.803416]
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Updating campaign 966037331 stats: 18009.5 tgtImps 33648.0 nonTgtImps. Cost of imps is 0.026046257558256007
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Updating campaign 1123766839 stats: 1092.0 tgtImps 3192.5 nonTgtImps. Cost of imps is 7.116874558494511E-5
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Updating campaign 469709871 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Updating campaign 1219352097 stats: 10003.5 tgtImps 3206.5 nonTgtImps. Cost of imps is 0.0028826977963345435
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Updating campaign 109188660 stats: 5632.0 tgtImps 5247.5 nonTgtImps. Cost of imps is 0.002582710793550676
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Updating campaign 798145501 stats: 908.5 tgtImps 1011.0 nonTgtImps. Cost of imps is 3.2021557426983225E-5
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Daily notification for campaign 1070605287
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18:  WON at cost 6.708991093873096. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.84734595505837
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Campaign opportunity - Campaign ID 1060367504: day 20 to 29 [MALE, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:09:03 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18 : AdNetworkReport
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18 : Simulation Status Received
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18: Sending BidBundle
+06/07 05:09:03 INFO naive.ReasonableBot|Day 18 ended. Starting next day
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19 :BankStatus[4.428699]
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Updating campaign 966037331 stats: 18751.0 tgtImps 35864.0 nonTgtImps. Cost of imps is 0.02715965746022597
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Updating campaign 1123766839 stats: 1303.5 tgtImps 3528.0 nonTgtImps. Cost of imps is 8.130728375121652E-5
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Updating campaign 469709871 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Updating campaign 1219352097 stats: 12503.0 tgtImps 6894.0 nonTgtImps. Cost of imps is 0.004288827924777359
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Daily notification for campaign 1060367504
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19:  WON at cost 3.6499427014139285. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4148381111984595
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Campaign opportunity - Campaign ID 105613065: day 21 to 23 [FEMALE, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:09:13 INFO naive.ReasonableBot|Actually bidding 80
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19 : AdNetworkReport
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19 : Simulation Status Received
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19: Sending BidBundle
+06/07 05:09:13 INFO naive.ReasonableBot|Day 19 ended. Starting next day
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20 :BankStatus[6.540883]
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Updating campaign 966037331 stats: 18753.0 tgtImps 35865.5 nonTgtImps. Cost of imps is 0.02716336950322634
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Updating campaign 1070605287 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Updating campaign 1123766839 stats: 1752.0 tgtImps 4287.5 nonTgtImps. Cost of imps is 1.01985784239209E-4
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Updating campaign 469709871 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Updating campaign 1219352097 stats: 12504.0 tgtImps 6899.0 nonTgtImps. Cost of imps is 0.00429068513749832
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Daily notification for campaign 105613065
+06/07 05:09:23 INFO naive.ReasonableBot|campaign was NOT won. new bid:64
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20:  allocated to DummyAdnetwork-6. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4148381111984595
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Campaign opportunity - Campaign ID 971486084: day 22 to 31 [OLD, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:09:23 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20 : AdNetworkReport
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20 : Simulation Status Received
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20: Sending BidBundle
+06/07 05:09:23 INFO naive.ReasonableBot|Day 20 ended. Starting next day
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21 :BankStatus[6.461512]
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 966037331 stats: 18754.5 tgtImps 35877.5 nonTgtImps. Cost of imps is 0.02717192911870351
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 1070605287 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 1123766839 stats: 2074.5 tgtImps 4882.0 nonTgtImps. Cost of imps is 1.1935152426924265E-4
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 469709871 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 1219352097 stats: 12505.5 tgtImps 6912.5 nonTgtImps. Cost of imps is 0.0042943740629988805
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Updating campaign 1060367504 stats: 2501.0 tgtImps 7991.0 nonTgtImps. Cost of imps is 0.00482138927356288
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Daily notification for campaign 971486084
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21:  WON at cost 0.1659352444793838. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4148381111984595
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Campaign opportunity - Campaign ID 388878278: day 23 to 25 [MALE, YOUNG], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:09:33 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21 : AdNetworkReport
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21 : Simulation Status Received
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21: Sending BidBundle
+06/07 05:09:33 INFO naive.ReasonableBot|Day 21 ended. Starting next day
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22 :BankStatus[6.372308]
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 966037331 stats: 18756.0 tgtImps 35877.5 nonTgtImps. Cost of imps is 0.027172121927862357
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 1070605287 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 1123766839 stats: 2429.5 tgtImps 5573.5 nonTgtImps. Cost of imps is 1.3946494127740092E-4
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 469709871 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 1219352097 stats: 12507.5 tgtImps 6961.0 nonTgtImps. Cost of imps is 0.004304590668704927
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Updating campaign 1060367504 stats: 5002.5 tgtImps 43342.0 nonTgtImps. Cost of imps is 0.017972240084319004
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Daily notification for campaign 388878278
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22:  WON at cost 0.20638196032123357. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.4148381111984595
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Campaign opportunity - Campaign ID 804658196: day 24 to 33 [FEMALE, OLD], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:09:42 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22 : AdNetworkReport
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22 : Simulation Status Received
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22: Sending BidBundle
+06/07 05:09:42 INFO naive.ReasonableBot|Day 22 ended. Starting next day
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23 :BankStatus[6.297290]
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 966037331 stats: 18757.5 tgtImps 35895.0 nonTgtImps. Cost of imps is 0.027178000035709585
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 1070605287 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 469709871 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 1219352097 stats: 12510.5 tgtImps 6961.0 nonTgtImps. Cost of imps is 0.004305431086845809
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 1060367504 stats: 6253.5 tgtImps 46856.5 nonTgtImps. Cost of imps is 0.02015041838904303
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Updating campaign 971486084 stats: 170.0 tgtImps 346.5 nonTgtImps. Cost of imps is 3.172188172101509E-6
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Daily notification for campaign 804658196
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23:  WON at cost 0.13171110030551086. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.21359454870237887
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Campaign opportunity - Campaign ID 603630525: day 25 to 29 [FEMALE, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:09:56 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23 : AdNetworkReport
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23 : Simulation Status Received
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23: Sending BidBundle
+06/07 05:09:56 INFO naive.ReasonableBot|Day 23 ended. Starting next day
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24 :BankStatus[6.243561]
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 966037331 stats: 18758.5 tgtImps 35896.5 nonTgtImps. Cost of imps is 0.027181642136838786
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 469709871 stats: 1471.5 tgtImps 4021.5 nonTgtImps. Cost of imps is 4.958064877039418E-4
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 1219352097 stats: 12511.5 tgtImps 6961.0 nonTgtImps. Cost of imps is 0.004305688197882259
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 388878278 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 1060367504 stats: 6255.5 tgtImps 46856.5 nonTgtImps. Cost of imps is 0.020150844745868167
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Updating campaign 971486084 stats: 381.5 tgtImps 1224.0 nonTgtImps. Cost of imps is 9.435894405904855E-6
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Daily notification for campaign 603630525
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24:  WON at cost 0.08703977859621939. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.08543781948095155
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Campaign opportunity - Campaign ID 641036772: day 26 to 35 [HIGH_INCOME, YOUNG], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:10:04 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24 : AdNetworkReport
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24 : Simulation Status Received
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24: Sending BidBundle
+06/07 05:10:04 INFO naive.ReasonableBot|Day 24 ended. Starting next day
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25 :BankStatus[6.165891]
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 804658196 stats: 268.5 tgtImps 169.0 nonTgtImps. Cost of imps is 7.111796850769271E-6
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 469709871 stats: 2316.5 tgtImps 5944.5 nonTgtImps. Cost of imps is 7.443047479602902E-4
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 1219352097 stats: 12513.0 tgtImps 6986.0 nonTgtImps. Cost of imps is 0.004309891529778132
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 388878278 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 1060367504 stats: 6256.5 tgtImps 46856.5 nonTgtImps. Cost of imps is 0.02015171109751057
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Updating campaign 971486084 stats: 492.0 tgtImps 1539.5 nonTgtImps. Cost of imps is 1.2106183277289428E-5
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Daily notification for campaign 641036772
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25:  WON at cost 0.5004520276096737. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.7300330717739703
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Campaign opportunity - Campaign ID 906741793: day 27 to 31 [OLD, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:10:15 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25 : AdNetworkReport
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25 : Simulation Status Received
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25: Sending BidBundle
+06/07 05:10:15 INFO naive.ReasonableBot|Day 25 ended. Starting next day
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26 :BankStatus[20.059237]
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Updating campaign 603630525 stats: 323.0 tgtImps 39.5 nonTgtImps. Cost of imps is 1.303822131221627E-6
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Updating campaign 804658196 stats: 560.0 tgtImps 417.5 nonTgtImps. Cost of imps is 1.584650739707341E-5
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Updating campaign 469709871 stats: 3383.5 tgtImps 8336.0 nonTgtImps. Cost of imps is 0.001048245777118898
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Updating campaign 1060367504 stats: 6257.5 tgtImps 46858.0 nonTgtImps. Cost of imps is 0.020152233973811877
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Updating campaign 971486084 stats: 492.0 tgtImps 1539.5 nonTgtImps. Cost of imps is 1.2106183277289428E-5
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Daily notification for campaign 906741793
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26:  WON at cost 3.3052247324566504. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.39523155907924684
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Campaign opportunity - Campaign ID 2071824033: day 28 to 37 [FEMALE, YOUNG], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:10:26 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26 : AdNetworkReport
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26 : Simulation Status Received
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26: Sending BidBundle
+06/07 05:10:26 INFO naive.ReasonableBot|Day 26 ended. Starting next day
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27 :BankStatus[24.300956]
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Updating campaign 603630525 stats: 1130.0 tgtImps 86.5 nonTgtImps. Cost of imps is 3.6532485110970525E-6
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Updating campaign 641036772 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Updating campaign 804658196 stats: 820.0 tgtImps 930.0 nonTgtImps. Cost of imps is 2.9612742762913533E-5
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Updating campaign 442169958 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Updating campaign 1060367504 stats: 6260.5 tgtImps 46858.0 nonTgtImps. Cost of imps is 0.02015296669490275
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Updating campaign 971486084 stats: 492.0 tgtImps 1539.5 nonTgtImps. Cost of imps is 1.2106183277289428E-5
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Daily notification for campaign 2071824033
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27:  WON at cost 2.070025290677555. UCS Level set to 0.47829690000000014 at price 0.0 Quality Score is: 0.24092371119556938
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Campaign opportunity - Campaign ID 639790957: day 29 to 38 [HIGH_INCOME, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Adjusting ucs bid: was 0.0 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.0
+06/07 05:10:34 INFO naive.ReasonableBot|Actually bidding 64
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27 : AdNetworkReport
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27 : Simulation Status Received
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27: Sending BidBundle
+06/07 05:10:34 INFO naive.ReasonableBot|Day 27 ended. Starting next day

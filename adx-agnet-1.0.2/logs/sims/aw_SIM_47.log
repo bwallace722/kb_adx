@@ -1,0 +1,21 @@
+06/07 00:35:02 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0 :BankStatus[0.000000]
+06/07 00:35:02 INFO naive.NaiveAgent|tau.tac.adx.report.demand.InitialCampaignMessage[827876324,1250,1,5,[YOUNG, HIGH_INCOME],2.0,1.5,demand,[]]
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0: Allocated campaign - Campaign ID 827876324: day 1 to 5 [YOUNG, HIGH_INCOME], reach: 1250 coefs: (v=2.0, m=1.5)
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0: Campaign opportunity - Campaign ID 1158647524: day 2 to 11 [MALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 00:35:02 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0: Campaign total budget bid: 0.0010
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0: Initial ucs bid is 0.10370509288216835
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0 : Simulation Status Received
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0: Updated 36 Bid Bundle entries for Campaign id 827876324
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0: Sending BidBundle
+06/07 00:35:02 INFO naive.NaiveAgent|Day 0 ended. Starting next day
+06/07 00:35:07 SEVERE agentware.ServerConnection|(11) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+06/07 00:35:07 SEVERE agentware.SimClient|************************************************************
+06/07 00:35:07 SEVERE agentware.SimClient|* Connection Lost
+06/07 00:35:07 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+06/07 00:35:07 SEVERE agentware.SimClient|************************************************************

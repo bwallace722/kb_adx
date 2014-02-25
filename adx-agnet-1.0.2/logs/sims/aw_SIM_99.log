@@ -1,0 +1,62 @@
+07/07 19:15:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 19:15:02 INFO naive.ReasonableBot|DAY 0 Actually bidding 7493
+07/07 19:15:13 INFO naive.ReasonableBot|DAY 1 Actually bidding 5994
+07/07 19:15:22 INFO naive.ReasonableBot|Day 2 ongoing campaigns:
+830696170 days left: 3/4 target reach: 1250 to go: 624
+07/07 19:15:22 INFO naive.ReasonableBot|DAY 2 Actually bidding 3197
+07/07 19:15:32 INFO naive.ReasonableBot|Day 3 ongoing campaigns:
+830696170 days left: 2/4 target reach: 1250 to go: 0
+07/07 19:15:32 INFO naive.ReasonableBot|DAY 3 Actually bidding 1278
+07/07 19:15:43 INFO naive.ReasonableBot|Day 4 ongoing campaigns:
+830696170 days left: 1/4 target reach: 1250 to go: 0
+07/07 19:15:43 INFO naive.ReasonableBot|DAY 4 Actually bidding 2046
+07/07 19:15:52 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+07/07 19:15:52 INFO naive.ReasonableBot|DAY 5 Actually bidding 818
+07/07 19:16:01 INFO naive.ReasonableBot|Day 6 ongoing campaigns:
+07/07 19:16:01 INFO naive.ReasonableBot|DAY 6 WON at cost 1.1880000000000002
+07/07 19:16:01 INFO naive.ReasonableBot|DAY 6 Actually bidding 2455
+07/07 19:16:12 INFO naive.ReasonableBot|Day 7 ongoing campaigns:
+127284925 days left: 9/9 target reach: 5000 to go: 5000
+07/07 19:16:12 INFO naive.ReasonableBot|DAY 7 WON at cost 4.383533722463498
+07/07 19:16:12 INFO naive.ReasonableBot|DAY 7 Actually bidding 1636
+07/07 19:16:23 INFO naive.ReasonableBot|Day 8 ongoing campaigns:
+439703157 days left: 2/2 target reach: 15000 to go: 15000
+127284925 days left: 8/9 target reach: 5000 to go: 2499
+07/07 19:16:23 INFO naive.ReasonableBot|DAY 8 WON at cost 3.7883200015374165
+07/07 19:16:23 INFO naive.ReasonableBot|DAY 8 Actually bidding 1636
+07/07 19:16:32 INFO naive.ReasonableBot|Day 9 ongoing campaigns:
+439703157 days left: 1/2 target reach: 15000 to go: 7497
+127284925 days left: 7/9 target reach: 5000 to go: 0
+543032042 days left: 2/2 target reach: 10000 to go: 10000
+07/07 19:16:32 INFO naive.ReasonableBot|DAY 9 WON at cost 2.249079017524041
+07/07 19:16:32 INFO naive.ReasonableBot|DAY 9 Actually bidding 1636
+07/07 19:16:42 INFO naive.ReasonableBot|Day 10 ongoing campaigns:
+127284925 days left: 6/9 target reach: 5000 to go: 0
+543032042 days left: 1/2 target reach: 10000 to go: 10000
+1797308653 days left: 2/2 target reach: 10000 to go: 10000
+07/07 19:16:42 INFO naive.ReasonableBot|DAY 10 Actually bidding 1964
+07/07 19:16:52 INFO naive.ReasonableBot|Day 11 ongoing campaigns:
+127284925 days left: 5/9 target reach: 5000 to go: 0
+1797308653 days left: 1/2 target reach: 10000 to go: 4998
+07/07 19:16:52 INFO naive.ReasonableBot|DAY 11 Actually bidding 1047
+07/07 19:17:02 INFO naive.ReasonableBot|Day 12 ongoing campaigns:
+127284925 days left: 4/9 target reach: 5000 to go: 0
+07/07 19:17:02 INFO naive.ReasonableBot|DAY 12 Actually bidding 838
+07/07 19:17:16 INFO naive.ReasonableBot|Day 13 ongoing campaigns:
+127284925 days left: 3/9 target reach: 5000 to go: 0
+07/07 19:17:16 INFO naive.ReasonableBot|DAY 13 WON at cost 2.8647868324194845
+07/07 19:17:16 INFO naive.ReasonableBot|DAY 13 Actually bidding 1257
+07/07 19:17:24 INFO naive.ReasonableBot|Day 14 ongoing campaigns:
+127284925 days left: 2/9 target reach: 5000 to go: 0
+930740438 days left: 9/9 target reach: 10000 to go: 10000
+07/07 19:17:24 INFO naive.ReasonableBot|DAY 14 WON at cost 6.913136641389047
+07/07 19:17:24 INFO naive.ReasonableBot|DAY 14 Actually bidding 838
+07/07 19:17:26 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+07/07 19:17:26 SEVERE agentware.SimClient|************************************************************
+07/07 19:17:26 SEVERE agentware.SimClient|* Connection Lost
+07/07 19:17:26 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+07/07 19:17:26 SEVERE agentware.SimClient|************************************************************

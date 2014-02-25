@@ -1,0 +1,80 @@
+06/07 01:02:00 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0 :BankStatus[0.000000]
+06/07 01:02:00 INFO naive.NaiveAgent|tau.tac.adx.report.demand.InitialCampaignMessage[102829438,1250,1,5,[OLD, HIGH_INCOME],2.0,1.5,demand,[]]
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0: Allocated campaign - Campaign ID 102829438: day 1 to 5 [OLD, HIGH_INCOME], reach: 1250 coefs: (v=2.0, m=1.5)
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0: Campaign opportunity - Campaign ID 1494675986: day 2 to 6 [OLD, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 01:02:00 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0: Campaign total budget bid: 0.0010
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0: Initial ucs bid is 0.10194872169947597
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0 : Simulation Status Received
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0: Updated 36 Bid Bundle entries for Campaign id 102829438
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0: Sending BidBundle
+06/07 01:02:00 INFO naive.NaiveAgent|Day 0 ended. Starting next day
+06/07 01:02:23 INFO naive.NaiveAgent|Day 1 :BankStatus[0.000000]
+06/07 01:02:23 INFO naive.NaiveAgent|Day 1: Daily notification for campaign 1494675986
+06/07 01:02:23 INFO naive.NaiveAgent|Day 1:  allocated to adv8. UCS Level set to 0.9 at price 0.0 Qualit Score is: 1.0
+06/07 01:02:23 INFO naive.NaiveAgent|Day 1: Campaign opportunity - Campaign ID 150098293: day 3 to 12 [OLD, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 01:02:23 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:02:23 INFO naive.NaiveAgent|Day 1: Campaign total budget bid: 0.0010
+06/07 01:02:23 INFO naive.NaiveAgent|Day 1: Adjusting ucs bid: was 0.10194872169947597 level reported: 0.9 target: 1.0 adjusted: 0.11214359386942357
+06/07 01:02:31 INFO naive.NaiveAgent|Day 1 : AdNetworkReport
+06/07 01:02:31 INFO naive.NaiveAgent|Day 1 : Simulation Status Received
+06/07 01:02:31 INFO naive.NaiveAgent|Day 1: Updated 36 Bid Bundle entries for Campaign id 102829438
+06/07 01:02:31 INFO naive.NaiveAgent|Day 1: Sending BidBundle
+06/07 01:02:31 INFO naive.NaiveAgent|Day 1 ended. Starting next day
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2 :BankStatus[-0.110697]
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2: Updating campaign 102829438 stats: 626.0 tgtImps 1064.0 nonTgtImps. Cost of imps is 0.22139362444143904
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2: Daily notification for campaign 150098293
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2:  allocated to . UCS Level set to 0.9 at price 0.0 Qualit Score is: 1.0
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2: Campaign opportunity - Campaign ID 1137763876: day 4 to 13 [FEMALE, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 01:02:31 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2: Campaign total budget bid: 0.0010
+06/07 01:02:31 INFO naive.NaiveAgent|Day 2: Adjusting ucs bid: was 0.11214359386942357 level reported: 0.9 target: 1.0 adjusted: 0.12335795325636595
+06/07 01:02:45 INFO naive.NaiveAgent|Day 2 : Simulation Status Received
+06/07 01:02:45 INFO naive.NaiveAgent|Day 2: Updated 36 Bid Bundle entries for Campaign id 102829438
+06/07 01:02:45 INFO naive.NaiveAgent|Day 2: Sending BidBundle
+06/07 01:02:45 INFO naive.NaiveAgent|Day 2 ended. Starting next day
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3 :BankStatus[-0.110697]
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3: Updating campaign 102829438 stats: 626.0 tgtImps 1064.0 nonTgtImps. Cost of imps is 0.22139362444143904
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3: Daily notification for campaign 1137763876
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3:  allocated to . UCS Level set to 0.9 at price 0.0 Qualit Score is: 1.0
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3: Campaign opportunity - Campaign ID 587427005: day 5 to 9 [HIGH_INCOME, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+06/07 01:02:45 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3: Campaign total budget bid: 0.0010
+06/07 01:02:45 INFO naive.NaiveAgent|Day 3: Adjusting ucs bid: was 0.12335795325636595 level reported: 0.9 target: 1.0 adjusted: 0.13569374858200256
+06/07 01:02:52 INFO naive.NaiveAgent|Day 3 : Simulation Status Received
+06/07 01:02:52 INFO naive.NaiveAgent|Day 3: Updated 36 Bid Bundle entries for Campaign id 102829438
+06/07 01:02:52 INFO naive.NaiveAgent|Day 3: Sending BidBundle
+06/07 01:02:52 INFO naive.NaiveAgent|Day 3 ended. Starting next day
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4 :BankStatus[-0.110697]
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4: Updating campaign 102829438 stats: 626.0 tgtImps 1064.0 nonTgtImps. Cost of imps is 0.22139362444143904
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4: Daily notification for campaign 587427005
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4:  allocated to . UCS Level set to 0.9 at price 0.0 Qualit Score is: 1.0
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4: Campaign opportunity - Campaign ID 1538493473: day 6 to 8 [OLD, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 01:02:53 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4: Campaign total budget bid: 0.0010
+06/07 01:02:53 INFO naive.NaiveAgent|Day 4: Adjusting ucs bid: was 0.13569374858200256 level reported: 0.9 target: 1.0 adjusted: 0.10524740786250385
+06/07 01:03:02 INFO naive.NaiveAgent|Day 4 : AdNetworkReport
+06/07 01:03:03 INFO naive.NaiveAgent|Day 4 : Simulation Status Received
+06/07 01:03:03 INFO naive.NaiveAgent|Day 4: Updated 36 Bid Bundle entries for Campaign id 102829438
+06/07 01:03:03 INFO naive.NaiveAgent|Day 4: Sending BidBundle
+06/07 01:03:03 INFO naive.NaiveAgent|Day 4 ended. Starting next day
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5 :BankStatus[-0.167290]
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5: Updating campaign 102829438 stats: 1252.0 tgtImps 1811.0 nonTgtImps. Cost of imps is 0.33457955782387655
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5: Daily notification for campaign 1538493473
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5:  allocated to . UCS Level set to 1.0 at price 0.11355952550750634 Qualit Score is: 1.0
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5: Campaign opportunity - Campaign ID 1246404163: day 7 to 11 [LOW_INCOME, YOUNG], reach: 5000 coefs: (v=2.0, m=1.5)
+06/07 01:03:03 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5: Campaign total budget bid: 0.0010
+06/07 01:03:03 INFO naive.NaiveAgent|Day 5: Adjusting ucs bid: was 0.10524740786250385 level reported: 1.0 target: 1.0 adjusted: 0.10524740786250385
+06/07 01:04:31 INFO naive.NaiveAgent|Day 5 : AdNetworkReport
+06/07 01:04:31 INFO naive.NaiveAgent|Day 5 : Simulation Status Received
+06/07 01:04:31 INFO naive.NaiveAgent|Day 5: Sending BidBundle
+06/07 01:04:31 INFO naive.NaiveAgent|Day 5 ended. Starting next day
+06/07 01:04:31 INFO naive.NaiveAgent|Day 6 :BankStatus[-0.196510]
+06/07 01:04:31 INFO naive.NaiveAgent|Day 6: Daily notification for campaign 1246404163
+06/07 01:04:31 INFO naive.NaiveAgent|Day 6:  allocated to . UCS Level set to 1.0 at price 0.1022035729567557 Qualit Score is: 1.096194706983661
+06/07 01:04:31 INFO naive.NaiveAgent|Day 6: Campaign opportunity - Campaign ID 1757251441: day 8 to 17 [OLD, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+06/07 01:04:31 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+06/07 01:04:31 INFO naive.NaiveAgent|Day 6: Campaign total budget bid: 0.0010
+06/07 01:04:31 INFO naive.NaiveAgent|Day 6: Adjusting ucs bid: was 0.10524740786250385 level reported: 1.0 target: 1.0 adjusted: 0.10524740786250385

@@ -1,0 +1,50 @@
+07/07 22:55:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 22:55:01 INFO naive.ReasonableBot|DAY 0 Actually bidding 2546
+07/07 22:55:01 INFO naive.ReasonableBot|1250/1250*4/5
+07/07 22:55:01 INFO naive.ReasonableBot|DAY 0: [FEMALE, HIGH_INCOME] urgency: 0.0
+07/07 22:55:14 INFO naive.ReasonableBot|DAY 1 Actually bidding 6112
+07/07 22:55:14 INFO naive.ReasonableBot|1250/1250*4/4
+07/07 22:55:14 INFO naive.ReasonableBot|DAY 1: [FEMALE, HIGH_INCOME] urgency: 1.0
+07/07 22:55:23 INFO naive.ReasonableBot|Day 2 ongoing campaigns:
+[FEMALE, HIGH_INCOME] days left: 3/4 target reach: 1250 to go: 1250
+07/07 22:55:23 INFO naive.ReasonableBot|DAY 2 Actually bidding 4889
+07/07 22:55:23 INFO naive.ReasonableBot|1250/1250*4/3
+07/07 22:55:23 INFO naive.ReasonableBot|DAY 2: [FEMALE, HIGH_INCOME] urgency: 1.0
+07/07 22:55:34 INFO naive.ReasonableBot|Day 3 ongoing campaigns:
+[FEMALE, HIGH_INCOME] days left: 2/4 target reach: 1250 to go: 624
+07/07 22:55:34 INFO naive.ReasonableBot|DAY 3 Actually bidding 3911
+07/07 22:55:34 INFO naive.ReasonableBot|624/1250*4/2
+07/07 22:55:34 INFO naive.ReasonableBot|DAY 3: [FEMALE, HIGH_INCOME] urgency: 0.0
+07/07 22:55:43 INFO naive.ReasonableBot|Day 4 ongoing campaigns:
+[FEMALE, HIGH_INCOME] days left: 1/4 target reach: 1250 to go: 0
+07/07 22:55:43 INFO naive.ReasonableBot|DAY 4 WON at cost 5.9510000000000005
+07/07 22:55:43 INFO naive.ReasonableBot|DAY 4 Actually bidding 1303
+07/07 22:55:43 INFO naive.ReasonableBot|15000/15000*2/3
+07/07 22:55:43 INFO naive.ReasonableBot|DAY 4: [LOW_INCOME, YOUNG] urgency: 0.0
+07/07 22:55:43 INFO naive.ReasonableBot|0/1250*4/1
+07/07 22:55:43 INFO naive.ReasonableBot|DAY 4: [FEMALE, HIGH_INCOME] urgency: 0.0
+07/07 22:55:55 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+[LOW_INCOME, YOUNG] days left: 2/2 target reach: 15000 to go: 15000
+[FEMALE, HIGH_INCOME] days left: 0/4 target reach: 1250 to go: 0
+07/07 22:55:55 INFO naive.ReasonableBot|DAY 5 Actually bidding 3129
+07/07 22:55:55 INFO naive.ReasonableBot|15000/15000*2/2
+07/07 22:55:55 INFO naive.ReasonableBot|DAY 5: [LOW_INCOME, YOUNG] urgency: 1.0
+07/07 22:56:02 INFO naive.ReasonableBot|Day 6 ongoing campaigns:
+[LOW_INCOME, YOUNG] days left: 1/2 target reach: 15000 to go: 15000
+07/07 22:56:02 INFO naive.ReasonableBot|DAY 6 Actually bidding 1669
+07/07 22:56:02 INFO naive.ReasonableBot|15000/15000*2/1
+07/07 22:56:02 INFO naive.ReasonableBot|DAY 6: [LOW_INCOME, YOUNG] urgency: 2.0
+07/07 22:56:15 INFO naive.ReasonableBot|Day 7 ongoing campaigns:
+[LOW_INCOME, YOUNG] days left: 0/2 target reach: 15000 to go: 7498
+07/07 22:56:15 INFO naive.ReasonableBot|DAY 7 Actually bidding 1335
+07/07 22:56:22 INFO naive.ReasonableBot|Day 8 ongoing campaigns:
+07/07 22:56:22 INFO naive.ReasonableBot|DAY 8 Actually bidding 534
+07/07 22:56:40 INFO naive.ReasonableBot|Day 9 ongoing campaigns:
+07/07 22:56:40 INFO naive.ReasonableBot|DAY 9 Actually bidding 854
+07/07 22:56:44 INFO naive.ReasonableBot|Day 10 ongoing campaigns:
+07/07 22:56:45 INFO naive.ReasonableBot|DAY 10 Actually bidding 683
+07/07 22:56:55 INFO naive.ReasonableBot|Day 11 ongoing campaigns:
+07/07 22:56:55 INFO naive.ReasonableBot|DAY 11 WON at cost 1.3937510038658967
+07/07 22:56:55 INFO naive.ReasonableBot|DAY 11 Actually bidding 341
+07/07 22:56:55 INFO naive.ReasonableBot|10000/10000*9/10
+07/07 22:56:55 INFO naive.ReasonableBot|DAY 11: [FEMALE, LOW_INCOME] urgency: 0.0

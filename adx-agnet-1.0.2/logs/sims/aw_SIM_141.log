@@ -1,0 +1,27 @@
+09/07 15:52:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc79d05a
+09/07 15:52:02 INFO naive.ReasonableBot|8 DAY 0 bid: 2016 qs: 0.0
+09/07 15:52:17 INFO naive.ReasonableBot|8 DAY 1 bid: 3226 qs: 1.0
+09/07 15:52:27 INFO naive.ReasonableBot|8 DAY 2 bid: 1290 qs: 1.0
+09/07 15:52:33 INFO naive.ReasonableBot|8 DAY 3 bid: 2064 qs: 1.0
+09/07 15:52:42 INFO naive.ReasonableBot|8 DAY 4 bid: 825 qs: 1.0
+09/07 15:52:52 INFO naive.ReasonableBot|8 DAY 5 bid: 1321 qs: 1.0
+09/07 15:53:02 INFO naive.ReasonableBot|8 DAY 6 bid: 1585 qs: 1.096194706983661
+09/07 15:53:12 INFO naive.ReasonableBot|8 DAY 7 bid: 1268 qs: 1.096194706983661
+09/07 15:53:23 INFO naive.ReasonableBot|8 DAY 8 bid: 338 qs: 1.096194706983661
+09/07 15:53:32 INFO naive.ReasonableBot|8 DAY 9 bid: 270 qs: 1.096194706983661
+09/07 15:53:42 INFO naive.ReasonableBot|8 DAY 10 bid: 649 qs: 1.096194706983661
+09/07 15:53:52 INFO naive.ReasonableBot|8 DAY 11 bid: 173 qs: 1.096194706983661
+09/07 15:54:02 INFO naive.ReasonableBot|8 DAY 12 bid: 277 qs: 1.096194706983661
+09/07 15:54:13 INFO naive.ReasonableBot|8 DAY 13 bid: 221 qs: 1.096194706983661
+09/07 15:54:23 INFO naive.ReasonableBot|8 DAY 14 bid: 88 qs: 1.096194706983661
+09/07 15:54:33 INFO naive.ReasonableBot|8 DAY 15 WON at cost 0.08893193654186705
+09/07 15:54:33 INFO naive.ReasonableBot|8 DAY 15 bid: 266 qs: 1.096194706983661
+09/07 15:54:42 INFO naive.ReasonableBot|8 DAY 16 bid: 212 qs: 1.096194706983661
+09/07 15:54:53 INFO naive.ReasonableBot|8 DAY 17 bid: 170 qs: 1.096194706983661
+09/07 15:55:02 INFO naive.ReasonableBot|8 DAY 18 WON at cost 0.17086922638942995
+09/07 15:55:02 INFO naive.ReasonableBot|8 DAY 18 bid: 215 qs: 1.096194706983661
+09/07 15:55:13 INFO naive.ReasonableBot|8 DAY 19 bid: 161 qs: 1.096194706983661
+09/07 15:55:23 INFO naive.ReasonableBot|8 DAY 20 bid: 230 qs: 1.096194706983661
+09/07 15:55:32 INFO naive.ReasonableBot|8 DAY 21 bid: 116 qs: 0.7524670201446031
+09/07 15:55:43 INFO naive.ReasonableBot|8 DAY 22 bid: 130 qs: 0.7524670201446031
+09/07 15:55:54 INFO naive.ReasonableBot|8 DAY 23 bid: 376 qs: 0.7524670201446031

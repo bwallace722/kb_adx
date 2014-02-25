@@ -1,0 +1,48 @@
+15/07 13:17:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+15/07 13:17:01 INFO naive.ReasonableBot|8 DAY 0 bid: 512 qs: 0.0
+15/07 13:17:17 INFO naive.ReasonableBot|8 DAY 1 bid: 1230 qs: 1.0
+15/07 13:17:18 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc77fede
+15/07 13:17:22 INFO naive.ReasonableBot|8 DAY 2 bid: 656 qs: 1.0
+15/07 13:17:22 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv4,(CampaignReport CampaignReportEntry [tgt imps=627.0, ntg imps=512.0, cost=9.554429395867308E-4])]
+15/07 13:17:22 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv4,AdNetworkDailyNotification [effectiveDay=2, serviceLevel=1.0, price=0.076085155, qualityScore=1.0, campaignId=562850178, winner=adv5, cost=0.0]]
+15/07 13:17:22 INFO agents.BrownAgent|BrownAgent DAY 2 bid: 1000
+15/07 13:17:22 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver.  Message[coordinator,adv4,tau.tac.adx.report.demand.CampaignOpportunityMessage[576756921,10000,4,6,[FEMALE, HIGH_INCOME],2.0,1.5,2,[]]]
+15/07 13:17:22 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver.  Message[coordinator,adv4,simulationStatus[2,2821,false,[]]]
+15/07 13:17:32 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv4,(CampaignReport CampaignReportEntry [tgt imps=627.0, ntg imps=512.0, cost=9.554429395867308E-4] CampaignReportEntry [tgt imps=0.0, ntg imps=0.0, cost=0.0])]
+15/07 13:17:32 INFO agents.BrownAgent|BrownAgent DAY 3 bid: 400
+15/07 13:17:32 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver.  Message[coordinator,adv4,tau.tac.adx.report.demand.CampaignOpportunityMessage[1233453551,5000,5,9,[FEMALE, YOUNG],2.0,1.5,3,[]]]
+15/07 13:17:32 INFO naive.ReasonableBot|8 DAY 3 WON at cost 0.6579999999999999
+15/07 13:17:32 INFO naive.ReasonableBot|8 DAY 3 bid: 328 qs: 1.0
+15/07 13:17:33 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver.  Message[coordinator,adv4,simulationStatus[3,2923,false,[]]]
+15/07 13:17:35 SEVERE agentware.SimClient|************************************************************
+15/07 13:17:35 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+15/07 13:17:35 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent Agent1@127.0.0.1.
+15/07 13:17:35 SEVERE agentware.SimClient|************************************************************
+15/07 13:17:35 SEVERE agentware.ServerConnection|(7) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+15/07 13:17:35 SEVERE agentware.SimClient|************************************************************
+15/07 13:17:35 SEVERE agentware.SimClient|* Connection Lost
+15/07 13:17:35 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+15/07 13:17:35 SEVERE agentware.SimClient|************************************************************
+15/07 13:17:42 INFO naive.ReasonableBot|8 DAY 4 bid: 262 qs: 1.0
+15/07 13:17:42 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc77fede
+15/07 13:17:52 INFO naive.ReasonableBot|8 DAY 5 bid: 420 qs: 1.0
+15/07 13:17:52 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv4,(CampaignReport CampaignReportEntry [tgt imps=627.0, ntg imps=512.0, cost=9.554429395867308E-4] CampaignReportEntry [tgt imps=0.0, ntg imps=0.0, cost=0.0])]
+15/07 13:17:52 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv4,AdNetworkDailyNotification [effectiveDay=5, serviceLevel=1.0, price=0.10126934130500002, qualityScore=1.0, campaignId=1370935712, winner=adv6, cost=0.0]]
+15/07 13:17:52 INFO agents.BrownAgent|BrownAgent DAY 5 bid: 1000
+15/07 13:17:52 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver.  Message[coordinator,adv4,tau.tac.adx.report.demand.CampaignOpportunityMessage[1392343936,10000,7,11,[OLD, HIGH_INCOME],2.0,1.5,5,[]]]
+15/07 13:17:52 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver.  Message[coordinator,adv4,simulationStatus[5,2869,false,[]]]
+15/07 13:18:03 INFO naive.ReasonableBot|8 DAY 6 bid: 248 qs: 1.096194706983661
+15/07 13:18:04 SEVERE agentware.ServerConnection|(3) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+15/07 13:18:04 SEVERE agentware.SimClient|************************************************************
+15/07 13:18:04 SEVERE agentware.SimClient|* Connection Lost
+15/07 13:18:04 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+15/07 13:18:04 SEVERE agentware.SimClient|************************************************************

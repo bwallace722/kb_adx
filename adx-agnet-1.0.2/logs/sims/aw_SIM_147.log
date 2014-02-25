@@ -1,0 +1,5 @@
+09/07 17:43:02 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+09/07 17:43:02 INFO naive.ReasonableBot|1 DAY 0 bid: 1509 qs: 0.0
+09/07 17:43:19 INFO naive.ReasonableBot|1 DAY 1 WON at cost 1.518
+09/07 17:43:19 INFO naive.ReasonableBot|1 DAY 1 bid: 1006 qs: 1.0
+09/07 17:43:23 INFO naive.ReasonableBot|1 DAY 2 bid: 804 qs: 1.0

@@ -1,0 +1,53 @@
+06/07 15:37:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+06/07 15:38:13 INFO naive.ReasonableBot| WON at cost 0.025004230171957874
+06/07 15:38:52 INFO naive.ReasonableBot| WON at cost 0.012001014500147346
+06/07 15:39:13 INFO naive.ReasonableBot| WON at cost 0.00900076087511051
+06/07 15:39:23 INFO naive.ReasonableBot| WON at cost 0.024420473831847072
+06/07 15:39:33 INFO naive.ReasonableBot| WON at cost 0.029304568598216486
+06/07 15:39:43 INFO naive.ReasonableBot| WON at cost 0.03174661598140119
+06/07 15:39:52 INFO naive.ReasonableBot| WON at cost 0.044987106696085716
+06/07 15:39:52 INFO naive.ReasonableBot|bid is now 13
+06/07 15:40:03 INFO naive.ReasonableBot|bid is now 15
+06/07 15:40:13 INFO naive.ReasonableBot|bid is now 18
+06/07 15:40:23 INFO naive.ReasonableBot|bid is now 21
+06/07 15:40:33 INFO naive.ReasonableBot|bid is now 24
+06/07 15:40:43 INFO naive.ReasonableBot|bid is now 28
+06/07 15:40:53 INFO naive.ReasonableBot|bid is now 33
+06/07 15:41:02 INFO naive.ReasonableBot|bid is now 39
+06/07 15:41:13 INFO naive.ReasonableBot|bid is now 46
+06/07 15:41:22 INFO naive.ReasonableBot|bid is now 54
+06/07 15:41:33 INFO naive.ReasonableBot|bid is now 64
+06/07 15:41:43 INFO naive.ReasonableBot|bid is now 76
+06/07 15:41:53 INFO naive.ReasonableBot|bid is now 90
+06/07 15:42:03 INFO naive.ReasonableBot|bid is now 108
+06/07 15:42:13 INFO naive.ReasonableBot|bid is now 129
+06/07 15:42:22 INFO naive.ReasonableBot|bid is now 154
+06/07 15:42:33 INFO naive.ReasonableBot|bid is now 184
+06/07 15:42:44 INFO naive.ReasonableBot|bid is now 220
+06/07 15:42:55 INFO naive.ReasonableBot|bid is now 264
+06/07 15:43:05 INFO naive.ReasonableBot|bid is now 316
+06/07 15:43:14 INFO naive.ReasonableBot|bid is now 378
+06/07 15:43:23 INFO naive.ReasonableBot|bid is now 453
+06/07 15:43:34 INFO naive.ReasonableBot| WON at cost 0.17445995056698682
+06/07 15:43:34 INFO naive.ReasonableBot|bid is now 679
+06/07 15:43:43 INFO naive.ReasonableBot|bid is now 814
+06/07 15:43:53 INFO naive.ReasonableBot|bid is now 976
+06/07 15:44:04 INFO naive.ReasonableBot|bid is now 1170
+06/07 15:44:13 INFO naive.ReasonableBot|bid is now 1404
+06/07 15:44:23 INFO naive.ReasonableBot|bid is now 1684
+06/07 15:44:33 INFO naive.ReasonableBot|bid is now 2020
+06/07 15:44:42 INFO naive.ReasonableBot|bid is now 2424
+06/07 15:44:52 INFO naive.ReasonableBot|bid is now 2908
+06/07 15:45:02 INFO naive.ReasonableBot|bid is now 3489
+06/07 15:45:13 INFO naive.ReasonableBot|bid is now 4186
+06/07 15:45:23 INFO naive.ReasonableBot|bid is now 5022
+06/07 15:45:35 INFO naive.ReasonableBot|bid is now 6025
+06/07 15:45:43 INFO naive.ReasonableBot|bid is now 7230
+06/07 15:45:52 INFO naive.ReasonableBot|bid is now 8676
+06/07 15:46:02 INFO naive.ReasonableBot|bid is now 10410
+06/07 15:46:12 INFO naive.ReasonableBot|bid is now 12492
+06/07 15:46:22 INFO naive.ReasonableBot|bid is now 14989
+06/07 15:46:32 INFO naive.ReasonableBot|bid is now 17986
+06/07 15:46:42 INFO naive.ReasonableBot|bid is now 21582
+06/07 15:46:52 INFO naive.ReasonableBot|bid is now 25897
+06/07 15:47:00 INFO naive.ReasonableBot|bid is now 31075

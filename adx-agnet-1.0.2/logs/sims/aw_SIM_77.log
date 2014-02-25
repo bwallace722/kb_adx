@@ -1,0 +1,35 @@
+07/07 00:41:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+07/07 00:41:16 INFO naive.ReasonableBot| WON at cost 0.032
+07/07 00:41:25 INFO naive.ReasonableBot|Day 2: Updating campaign 1343563331 stats: 626.5 tgtImps 2677.5 nonTgtImps. Cost of imps is 0.004232966359241401
+07/07 00:41:25 INFO naive.ReasonableBot| WON at cost 0.025
+07/07 00:41:33 INFO naive.ReasonableBot|Day 3: Updating campaign 1521508299 stats: 149.0 tgtImps 71.0 nonTgtImps. Cost of imps is 7.836783986857107E-7
+07/07 00:41:33 INFO naive.ReasonableBot|Day 3: Updating campaign 1343563331 stats: 1253.0 tgtImps 3760.0 nonTgtImps. Cost of imps is 0.006299915163348622
+07/07 00:41:33 INFO naive.ReasonableBot| WON at cost 0.02
+07/07 00:41:42 INFO naive.ReasonableBot|Day 4: Updating campaign 1521508299 stats: 219.0 tgtImps 105.0 nonTgtImps. Cost of imps is 1.1514623698324372E-6
+07/07 00:41:42 INFO naive.ReasonableBot|Day 4: Updating campaign 1343563331 stats: 1565.0 tgtImps 3970.5 nonTgtImps. Cost of imps is 0.007025884875706944
+07/07 00:41:42 INFO naive.ReasonableBot|Day 4: Updating campaign 1950702248 stats: 28.5 tgtImps 41.0 nonTgtImps. Cost of imps is 1.1706790631675861E-7
+07/07 00:41:52 INFO naive.ReasonableBot|Day 5: Updating campaign 1521508299 stats: 351.0 tgtImps 138.0 nonTgtImps. Cost of imps is 1.666647988314206E-6
+07/07 00:41:52 INFO naive.ReasonableBot|Day 5: Updating campaign 1343563331 stats: 1566.5 tgtImps 3976.0 nonTgtImps. Cost of imps is 0.007036615358404569
+07/07 00:41:52 INFO naive.ReasonableBot|Day 5: Updating campaign 1950702248 stats: 60.0 tgtImps 109.5 nonTgtImps. Cost of imps is 2.476910727835123E-7
+07/07 00:41:52 INFO naive.ReasonableBot|Day 5: Updating campaign 1364640814 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+07/07 00:41:52 INFO naive.ReasonableBot| WON at cost 0.016
+07/07 00:42:02 INFO naive.ReasonableBot|Day 6: Updating campaign 1521508299 stats: 487.5 tgtImps 174.5 nonTgtImps. Cost of imps is 2.2920089183270663E-6
+07/07 00:42:02 INFO naive.ReasonableBot|Day 6: Updating campaign 1950702248 stats: 100.0 tgtImps 151.0 nonTgtImps. Cost of imps is 3.8264370490372855E-7
+07/07 00:42:02 INFO naive.ReasonableBot|Day 6: Updating campaign 1364640814 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+07/07 00:42:11 INFO naive.ReasonableBot|Day 7: Updating campaign 1950702248 stats: 129.0 tgtImps 172.0 nonTgtImps. Cost of imps is 4.842913021296866E-7
+07/07 00:42:11 INFO naive.ReasonableBot|Day 7: Updating campaign 289877277 stats: 3.0 tgtImps 7.0 nonTgtImps. Cost of imps is 2.1008570155828372E-8
+07/07 00:42:11 INFO naive.ReasonableBot|Day 7: Updating campaign 1364640814 stats: 8.5 tgtImps 6.0 nonTgtImps. Cost of imps is 2.0291604541285953E-8
+07/07 00:42:11 INFO naive.ReasonableBot| WON at cost 0.012004066906256869
+07/07 00:42:22 INFO naive.ReasonableBot|Day 8: Updating campaign 289877277 stats: 12.0 tgtImps 7.0 nonTgtImps. Cost of imps is 3.220857015582837E-8
+07/07 00:42:22 INFO naive.ReasonableBot|Day 8: Updating campaign 1364640814 stats: 22.5 tgtImps 22.5 nonTgtImps. Cost of imps is 6.209145210294849E-8
+07/07 00:42:31 INFO naive.ReasonableBot|Day 9: Updating campaign 1553083475 stats: 10.0 tgtImps 9.5 nonTgtImps. Cost of imps is 7.878199314530534E-8
+07/07 00:42:31 INFO naive.ReasonableBot|Day 9: Updating campaign 289877277 stats: 13.5 tgtImps 8.5 nonTgtImps. Cost of imps is 4.0088654822629026E-8
+07/07 00:42:42 INFO naive.ReasonableBot|Day 10: Updating campaign 1553083475 stats: 32.0 tgtImps 23.5 nonTgtImps. Cost of imps is 1.9626413427388921E-7
+07/07 00:42:42 INFO naive.ReasonableBot|Day 10: Updating campaign 289877277 stats: 24.0 tgtImps 28.0 nonTgtImps. Cost of imps is 6.889038840380415E-8
+07/07 00:42:52 INFO naive.ReasonableBot|Day 11: Updating campaign 1553083475 stats: 62.0 tgtImps 31.0 nonTgtImps. Cost of imps is 3.0974048965456636E-7
+07/07 00:43:02 INFO naive.ReasonableBot|Day 12: Updating campaign 1553083475 stats: 78.0 tgtImps 47.0 nonTgtImps. Cost of imps is 4.281237887414742E-7
+07/07 00:43:12 INFO naive.ReasonableBot|Day 13: Updating campaign 1553083475 stats: 115.0 tgtImps 67.5 nonTgtImps. Cost of imps is 5.935777785345064E-7
+07/07 00:43:21 INFO naive.ReasonableBot|Day 14: Updating campaign 1553083475 stats: 171.5 tgtImps 98.0 nonTgtImps. Cost of imps is 7.945485638768794E-7
+07/07 00:43:32 INFO naive.ReasonableBot|Day 15: Updating campaign 1553083475 stats: 198.0 tgtImps 119.0 nonTgtImps. Cost of imps is 9.223488504196896E-7
+07/07 00:43:42 INFO naive.ReasonableBot|Day 16: Updating campaign 1553083475 stats: 217.0 tgtImps 135.5 nonTgtImps. Cost of imps is 1.0451360200118508E-6
+07/07 00:43:52 INFO naive.ReasonableBot|Day 17: Updating campaign 1553083475 stats: 236.0 tgtImps 149.5 nonTgtImps. Cost of imps is 1.1563569000321155E-6

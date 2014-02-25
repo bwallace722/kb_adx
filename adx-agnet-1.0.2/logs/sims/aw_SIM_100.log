@@ -1,0 +1,51 @@
+07/07 19:18:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 19:18:01 INFO naive.ReasonableBot|DAY 0 Actually bidding 2460
+07/07 19:18:26 INFO naive.ReasonableBot|DAY 1 Actually bidding 5905
+07/07 19:18:30 INFO naive.ReasonableBot|Day 2 ongoing campaigns:
+23999306 days left: 3/4 target reach: 1250 to go: 622
+07/07 19:18:30 INFO naive.ReasonableBot|DAY 2 Actually bidding 3149
+07/07 19:18:38 INFO naive.ReasonableBot|Day 3 ongoing campaigns:
+23999306 days left: 2/4 target reach: 1250 to go: 622
+07/07 19:18:38 INFO naive.ReasonableBot|DAY 3 Actually bidding 2519
+07/07 19:18:45 INFO naive.ReasonableBot|Day 4 ongoing campaigns:
+23999306 days left: 1/4 target reach: 1250 to go: 622
+07/07 19:18:45 INFO naive.ReasonableBot|DAY 4 Actually bidding 2015
+07/07 19:19:09 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+23999306 days left: 0/4 target reach: 1250 to go: 309
+07/07 19:19:09 INFO naive.ReasonableBot|DAY 5 WON at cost 3.776
+07/07 19:19:09 INFO naive.ReasonableBot|DAY 5 Actually bidding 2015
+07/07 19:19:15 INFO naive.ReasonableBot|Day 6 ongoing campaigns:
+557670478 days left: 2/2 target reach: 10000 to go: 10000
+07/07 19:19:15 INFO naive.ReasonableBot|DAY 6 Actually bidding 806
+07/07 19:19:18 INFO naive.ReasonableBot|Day 7 ongoing campaigns:
+557670478 days left: 1/2 target reach: 10000 to go: 10000
+07/07 19:19:18 INFO naive.ReasonableBot|DAY 7 Actually bidding 1935
+07/07 19:19:36 INFO naive.ReasonableBot|Day 8 ongoing campaigns:
+557670478 days left: 0/2 target reach: 10000 to go: 10000
+07/07 19:19:36 INFO naive.ReasonableBot|DAY 8 Actually bidding 516
+07/07 19:19:41 INFO naive.ReasonableBot|Day 9 ongoing campaigns:
+07/07 19:19:41 INFO naive.ReasonableBot|DAY 9 Actually bidding 1238
+07/07 19:19:59 INFO naive.ReasonableBot|Day 10 ongoing campaigns:
+07/07 19:19:59 INFO naive.ReasonableBot|DAY 10 Actually bidding 330
+07/07 19:20:12 INFO naive.ReasonableBot|Day 11 ongoing campaigns:
+07/07 19:20:12 INFO naive.ReasonableBot|DAY 11 Actually bidding 792
+07/07 19:20:38 INFO naive.ReasonableBot|Day 12 ongoing campaigns:
+07/07 19:20:38 INFO naive.ReasonableBot|DAY 12 Actually bidding 422
+07/07 19:20:52 INFO naive.ReasonableBot|Day 13 ongoing campaigns:
+07/07 19:20:52 INFO naive.ReasonableBot|DAY 13 Actually bidding 507
+07/07 19:20:52 INFO naive.ReasonableBot|Day 14 ongoing campaigns:
+07/07 19:20:52 INFO naive.ReasonableBot|DAY 14 Actually bidding 270
+07/07 19:20:56 INFO naive.ReasonableBot|Day 15 ongoing campaigns:
+07/07 19:20:56 INFO naive.ReasonableBot|DAY 15 Actually bidding 324
+07/07 19:21:11 INFO naive.ReasonableBot|Day 16 ongoing campaigns:
+07/07 19:21:12 INFO naive.ReasonableBot|DAY 16 Actually bidding 86
+07/07 19:21:12 INFO naive.ReasonableBot|Day 17 ongoing campaigns:
+07/07 19:21:12 INFO naive.ReasonableBot|DAY 17 Actually bidding 69
+07/07 19:21:41 INFO naive.ReasonableBot|Day 18 ongoing campaigns:
+07/07 19:21:41 INFO naive.ReasonableBot|DAY 18 Actually bidding 110
+07/07 19:21:47 INFO naive.ReasonableBot|Day 19 ongoing campaigns:
+07/07 19:21:47 INFO naive.ReasonableBot|DAY 19 Actually bidding 44
+07/07 19:21:57 INFO naive.ReasonableBot|Day 20 ongoing campaigns:
+07/07 19:21:57 INFO naive.ReasonableBot|DAY 20 Actually bidding 35
+07/07 19:21:57 INFO naive.ReasonableBot|Day 21 ongoing campaigns:
+07/07 19:21:57 INFO naive.ReasonableBot|DAY 21 Actually bidding 28

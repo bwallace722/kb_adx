@@ -1,0 +1,17 @@
+09/07 15:14:27 INFO agentware.SimClient|next simulation starts in 32 seconds
+09/07 15:14:41 SEVERE agentware.SimClient|************************************************************
+09/07 15:14:41 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+09/07 15:14:41 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent Agent7@127.0.0.1.
+09/07 15:14:41 SEVERE agentware.SimClient|************************************************************
+09/07 15:14:41 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+09/07 15:14:41 SEVERE agentware.SimClient|************************************************************
+09/07 15:14:41 SEVERE agentware.SimClient|* Connection Lost
+09/07 15:14:41 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+09/07 15:14:41 SEVERE agentware.SimClient|************************************************************
+09/07 15:15:11 INFO agentware.SimClient|next simulation 136 has already started
+09/07 15:16:11 INFO agentware.SimClient|next simulation 136 has already started

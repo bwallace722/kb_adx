@@ -1,0 +1,163 @@
+28/06 19:51:01 INFO agents.SampleAdNetwork|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0 :BankStatus[0.000000]
+28/06 19:51:01 INFO agents.SampleAdNetwork|tau.tac.adx.report.demand.InitialCampaignMessage[646054311,1250,1,5,[YOUNG, HIGH_INCOME],2.0,1.5,demand,[]]
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0: Allocated campaign - Campaign ID 646054311: day 1 to 5  YOUNG HIGH_INCOME, reach: 1250 coefs: (v=2.0, m=1.5)
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0: Campaign opportunity - Campaign ID 1686581432: day 2 to 11  OLD LOW_INCOME, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0: Campaign total budget bid: 7.044
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0: Initial ucs bid is 0.13113309762627523
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0 : Simulation Status Received
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0: Updated 24 Bid Bundle entries for Campaign id 646054311
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0: Sending BidBundle
+28/06 19:51:01 INFO agents.SampleAdNetwork|Day 0 ended. Starting next day
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1 :BankStatus[0.000000]
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1: Daily notification for campaign 1686581432
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1:  allocated to DummyAdnetwork-3. UCS Level set to 0.7290000000000001 at price 0.09161168230577005 Qualit Score is: 1.0
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1: Campaign opportunity - Campaign ID 1333291928: day 3 to 7  OLD HIGH_INCOME, reach: 5000 coefs: (v=2.0, m=1.5)
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1: Campaign total budget bid: 3.103
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1: Adjusting ucs bid: was 0.13113309762627523 level reported: 0.7290000000000001 target: 0.6 adjusted: 0.11421692803248573
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1 : Simulation Status Received
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1: Updated 24 Bid Bundle entries for Campaign id 646054311
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1: Sending BidBundle
+28/06 19:51:14 INFO agents.SampleAdNetwork|Day 1 ended. Starting next day
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2 :BankStatus[-0.091612]
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Updating campaign 646054311 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Daily notification for campaign 1333291928
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2:  allocated to DummyAdnetwork-2. UCS Level set to 0.6561000000000001 at price 0.07270348151229361 Qualit Score is: 1.0
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Campaign opportunity - Campaign ID 1865652910: day 4 to 8  LOW_INCOME FEMALE, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Campaign total budget bid: 4.985
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Adjusting ucs bid: was 0.11421692803248573 level reported: 0.6561000000000001 target: 0.6 adjusted: 0.10780935836986327
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2 : Simulation Status Received
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Updated 24 Bid Bundle entries for Campaign id 646054311
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2: Sending BidBundle
+28/06 19:51:26 INFO agents.SampleAdNetwork|Day 2 ended. Starting next day
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3 :BankStatus[-0.174876]
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Updating campaign 646054311 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Daily notification for campaign 1865652910
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3:  allocated to DummyAdnetwork. UCS Level set to 0.5314410000000002 at price 0.051094912172155234 Qualit Score is: 1.0
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Campaign opportunity - Campaign ID 98022491: day 5 to 7  OLD FEMALE, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Campaign total budget bid: 4.504
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Adjusting ucs bid: was 0.10780935836986327 level reported: 0.5314410000000002 target: 0.6 adjusted: 0.11520066017034274
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3 : Simulation Status Received
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Updated 24 Bid Bundle entries for Campaign id 646054311
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3: Sending BidBundle
+28/06 19:51:38 INFO agents.SampleAdNetwork|Day 3 ended. Starting next day
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4 :BankStatus[-0.260710]
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Updating campaign 646054311 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Daily notification for campaign 98022491
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4:  allocated to DummyAdnetwork-6. UCS Level set to 0.5904900000000002 at price 0.06668358933671618 Qualit Score is: 1.0
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Campaign opportunity - Campaign ID 810573041: day 6 to 10  YOUNG HIGH_INCOME, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Campaign total budget bid: 4.611
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Adjusting ucs bid: was 0.11520066017034274 level reported: 0.5904900000000002 target: 0.6 adjusted: 0.11629621844856268
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4 : Simulation Status Received
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Updated 24 Bid Bundle entries for Campaign id 646054311
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4: Sending BidBundle
+28/06 19:51:42 INFO agents.SampleAdNetwork|Day 4 ended. Starting next day
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5 :BankStatus[-0.348997]
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5: Updating campaign 646054311 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5: Daily notification for campaign 810573041
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5:  allocated to DummyAdnetwork. UCS Level set to 0.5314410000000002 at price 0.055111247745497555 Qualit Score is: 1.0
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5: Campaign opportunity - Campaign ID 2120602781: day 7 to 9  LOW_INCOME MALE, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5: Campaign total budget bid: 3.981
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5: Adjusting ucs bid: was 0.11629621844856268 level reported: 0.5314410000000002 target: 0.6 adjusted: 0.1242693708891777
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5 : Simulation Status Received
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5: Sending BidBundle
+28/06 19:51:52 INFO agents.SampleAdNetwork|Day 5 ended. Starting next day
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6 :BankStatus[-0.436001]
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6: Daily notification for campaign 2120602781
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6:  allocated to DummyAdnetwork-7. UCS Level set to 0.6561000000000001 at price 0.0795180922004469 Qualit Score is: 0.4
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6: Campaign opportunity - Campaign ID 38381947: day 8 to 17  OLD FEMALE, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6: Campaign total budget bid: 3.971
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6: Adjusting ucs bid: was 0.1242693708891777 level reported: 0.6561000000000001 target: 0.6 adjusted: 0.11729785918229482
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6 : Simulation Status Received
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6: Sending BidBundle
+28/06 19:52:05 INFO agents.SampleAdNetwork|Day 6 ended. Starting next day
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7 :BankStatus[-0.526593]
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7: Daily notification for campaign 38381947
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7:  allocated to DummyAdnetwork-4. UCS Level set to 0.5904900000000002 at price 0.06821197725829725 Qualit Score is: 0.4
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7: Campaign opportunity - Campaign ID 1806528813: day 9 to 18  YOUNG LOW_INCOME, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7: Campaign total budget bid: 11.139
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7: Adjusting ucs bid: was 0.11729785918229482 level reported: 0.5904900000000002 target: 0.6 adjusted: 0.11841336182311843
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7 : Simulation Status Received
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7: Sending BidBundle
+28/06 19:52:17 INFO agents.SampleAdNetwork|Day 7 ended. Starting next day
+28/06 19:52:25 INFO agents.SampleAdNetwork|Day 8 :BankStatus[-0.614833]
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8: Daily notification for campaign 1806528813
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8:  allocated to DummyAdnetwork-2. UCS Level set to 0.5904900000000002 at price 0.06897733532616651 Qualit Score is: 0.4
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8: Campaign opportunity - Campaign ID 1051080762: day 10 to 14  LOW_INCOME FEMALE, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8: Campaign total budget bid: 13.202
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8: Adjusting ucs bid: was 0.11841336182311843 level reported: 0.5904900000000002 target: 0.6 adjusted: 0.11953947289405628
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8 : Simulation Status Received
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8: Sending BidBundle
+28/06 19:52:26 INFO agents.SampleAdNetwork|Day 8 ended. Starting next day
+28/06 19:52:40 INFO agents.SampleAdNetwork|Day 9 :BankStatus[-0.702079]
+28/06 19:52:40 INFO agents.SampleAdNetwork|Day 9: Daily notification for campaign 1051080762
+28/06 19:52:40 INFO agents.SampleAdNetwork|Day 9:  allocated to DummyAdnetwork-5. UCS Level set to 0.5904900000000002 at price 0.06286520580281468 Qualit Score is: 0.4
+28/06 19:52:40 INFO agents.SampleAdNetwork|Day 9: Campaign opportunity - Campaign ID 1942847450: day 11 to 13  FEMALE HIGH_INCOME, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:52:40 INFO agents.SampleAdNetwork|Day 9: Campaign total budget bid: 2.141
+28/06 19:52:40 INFO agents.SampleAdNetwork|Day 9: Adjusting ucs bid: was 0.11953947289405628 level reported: 0.5904900000000002 target: 0.6 adjusted: 0.12067629328127874
+28/06 19:52:44 INFO agents.SampleAdNetwork|Day 9 : Simulation Status Received
+28/06 19:52:44 INFO agents.SampleAdNetwork|Day 9: Sending BidBundle
+28/06 19:52:44 INFO agents.SampleAdNetwork|Day 9 ended. Starting next day
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10 :BankStatus[-0.790608]
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10: Daily notification for campaign 1942847450
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10:  allocated to . UCS Level set to 0.5904900000000002 at price 0.06286520580281468 Qualit Score is: 0.4
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10: Campaign opportunity - Campaign ID 1628203418: day 12 to 21  FEMALE HIGH_INCOME, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10: Campaign total budget bid: 14.736
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10: Adjusting ucs bid: was 0.12067629328127874 level reported: 0.5904900000000002 target: 0.6 adjusted: 0.12182392483038369
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10 : Simulation Status Received
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10: Sending BidBundle
+28/06 19:52:45 INFO agents.SampleAdNetwork|Day 10 ended. Starting next day
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11 :BankStatus[-0.879137]
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11: Daily notification for campaign 1628203418
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11:  allocated to DummyAdnetwork-5. UCS Level set to 0.6561000000000001 at price 0.07975627190256174 Qualit Score is: 0.4
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11: Campaign opportunity - Campaign ID 676408664: day 13 to 17  HIGH_INCOME MALE, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11: Campaign total budget bid: 3.033
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11: Adjusting ucs bid: was 0.12182392483038369 level reported: 0.6561000000000001 target: 0.6 adjusted: 0.11498960264739916
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11 : Simulation Status Received
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11: Sending BidBundle
+28/06 19:52:58 INFO agents.SampleAdNetwork|Day 11 ended. Starting next day
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12 :BankStatus[-0.967946]
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12: Daily notification for campaign 676408664
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12:  allocated to DummyAdnetwork-4. UCS Level set to 0.5314410000000002 at price 0.05942517826974995 Qualit Score is: 0.4
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12: Campaign opportunity - Campaign ID 701370656: day 14 to 23  YOUNG FEMALE, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12: Campaign total budget bid: 2.531
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12: Adjusting ucs bid: was 0.11498960264739916 level reported: 0.5314410000000002 target: 0.6 adjusted: 0.1228731748153022
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12 : Simulation Status Received
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12: Sending BidBundle
+28/06 19:53:08 INFO agents.SampleAdNetwork|Day 12 ended. Starting next day
+28/06 19:53:20 INFO agents.SampleAdNetwork|Day 13 :BankStatus[-1.056420]
+28/06 19:53:20 INFO agents.SampleAdNetwork|Day 13: Daily notification for campaign 701370656
+28/06 19:53:20 INFO agents.SampleAdNetwork|Day 13:  allocated to DummyAdnetwork-7. UCS Level set to 0.6561000000000001 at price 0.0793614903018771 Qualit Score is: 0.4
+28/06 19:53:20 INFO agents.SampleAdNetwork|Day 13: Campaign opportunity - Campaign ID 162732344: day 15 to 19  LOW_INCOME FEMALE, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:53:20 INFO agents.SampleAdNetwork|Day 13: Campaign total budget bid: 8.249
+28/06 19:53:20 INFO agents.SampleAdNetwork|Day 13: Adjusting ucs bid: was 0.1228731748153022 level reported: 0.6561000000000001 target: 0.6 adjusted: 0.10556591036933882
+28/06 19:53:22 INFO agents.SampleAdNetwork|Day 13 : Simulation Status Received
+28/06 19:53:22 INFO agents.SampleAdNetwork|Day 13: Sending BidBundle
+28/06 19:53:22 INFO agents.SampleAdNetwork|Day 13 ended. Starting next day
+28/06 19:53:23 INFO agents.SampleAdNetwork|Day 14 :BankStatus[-1.145995]
+28/06 19:53:23 INFO agents.SampleAdNetwork|Day 14: Daily notification for campaign 162732344
+28/06 19:53:23 INFO agents.SampleAdNetwork|Day 14:  allocated to . UCS Level set to 0.6561000000000001 at price 0.0793614903018771 Qualit Score is: 0.4
+28/06 19:53:23 INFO agents.SampleAdNetwork|Day 14: Campaign opportunity - Campaign ID 935229168: day 16 to 18  OLD LOW_INCOME, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:53:23 INFO agents.SampleAdNetwork|Day 14: Campaign total budget bid: 5.8
+28/06 19:53:23 INFO agents.SampleAdNetwork|Day 14: Adjusting ucs bid: was 0.10556591036933882 level reported: 0.6561000000000001 target: 0.6 adjusted: 0.09964366279761891
+28/06 19:53:24 INFO agents.SampleAdNetwork|Day 14 : Simulation Status Received
+28/06 19:53:24 INFO agents.SampleAdNetwork|Day 14: Sending BidBundle
+28/06 19:53:24 INFO agents.SampleAdNetwork|Day 14 ended. Starting next day
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15 :BankStatus[-1.235569]
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15: Daily notification for campaign 935229168
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15:  allocated to DummyAdnetwork-6. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15: Campaign opportunity - Campaign ID 1115547607: day 17 to 26  OLD MALE, reach: 15000 coefs: (v=2.0, m=1.5)
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15: Campaign total budget bid: 8.947
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15: Adjusting ucs bid: was 0.09964366279761891 level reported: 0.47829690000000014 target: 0.6 adjusted: 0.1117706054554438
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15 : Simulation Status Received
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15: Sending BidBundle
+28/06 19:53:35 INFO agents.SampleAdNetwork|Day 15 ended. Starting next day
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16 :BankStatus[-1.330570]
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16: Daily notification for campaign 1115547607
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16:  allocated to DummyAdnetwork-4. UCS Level set to 0.5314410000000002 at price 0.05319798041452786 Qualit Score is: 0.4
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16: Campaign opportunity - Campaign ID 1101564992: day 18 to 22  YOUNG HIGH_INCOME, reach: 10000 coefs: (v=2.0, m=1.5)
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16: Campaign total budget bid: 7.555
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16: Adjusting ucs bid: was 0.1117706054554438 level reported: 0.5314410000000002 target: 0.6 adjusted: 0.11943348639486358
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16 : Simulation Status Received
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16: Sending BidBundle
+28/06 19:53:47 INFO agents.SampleAdNetwork|Day 16 ended. Starting next day

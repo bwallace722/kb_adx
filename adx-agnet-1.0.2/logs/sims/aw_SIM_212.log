@@ -1,0 +1,16 @@
+21/02 23:49:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+21/02 23:49:01 INFO naive.ReasonableBot|3 DAY 0 bid: 522 qs: 0.0
+21/02 23:49:15 INFO naive.ReasonableBot|3 DAY 1 bid: 418 qs: 1.0
+21/02 23:49:24 INFO naive.ReasonableBot|3 DAY 2 bid: 669 qs: 1.0
+21/02 23:49:34 INFO naive.ReasonableBot|3 DAY 3 bid: 535 qs: 1.0
+21/02 23:49:45 INFO naive.ReasonableBot|3 DAY 4 bid: 428 qs: 1.0
+21/02 23:49:53 INFO naive.ReasonableBot|3 DAY 5 bid: 171 qs: 1.0
+21/02 23:50:02 INFO naive.ReasonableBot|3 DAY 6 WON at cost 0.175
+21/02 23:50:02 INFO naive.ReasonableBot|3 DAY 6 bid: 342 qs: 1.0959128725998597
+21/02 23:50:12 INFO naive.ReasonableBot|3 DAY 7 bid: 137 qs: 1.0959128725998597
+21/02 23:50:22 INFO naive.ReasonableBot|3 DAY 8 bid: 219 qs: 1.0959128725998597
+21/02 23:50:33 INFO naive.ReasonableBot|3 DAY 9 WON at cost 0.22398077481864986
+21/02 23:50:33 INFO naive.ReasonableBot|3 DAY 9 bid: 327 qs: 1.0959128725998597
+21/02 23:50:43 INFO naive.ReasonableBot|3 DAY 10 bid: 392 qs: 0.5380700143893207
+21/02 23:50:52 INFO naive.ReasonableBot|3 DAY 11 bid: 104 qs: 0.5380700143893207
+21/02 23:51:03 INFO naive.ReasonableBot|3 DAY 12 bid: 377 qs: 0.5380700143893207

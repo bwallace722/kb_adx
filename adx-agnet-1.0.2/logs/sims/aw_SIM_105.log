@@ -1,0 +1,131 @@
+07/07 21:57:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 21:57:01 INFO naive.ReasonableBot|DAY 0 Actually bidding 5012
+07/07 21:57:20 INFO naive.ReasonableBot|DAY 1 Actually bidding 4009
+07/07 21:57:27 INFO naive.ReasonableBot|Day 2 ongoing campaigns:
+1584552295 days left: 3/4 target reach: 1250 to go: 1250
+07/07 21:57:27 INFO naive.ReasonableBot|DAY 2 Actually bidding 3207
+07/07 21:57:36 INFO naive.ReasonableBot|Day 3 ongoing campaigns:
+1584552295 days left: 2/4 target reach: 1250 to go: 1250
+07/07 21:57:36 INFO naive.ReasonableBot|DAY 3 WON at cost 3.2479999999999998
+07/07 21:57:36 INFO naive.ReasonableBot|DAY 3 Actually bidding 3207
+07/07 21:57:54 INFO naive.ReasonableBot|Day 4 ongoing campaigns:
+1584552295 days left: 1/4 target reach: 1250 to go: 623
+1806980738 days left: 9/9 target reach: 10000 to go: 10000
+07/07 21:57:54 INFO naive.ReasonableBot|DAY 4 Actually bidding 2566
+07/07 21:58:07 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+1584552295 days left: 0/4 target reach: 1250 to go: 0
+1806980738 days left: 8/9 target reach: 10000 to go: 10000
+07/07 21:58:07 INFO naive.ReasonableBot|DAY 5 Actually bidding 1026
+07/07 21:58:20 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,simulationStatus[5,16869,false,[]]]
+java.lang.ArithmeticException: / by zero
+	at naive.QualityRatingBot.sendBidAndAds(QualityRatingBot.java:39)
+	at naive.ReasonableBot.handleSimulationStatus(ReasonableBot.java:330)
+	at naive.ReasonableBot.messageReceived(ReasonableBot.java:146)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+07/07 21:58:21 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+1584552295 days left: 0/4 target reach: 1250 to go: 0
+1806980738 days left: 8/9 target reach: 10000 to go: 10000
+07/07 21:58:21 INFO naive.ReasonableBot|DAY 6 Actually bidding 2463
+07/07 21:58:41 INFO naive.ReasonableBot|Day 7 ongoing campaigns:
+1806980738 days left: 6/9 target reach: 10000 to go: 10000
+07/07 21:58:41 INFO naive.ReasonableBot|DAY 7 Actually bidding 656
+07/07 21:58:41 INFO naive.ReasonableBot|Day 8 ongoing campaigns:
+1806980738 days left: 5/9 target reach: 10000 to go: 4999
+07/07 21:58:41 INFO naive.ReasonableBot|DAY 8 Actually bidding 1576
+07/07 21:58:49 INFO naive.ReasonableBot|Day 9 ongoing campaigns:
+1806980738 days left: 4/9 target reach: 10000 to go: 4999
+07/07 21:58:49 INFO naive.ReasonableBot|DAY 9 Actually bidding 1261
+07/07 21:58:49 INFO naive.ReasonableBot|Day 10 ongoing campaigns:
+1806980738 days left: 3/9 target reach: 10000 to go: 4999
+07/07 21:58:49 INFO naive.ReasonableBot|DAY 10 Actually bidding 1009
+07/07 21:58:53 INFO naive.ReasonableBot|Day 11 ongoing campaigns:
+1806980738 days left: 2/9 target reach: 10000 to go: 4999
+07/07 21:58:53 INFO naive.ReasonableBot|DAY 11 WON at cost 6.655550865727221
+07/07 21:58:53 INFO naive.ReasonableBot|DAY 11 Actually bidding 336
+07/07 21:59:03 INFO naive.ReasonableBot|Day 12 ongoing campaigns:
+2014215938 days left: 9/9 target reach: 15000 to go: 15000
+1806980738 days left: 1/9 target reach: 10000 to go: 4999
+07/07 21:59:03 INFO naive.ReasonableBot|DAY 12 Actually bidding 269
+07/07 21:59:12 INFO naive.ReasonableBot|Day 13 ongoing campaigns:
+2014215938 days left: 8/9 target reach: 15000 to go: 15000
+1806980738 days left: 0/9 target reach: 10000 to go: 4999
+07/07 21:59:12 INFO naive.ReasonableBot|DAY 13 Actually bidding 645
+07/07 21:59:12 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,simulationStatus[13,2462,false,[]]]
+java.lang.ArithmeticException: / by zero
+	at naive.QualityRatingBot.sendBidAndAds(QualityRatingBot.java:39)
+	at naive.ReasonableBot.handleSimulationStatus(ReasonableBot.java:330)
+	at naive.ReasonableBot.messageReceived(ReasonableBot.java:146)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+07/07 21:59:30 INFO naive.ReasonableBot|Day 13 ongoing campaigns:
+2014215938 days left: 8/9 target reach: 15000 to go: 7499
+1806980738 days left: 0/9 target reach: 10000 to go: 4999
+07/07 21:59:30 INFO naive.ReasonableBot|DAY 14 Actually bidding 516
+07/07 21:59:45 INFO naive.ReasonableBot|Day 15 ongoing campaigns:
+2014215938 days left: 6/9 target reach: 15000 to go: 7499
+07/07 21:59:45 INFO naive.ReasonableBot|DAY 15 Actually bidding 275
+07/07 21:59:50 INFO naive.ReasonableBot|Day 16 ongoing campaigns:
+2014215938 days left: 5/9 target reach: 15000 to go: 7499
+07/07 21:59:50 INFO naive.ReasonableBot|DAY 16 Actually bidding 220
+07/07 21:59:54 INFO naive.ReasonableBot|Day 17 ongoing campaigns:
+2014215938 days left: 4/9 target reach: 15000 to go: 7499
+07/07 21:59:54 INFO naive.ReasonableBot|DAY 17 Actually bidding 264
+07/07 22:00:03 INFO naive.ReasonableBot|Day 18 ongoing campaigns:
+2014215938 days left: 3/9 target reach: 15000 to go: 7499
+07/07 22:00:03 INFO naive.ReasonableBot|DAY 18 WON at cost 0.40390047166088455
+07/07 22:00:03 INFO naive.ReasonableBot|DAY 18 Actually bidding 264
+07/07 22:00:21 INFO naive.ReasonableBot|Day 19 ongoing campaigns:
+1258479444 days left: 9/9 target reach: 15000 to go: 15000
+2014215938 days left: 2/9 target reach: 15000 to go: 7499
+07/07 22:00:21 INFO naive.ReasonableBot|DAY 19 Actually bidding 70
+07/07 22:00:30 INFO naive.ReasonableBot|Day 20 ongoing campaigns:
+1258479444 days left: 8/9 target reach: 15000 to go: 15000
+2014215938 days left: 1/9 target reach: 15000 to go: 7499
+07/07 22:00:30 INFO naive.ReasonableBot|DAY 20 Actually bidding 56
+07/07 22:00:35 INFO naive.ReasonableBot|Day 21 ongoing campaigns:
+1258479444 days left: 7/9 target reach: 15000 to go: 15000
+2014215938 days left: 0/9 target reach: 15000 to go: 7499
+07/07 22:00:35 INFO naive.ReasonableBot|DAY 21 Actually bidding 135
+07/07 22:00:35 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,simulationStatus[21,5665,false,[]]]
+java.lang.ArithmeticException: / by zero
+	at naive.QualityRatingBot.sendBidAndAds(QualityRatingBot.java:39)
+	at naive.ReasonableBot.handleSimulationStatus(ReasonableBot.java:330)
+	at naive.ReasonableBot.messageReceived(ReasonableBot.java:146)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+07/07 22:00:44 INFO naive.ReasonableBot|Day 21 ongoing campaigns:
+1258479444 days left: 7/9 target reach: 15000 to go: 15000
+2014215938 days left: 0/9 target reach: 15000 to go: 7499
+07/07 22:00:44 INFO naive.ReasonableBot|DAY 21 WON at cost 1.5156597481341478
+07/07 22:00:44 INFO naive.ReasonableBot|DAY 22 Actually bidding 90
+07/07 22:00:53 INFO naive.ReasonableBot|Day 23 ongoing campaigns:
+1258479444 days left: 5/9 target reach: 15000 to go: 12770
+1893490606 days left: 2/2 target reach: 15000 to go: 15000
+07/07 22:00:53 INFO naive.ReasonableBot|DAY 23 WON at cost 0.2950702122565265
+07/07 22:00:53 INFO naive.ReasonableBot|DAY 23 Actually bidding 90
+07/07 22:01:12 INFO naive.ReasonableBot|Day 24 ongoing campaigns:
+1258479444 days left: 4/9 target reach: 15000 to go: 10562
+443505780 days left: 9/9 target reach: 10000 to go: 10000
+1893490606 days left: 1/2 target reach: 15000 to go: 15000
+07/07 22:01:12 INFO naive.ReasonableBot|DAY 24 Actually bidding 108
+07/07 22:01:15 INFO naive.ReasonableBot|Day 25 ongoing campaigns:
+1258479444 days left: 3/9 target reach: 15000 to go: 10562
+443505780 days left: 8/9 target reach: 10000 to go: 10000
+1893490606 days left: 0/2 target reach: 15000 to go: 13872
+07/07 22:01:15 INFO naive.ReasonableBot|DAY 25 Actually bidding 86
+07/07 22:01:15 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,simulationStatus[25,5249,false,[]]]
+java.lang.ArithmeticException: / by zero
+	at naive.QualityRatingBot.sendBidAndAds(QualityRatingBot.java:39)
+	at naive.ReasonableBot.handleSimulationStatus(ReasonableBot.java:330)
+	at naive.ReasonableBot.messageReceived(ReasonableBot.java:146)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)

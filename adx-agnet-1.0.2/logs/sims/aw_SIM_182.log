@@ -1,0 +1,136 @@
+14/07 01:07:01 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+14/07 01:07:01 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 01:07:01 INFO agents.BrownAgent|tau.tac.adx.report.demand.InitialCampaignMessage[1023767301,1250,1,5,[OLD, HIGH_INCOME],2.0,1.5,demand,[]]
+14/07 01:07:01 INFO agents.BrownAgent|Day 0: Allocated campaign - Campaign ID 1023767301: day 1 to 5 [OLD, HIGH_INCOME], reach: 1250 coefs: (v=2.0, m=1.5)
+14/07 01:07:01 INFO agents.BrownAgent|1
+14/07 01:07:01 INFO agents.BrownAgent|2
+14/07 01:07:01 INFO agents.BrownAgent|Day 0: Campaign opportunity - Campaign ID 2067892688: day 2 to 4 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:07:01 INFO agents.BrownAgent|3
+14/07 01:07:01 INFO agents.BrownAgent|4
+14/07 01:07:01 INFO agents.BrownAgent|5
+14/07 01:07:01 INFO agents.BrownAgent|6
+14/07 01:07:01 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:07:01 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:07:01 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[0,1497,false,[]]]
+14/07 01:07:13 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 01:07:13 INFO agents.BrownAgent|Day 0: Daily notification for campaign 2067892688
+14/07 01:07:13 INFO agents.BrownAgent|about to update modeler
+14/07 01:07:13 INFO agents.BrownAgent|Day 0:  WON at cost 0.68. UCS Level set to 0.5314410000000002 at price 0.061854347992408555 Qualit Score is: 1.0
+14/07 01:07:13 INFO agents.BrownAgent|1
+14/07 01:07:13 INFO agents.BrownAgent|2
+14/07 01:07:13 INFO agents.BrownAgent|Day 1: Campaign opportunity - Campaign ID 1158647524: day 3 to 7 [YOUNG, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:07:13 INFO agents.BrownAgent|3
+14/07 01:07:13 INFO agents.BrownAgent|4
+14/07 01:07:13 INFO agents.BrownAgent|5
+14/07 01:07:13 INFO agents.BrownAgent|6
+14/07 01:07:13 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:07:13 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:07:13 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[1,3605,false,[]]]
+14/07 01:07:23 INFO agents.BrownAgent|Day 1 :BankStatus[-0.095359]
+14/07 01:07:23 INFO agents.BrownAgent|Day 1: Updating campaign 1023767301 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:23 INFO agents.BrownAgent|Day 1: Daily notification for campaign 1158647524
+14/07 01:07:23 INFO agents.BrownAgent|about to update modeler
+14/07 01:07:23 INFO agents.BrownAgent|Day 1:  allocated to DummyAdnetwork-2. UCS Level set to 1.0 at price 0.16120878465256058 Qualit Score is: 1.0
+14/07 01:07:23 INFO agents.BrownAgent|1
+14/07 01:07:23 INFO agents.BrownAgent|2
+14/07 01:07:23 INFO agents.BrownAgent|Day 2: Campaign opportunity - Campaign ID 77531675: day 4 to 13 [OLD, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:07:23 INFO agents.BrownAgent|3
+14/07 01:07:23 INFO agents.BrownAgent|4
+14/07 01:07:23 INFO agents.BrownAgent|5
+14/07 01:07:23 INFO agents.BrownAgent|6
+14/07 01:07:23 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:07:23 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:07:23 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[2,3071,false,[]]]
+14/07 01:07:40 INFO agents.BrownAgent|Day 2 :BankStatus[-0.184469]
+14/07 01:07:40 INFO agents.BrownAgent|Day 2: Updating campaign 2067892688 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:40 INFO agents.BrownAgent|Day 2: Updating campaign 1023767301 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:40 INFO agents.BrownAgent|Day 2: Daily notification for campaign 77531675
+14/07 01:07:40 INFO agents.BrownAgent|about to update modeler
+14/07 01:07:40 INFO agents.BrownAgent|Day 2:  WON at cost 0.457. UCS Level set to 0.81 at price 0.10400759277522244 Qualit Score is: 1.0
+14/07 01:07:40 INFO agents.BrownAgent|1
+14/07 01:07:40 INFO agents.BrownAgent|2
+14/07 01:07:40 INFO agents.BrownAgent|Day 3: Campaign opportunity - Campaign ID 194450235: day 5 to 9 [OLD, FEMALE], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:07:40 INFO agents.BrownAgent|3
+14/07 01:07:40 INFO agents.BrownAgent|4
+14/07 01:07:40 INFO agents.BrownAgent|5
+14/07 01:07:40 INFO agents.BrownAgent|6
+14/07 01:07:43 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:07:43 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:07:43 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[3,10399,false,[]]]
+14/07 01:07:43 INFO agents.BrownAgent|Day 3 :BankStatus[-0.273717]
+14/07 01:07:43 INFO agents.BrownAgent|Day 3: Updating campaign 2067892688 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:43 INFO agents.BrownAgent|Day 3: Updating campaign 1023767301 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:43 INFO agents.BrownAgent|Day 3: Daily notification for campaign 194450235
+14/07 01:07:43 INFO agents.BrownAgent|about to update modeler
+14/07 01:07:43 INFO agents.BrownAgent|Day 3:  allocated to . UCS Level set to 0.81 at price 0.10400759277522244 Qualit Score is: 1.0
+14/07 01:07:43 INFO agents.BrownAgent|1
+14/07 01:07:43 INFO agents.BrownAgent|2
+14/07 01:07:43 INFO agents.BrownAgent|Day 4: Campaign opportunity - Campaign ID 1644894668: day 6 to 15 [OLD, MALE], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:07:43 INFO agents.BrownAgent|3
+14/07 01:07:43 INFO agents.BrownAgent|4
+14/07 01:07:43 INFO agents.BrownAgent|5
+14/07 01:07:43 INFO agents.BrownAgent|6
+14/07 01:07:43 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:07:43 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:07:43 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[4,3359,false,[]]]
+14/07 01:07:51 INFO agents.BrownAgent|Day 4 :BankStatus[-0.362964]
+14/07 01:07:51 INFO agents.BrownAgent|Day 4: Updating campaign 1023767301 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:51 INFO agents.BrownAgent|Day 4: Updating campaign 77531675 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:07:51 INFO agents.BrownAgent|Day 4: Daily notification for campaign 1644894668
+14/07 01:07:51 INFO agents.BrownAgent|about to update modeler
+14/07 01:07:51 INFO agents.BrownAgent|Day 4:  allocated to DummyAdnetwork-7. UCS Level set to 0.9 at price 0.11066304967212447 Qualit Score is: 0.4
+14/07 01:07:51 INFO agents.BrownAgent|1
+14/07 01:07:51 INFO agents.BrownAgent|2
+14/07 01:07:51 INFO agents.BrownAgent|Day 5: Campaign opportunity - Campaign ID 1436564512: day 7 to 16 [FEMALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:07:51 INFO agents.BrownAgent|3
+14/07 01:07:51 INFO agents.BrownAgent|4
+14/07 01:07:51 INFO agents.BrownAgent|5
+14/07 01:07:51 INFO agents.BrownAgent|6
+14/07 01:07:51 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:07:51 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:07:51 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[5,1667,false,[]]]
+14/07 01:08:03 INFO agents.BrownAgent|Day 5 :BankStatus[-0.446929]
+14/07 01:08:03 INFO agents.BrownAgent|Day 5: Updating campaign 77531675 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:08:03 INFO agents.BrownAgent|Day 5: Daily notification for campaign 1436564512
+14/07 01:08:03 INFO agents.BrownAgent|about to update modeler
+14/07 01:08:03 INFO agents.BrownAgent|Day 5:  allocated to DummyAdnetwork. UCS Level set to 0.7290000000000001 at price 0.07925410093030746 Qualit Score is: 0.16000000000000003
+14/07 01:08:03 INFO agents.BrownAgent|1
+14/07 01:08:03 INFO agents.BrownAgent|2
+14/07 01:08:03 INFO agents.BrownAgent|Day 6: Campaign opportunity - Campaign ID 1990146420: day 8 to 12 [OLD, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:08:03 INFO agents.BrownAgent|3
+14/07 01:08:03 INFO agents.BrownAgent|4
+14/07 01:08:03 INFO agents.BrownAgent|5
+14/07 01:08:03 INFO agents.BrownAgent|6
+14/07 01:08:03 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:08:03 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:08:03 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[6,3491,false,[]]]
+14/07 01:08:12 INFO agents.BrownAgent|Day 6 :BankStatus[-0.526183]
+14/07 01:08:12 INFO agents.BrownAgent|Day 6: Updating campaign 77531675 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:08:12 INFO agents.BrownAgent|Day 6: Daily notification for campaign 1990146420
+14/07 01:08:12 INFO agents.BrownAgent|about to update modeler
+14/07 01:08:12 INFO agents.BrownAgent|Day 6:  allocated to DummyAdnetwork-2. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.16000000000000003
+14/07 01:08:12 INFO agents.BrownAgent|1
+14/07 01:08:12 INFO agents.BrownAgent|2
+14/07 01:08:12 INFO agents.BrownAgent|Day 7: Campaign opportunity - Campaign ID 1886744221: day 9 to 18 [OLD, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:08:12 INFO agents.BrownAgent|3
+14/07 01:08:12 INFO agents.BrownAgent|4
+14/07 01:08:12 INFO agents.BrownAgent|5
+14/07 01:08:12 INFO agents.BrownAgent|6
+14/07 01:08:12 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:08:12 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:08:12 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[7,2034,false,[]]]
+14/07 01:08:24 INFO agents.BrownAgent|Day 7 :BankStatus[-0.603829]
+14/07 01:08:24 INFO agents.BrownAgent|Day 7: Updating campaign 77531675 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+14/07 01:08:24 INFO agents.BrownAgent|Day 7: Daily notification for campaign 1886744221
+14/07 01:08:24 INFO agents.BrownAgent|about to update modeler
+14/07 01:08:24 INFO agents.BrownAgent|Day 7:  allocated to DummyAdnetwork-5. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.16000000000000003
+14/07 01:08:24 INFO agents.BrownAgent|1
+14/07 01:08:24 INFO agents.BrownAgent|2
+14/07 01:08:24 INFO agents.BrownAgent|Day 8: Campaign opportunity - Campaign ID 1149763773: day 10 to 14 [OLD, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:08:24 INFO agents.BrownAgent|3
+14/07 01:08:24 INFO agents.BrownAgent|4
+14/07 01:08:24 INFO agents.BrownAgent|5
+14/07 01:08:24 INFO agents.BrownAgent|6
+14/07 01:08:24 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:08:24 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:08:24 SEVERE agents.BrownAgent|Exception thrown while trying to parse message.java.lang.NullPointerException.  Message[coordinator,adv1,simulationStatus[8,4938,false,[]]]

@@ -1,0 +1,30 @@
+07/07 01:19:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 01:19:02 INFO naive.ReasonableBot|Actually bidding 7202
+07/07 01:19:19 INFO naive.ReasonableBot|Actually bidding 5761
+07/07 01:19:23 INFO naive.ReasonableBot|Actually bidding 2304
+07/07 01:19:38 INFO naive.ReasonableBot|Actually bidding 5531
+07/07 01:19:45 INFO naive.ReasonableBot|Actually bidding 1475
+07/07 01:19:55 INFO naive.ReasonableBot|Actually bidding 2360
+07/07 01:20:03 INFO naive.ReasonableBot|Actually bidding 1888
+07/07 01:20:12 INFO naive.ReasonableBot|Actually bidding 1510
+07/07 01:20:23 INFO naive.ReasonableBot|Actually bidding 604
+07/07 01:20:33 INFO naive.ReasonableBot|Actually bidding 966
+07/07 01:20:43 INFO naive.ReasonableBot|Actually bidding 1160
+07/07 01:20:53 INFO naive.ReasonableBot|Actually bidding 309
+07/07 01:21:03 INFO naive.ReasonableBot|Actually bidding 494
+07/07 01:21:13 INFO naive.ReasonableBot|Actually bidding 197
+07/07 01:21:25 INFO naive.ReasonableBot|Actually bidding 158
+07/07 01:21:36 INFO naive.ReasonableBot|Actually bidding 253
+07/07 01:21:44 INFO naive.ReasonableBot| WON at cost 0.2699959194115618
+07/07 01:21:44 INFO naive.ReasonableBot|Actually bidding 126
+07/07 01:21:52 INFO naive.ReasonableBot|Actually bidding 202
+07/07 01:22:03 INFO naive.ReasonableBot|Actually bidding 162
+07/07 01:22:08 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+07/07 01:22:08 SEVERE agentware.SimClient|************************************************************
+07/07 01:22:08 SEVERE agentware.SimClient|* Connection Lost
+07/07 01:22:08 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+07/07 01:22:08 SEVERE agentware.SimClient|************************************************************

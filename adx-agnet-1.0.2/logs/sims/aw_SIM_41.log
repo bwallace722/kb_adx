@@ -1,0 +1,731 @@
+05/07 04:08:00 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0 :BankStatus[0.000000]
+05/07 04:08:00 INFO naive.NaiveAgent|tau.tac.adx.report.demand.InitialCampaignMessage[1741487173,1250,1,5,[YOUNG, MALE],2.0,1.5,demand,[]]
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0: Allocated campaign - Campaign ID 1741487173: day 1 to 5 [YOUNG, MALE], reach: 1250 coefs: (v=2.0, m=1.5)
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0: Campaign opportunity - Campaign ID 491356495: day 2 to 11 [MALE, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:08:00 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0: Campaign total budget bid: 0.0010
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0: Initial ucs bid is 0.10929626852894497
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0 : Simulation Status Received
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0: Updated 36 Bid Bundle entries for Campaign id 1741487173
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0: Sending BidBundle
+05/07 04:08:00 INFO naive.NaiveAgent|Day 0 ended. Starting next day
+05/07 04:08:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:02 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:08:02 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:08:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:02 SEVERE agentware.ServerConnection|(18) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:08:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:02 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:08:02 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:08:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:14 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:08:25 INFO naive.NaiveAgent|Day 0 :BankStatus[-0.096148]
+05/07 04:08:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:08:25 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 227323546
+05/07 04:08:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:08:25 INFO naive.NaiveAgent|Day 2: Campaign opportunity - Campaign ID 213442128: day 4 to 6 [YOUNG, MALE], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:08:25 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:08:25 INFO naive.NaiveAgent|Day 2: Campaign total budget bid: 0.0010
+05/07 04:08:25 INFO naive.NaiveAgent|Day 2: Adjusting ucs bid: was 0.12196793397181338 level reported: 0.6561000000000001 target: 0.9 adjusted: 0.14283096103113943
+05/07 04:08:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:08:25 INFO naive.NaiveAgent|Day 2 : Simulation Status Received
+05/07 04:08:25 INFO naive.NaiveAgent|Day 2: Sending BidBundle
+05/07 04:08:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:08:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:32 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:08:32 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:08:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:32 SEVERE agentware.ServerConnection|(19) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:08:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:32 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:08:32 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:08:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:08:34 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:08:49 INFO naive.NaiveAgent|Day 0 :BankStatus[-0.255502]
+05/07 04:08:50 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:08:50 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 1728590536
+05/07 04:08:50 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:08:50 INFO naive.NaiveAgent|Day 4: Campaign opportunity - Campaign ID 66940999: day 6 to 8 [YOUNG, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:08:50 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:08:50 INFO naive.NaiveAgent|Day 4: Campaign total budget bid: 0.0010
+05/07 04:08:50 INFO naive.NaiveAgent|Day 4: Adjusting ucs bid: was 0.102932129894727 level reported: 0.6561000000000001 target: 0.6 adjusted: 0.09715763740763281
+05/07 04:08:50 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:08:50 INFO naive.NaiveAgent|Day 4 : Simulation Status Received
+05/07 04:08:50 INFO naive.NaiveAgent|Day 4: Sending BidBundle
+05/07 04:08:50 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:08:54 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:08:54 INFO naive.NaiveAgent|Day 0 :BankStatus[-0.335178]
+05/07 04:08:54 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:08:54 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 66940999
+05/07 04:08:54 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:08:54 INFO naive.NaiveAgent|Day 5: Campaign opportunity - Campaign ID 1408027136: day 7 to 11 [FEMALE, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:08:54 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:08:54 INFO naive.NaiveAgent|Day 5: Campaign total budget bid: 0.0010
+05/07 04:08:54 INFO naive.NaiveAgent|Day 5: Adjusting ucs bid: was 0.1911492046733579 level reported: 0.5314410000000002 target: 0.6 adjusted: 0.12021787195708651
+05/07 04:08:54 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:08:54 INFO naive.NaiveAgent|Day 5 : Simulation Status Received
+05/07 04:08:54 INFO naive.NaiveAgent|Day 5: Sending BidBundle
+05/07 04:08:54 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:02 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:09:02 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:09:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:02 SEVERE agentware.ServerConnection|(21) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:09:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:02 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:09:02 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:09:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:04 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:09:04 INFO agentware.SimClient|next simulation 41 has already started
+05/07 04:09:17 INFO naive.NaiveAgent|Day 0 :BankStatus[-0.510796]
+05/07 04:09:17 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 737300042
+05/07 04:09:17 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:09:17 INFO naive.NaiveAgent|Day 7: Campaign opportunity - Campaign ID 57773996: day 9 to 18 [MALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:09:17 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:09:17 INFO naive.NaiveAgent|Day 7: Campaign total budget bid: 0.0010
+05/07 04:09:17 INFO naive.NaiveAgent|Day 7: Adjusting ucs bid: was 0.13786258638372972 level reported: 0.5314410000000002 target: 0.9 adjusted: 0.16296773156651317
+05/07 04:09:17 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:17 INFO naive.NaiveAgent|Day 7 : Simulation Status Received
+05/07 04:09:17 INFO naive.NaiveAgent|Day 7: Sending BidBundle
+05/07 04:09:17 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:18 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:09:25 INFO naive.NaiveAgent|Day 0 :BankStatus[-0.598838]
+05/07 04:09:25 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 57773996
+05/07 04:09:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:09:25 INFO naive.NaiveAgent|Day 8: Campaign opportunity - Campaign ID 370846780: day 10 to 12 [HIGH_INCOME, FEMALE], reach: 5000 coefs: (v=2.0, m=1.5)
+05/07 04:09:25 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:09:25 INFO naive.NaiveAgent|Day 8: Campaign total budget bid: 0.0010
+05/07 04:09:25 INFO naive.NaiveAgent|Day 8: Adjusting ucs bid: was 0.1826057303102687 level reported: 0.47829690000000014 target: 0.7 adjusted: 0.1986720872152332
+05/07 04:09:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:25 INFO naive.NaiveAgent|Day 8 : Simulation Status Received
+05/07 04:09:25 INFO naive.NaiveAgent|Day 8: Sending BidBundle
+05/07 04:09:25 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:32 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:09:32 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:09:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:32 SEVERE agentware.ServerConnection|(19) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:09:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:32 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:09:32 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:09:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:55 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:09:55 INFO naive.Agent2|Day 0 :BankStatus[-1.522030]
+05/07 04:09:55 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:09:55 INFO naive.Agent2|Day 0: Daily notification for campaign 1237604914
+05/07 04:09:55 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:09:55 INFO naive.Agent2|Day 11: Campaign opportunity - Campaign ID 194843368: day 13 to 15 [FEMALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:09:55 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:09:55 INFO naive.Agent2|Day 11: Campaign total budget bid: 0.0010
+05/07 04:09:55 INFO naive.Agent2|Day 11: Adjusting ucs bid: was 0.12577654371325336 level reported: 0.81 target: 0.7 adjusted: 0.11194112390479548
+05/07 04:09:55 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:55 INFO naive.Agent2|Day 11 : AdNetworkReport
+05/07 04:09:55 INFO naive.Agent2|Day 11 : Simulation Status Received
+05/07 04:09:55 INFO naive.Agent2|Day 11: Sending BidBundle
+05/07 04:09:55 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:09:59 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:59 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:09:59 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:09:59 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:59 SEVERE agentware.ServerConnection|(13) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:09:59 SEVERE agentware.SimClient|************************************************************
+05/07 04:09:59 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:09:59 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:09:59 SEVERE agentware.SimClient|************************************************************
+05/07 04:10:14 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:10:29 SEVERE agentware.SimClient|************************************************************
+05/07 04:10:29 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:10:29 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:10:29 SEVERE agentware.SimClient|************************************************************
+05/07 04:10:29 SEVERE agentware.ServerConnection|(15) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:10:29 SEVERE agentware.SimClient|************************************************************
+05/07 04:10:29 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:10:29 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:10:29 SEVERE agentware.SimClient|************************************************************
+05/07 04:10:39 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:10:39 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:10:53 INFO naive.NaiveAgent|Day 0 :BankStatus[-1.300956]
+05/07 04:10:53 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 698167867
+05/07 04:10:53 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:10:53 INFO naive.NaiveAgent|Day 16: Campaign opportunity - Campaign ID 2063792055: day 18 to 22 [YOUNG, LOW_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:10:53 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:10:53 INFO naive.NaiveAgent|Day 16: Campaign total budget bid: 0.0010
+05/07 04:10:53 INFO naive.NaiveAgent|Day 16: Adjusting ucs bid: was 0.13687658027872568 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.17800811367256353
+05/07 04:10:53 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:10:59 INFO naive.NaiveAgent|Day 16 : Simulation Status Received
+05/07 04:10:59 INFO naive.NaiveAgent|Day 16: Sending BidBundle
+05/07 04:10:59 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:00 INFO naive.NaiveAgent|Day 16 :BankStatus[-1.393464]
+05/07 04:11:00 INFO naive.NaiveAgent|Day 16: Daily notification for campaign 2063792055
+05/07 04:11:00 INFO naive.NaiveAgent|Day 16:  allocated to . UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.4
+05/07 04:11:00 INFO naive.NaiveAgent|Day 17: Campaign opportunity - Campaign ID 68316549: day 19 to 23 [OLD, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+05/07 04:11:00 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:11:00 INFO naive.NaiveAgent|Day 17: Campaign total budget bid: 0.0010
+05/07 04:11:00 INFO naive.NaiveAgent|Day 17: Adjusting ucs bid: was 0.17800811367256353 level reported: 0.47829690000000014 target: 0.9 adjusted: 0.13492024443324338
+05/07 04:11:00 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:00 INFO naive.NaiveAgent|Day 17 : Simulation Status Received
+05/07 04:11:00 INFO naive.NaiveAgent|Day 17: Sending BidBundle
+05/07 04:11:00 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:02 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:11:02 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:11:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:02 SEVERE agentware.ServerConnection|(24) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:11:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:02 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:11:02 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:11:02 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:06 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:11:13 INFO naive.Agent2|Day 0 :BankStatus[-2.414221]
+05/07 04:11:13 INFO naive.Agent2|Day 0: Daily notification for campaign 2143086734
+05/07 04:11:13 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:11:13 INFO naive.Agent2|Day 19: Campaign opportunity - Campaign ID 1052564660: day 21 to 23 [LOW_INCOME, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+05/07 04:11:13 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:11:13 INFO naive.Agent2|Day 19: Campaign total budget bid: 0.0010
+05/07 04:11:13 INFO naive.Agent2|Day 19: Adjusting ucs bid: was 0.11698298833498819 level reported: 0.81 target: 0.8 adjusted: 0.11581315845163831
+05/07 04:11:13 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:13 INFO naive.Agent2|Day 19 : AdNetworkReport
+05/07 04:11:13 INFO naive.Agent2|Day 19 : Simulation Status Received
+05/07 04:11:13 INFO naive.Agent2|Day 19: Sending BidBundle
+05/07 04:11:13 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:23 INFO naive.Agent2|Day 19 :BankStatus[-2.533678]
+05/07 04:11:23 INFO naive.Agent2|Day 19: Daily notification for campaign 1052564660
+05/07 04:11:23 INFO naive.Agent2|Day 19:  allocated to DummyAdnetwork-3. UCS Level set to 0.81 at price 0.10447918450525799 Qualit Score is: 0.16536912195799147
+05/07 04:11:23 INFO naive.Agent2|Day 20: Campaign opportunity - Campaign ID 950801850: day 22 to 24 [FEMALE, YOUNG], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:11:23 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:11:23 INFO naive.Agent2|Day 20: Campaign total budget bid: 0.0010
+05/07 04:11:23 INFO naive.Agent2|Day 20: Adjusting ucs bid: was 0.11581315845163831 level reported: 0.81 target: 0.8 adjusted: 0.11465502686712192
+05/07 04:11:23 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:24 INFO naive.Agent2|Day 20 : AdNetworkReport
+05/07 04:11:24 INFO naive.Agent2|Day 20 : Simulation Status Received
+05/07 04:11:24 INFO naive.Agent2|Day 20: Sending BidBundle
+05/07 04:11:24 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:30 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:11:30 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:11:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:30 SEVERE agentware.ServerConnection|(16) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:11:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:30 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:11:30 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:11:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:11:35 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:11:48 INFO naive.Agent2|Day 0 :BankStatus[-2.778900]
+05/07 04:11:48 INFO naive.Agent2|Day 0: Daily notification for campaign 1198435479
+05/07 04:11:48 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:11:48 INFO naive.Agent2|Day 22: Campaign opportunity - Campaign ID 594982597: day 24 to 33 [FEMALE, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:11:48 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:11:48 INFO naive.Agent2|Day 22: Campaign total budget bid: 0.0010
+05/07 04:11:48 INFO naive.Agent2|Day 22: Adjusting ucs bid: was 0.13710715797950987 level reported: 0.5904900000000002 target: 1.0 adjusted: 0.17703839608666855
+05/07 04:11:48 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:48 INFO naive.Agent2|Day 22 : AdNetworkReport
+05/07 04:11:48 INFO naive.Agent2|Day 22 : Simulation Status Received
+05/07 04:11:48 INFO naive.Agent2|Day 22: Sending BidBundle
+05/07 04:11:48 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:56 INFO naive.Agent2|Day 22 :BankStatus[-2.902202]
+05/07 04:11:56 INFO naive.Agent2|Day 22: Daily notification for campaign 594982597
+05/07 04:11:56 INFO naive.Agent2|Day 22:  allocated to DummyAdnetwork-5. UCS Level set to 0.9 at price 0.10971925829189529 Qualit Score is: 0.16536912195799147
+05/07 04:11:56 INFO naive.Agent2|Day 23: Campaign opportunity - Campaign ID 1871749800: day 25 to 34 [LOW_INCOME, YOUNG], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:11:56 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:11:56 INFO naive.Agent2|Day 23: Campaign total budget bid: 0.0010
+05/07 04:11:56 INFO naive.Agent2|Day 23: Adjusting ucs bid: was 0.17703839608666855 level reported: 0.9 target: 1.0 adjusted: 0.1782915364848299
+05/07 04:11:56 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:11:56 INFO naive.Agent2|Day 23 : AdNetworkReport
+05/07 04:11:56 INFO naive.Agent2|Day 23 : Simulation Status Received
+05/07 04:11:56 INFO naive.Agent2|Day 23: Sending BidBundle
+05/07 04:11:56 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:12:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:00 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:12:00 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:12:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:00 SEVERE agentware.ServerConnection|(15) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:12:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:00 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:12:00 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:12:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:15 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:12:27 INFO naive.Agent2|Day 0 :BankStatus[-3.250851]
+05/07 04:12:27 INFO naive.Agent2|Day 0: Daily notification for campaign 827135006
+05/07 04:12:27 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:12:27 INFO naive.Agent2|Day 26: Campaign opportunity - Campaign ID 713245046: day 28 to 30 [MALE, OLD], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:12:27 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:12:27 INFO naive.Agent2|Day 26: Campaign total budget bid: 0.0010
+05/07 04:12:27 INFO naive.Agent2|Day 26: Adjusting ucs bid: was 0.13102981045755713 level reported: 0.7290000000000001 target: 0.8 adjusted: 0.11514281229329841
+05/07 04:12:27 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:12:27 INFO naive.Agent2|Day 26 : AdNetworkReport
+05/07 04:12:27 INFO naive.Agent2|Day 26 : Simulation Status Received
+05/07 04:12:27 INFO naive.Agent2|Day 26: Sending BidBundle
+05/07 04:12:27 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:12:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:30 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:12:30 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:12:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:30 SEVERE agentware.ServerConnection|(17) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:12:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:30 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:12:30 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:12:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:12:39 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:12:59 INFO naive.Agent2|Day 0 :BankStatus[-3.504229]
+05/07 04:12:59 INFO naive.Agent2|Day 0: Daily notification for campaign 874644690
+05/07 04:12:59 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:12:59 INFO naive.Agent2|Day 28: Campaign opportunity - Campaign ID 1616050354: day 30 to 39 [MALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:12:59 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:12:59 INFO naive.Agent2|Day 28: Campaign total budget bid: 0.0010
+05/07 04:12:59 INFO naive.Agent2|Day 28: Adjusting ucs bid: was 0.10277080091599494 level reported: 0.7290000000000001 target: 1.0 adjusted: 0.13062168796422957
+05/07 04:12:59 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:13:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:00 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:13:00 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:13:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:00 SEVERE agentware.ServerConnection|(16) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:13:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:00 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:13:00 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:13:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:10 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:13:10 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:13:29 INFO naive.NaiveAgent|Day 0 :BankStatus[-2.638094]
+05/07 04:13:29 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 1448511454
+05/07 04:13:29 INFO naive.Agent2|Day 0 :BankStatus[-3.884948]
+05/07 04:13:29 INFO naive.Agent2|Day 0: Daily notification for campaign 1448511454
+05/07 04:13:29 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:13:29 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:13:29 INFO naive.NaiveAgent|Day 31: Campaign opportunity - Campaign ID 1907798260: day 33 to 42 [LOW_INCOME, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:13:29 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:13:29 INFO naive.NaiveAgent|Day 31: Campaign total budget bid: 0.0010
+05/07 04:13:29 INFO naive.NaiveAgent|Day 31: Adjusting ucs bid: was 0.12364186416113417 level reported: 0.5314410000000002 target: 0.7 adjusted: 0.14448281314227074
+05/07 04:13:29 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:13:29 INFO naive.Agent2|Day 31: Campaign opportunity - Campaign ID 1907798260: day 33 to 42 [LOW_INCOME, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:13:29 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:13:29 INFO naive.Agent2|Day 31: Campaign total budget bid: 0.0010
+05/07 04:13:29 INFO naive.Agent2|Day 31: Adjusting ucs bid: was 0.1879800734065329 level reported: 0.7290000000000001 target: 0.8 adjusted: 0.11430110593100284
+05/07 04:13:29 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:13:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:30 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:13:30 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:13:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:30 SEVERE agentware.ServerConnection|(18) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:13:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:30 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:13:30 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:13:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:32 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:13:32 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:13:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:32 SEVERE agentware.ServerConnection|(27) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:13:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:32 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:13:32 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:13:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:13:56 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:13:56 INFO naive.Agent2|Day 0 :BankStatus[-4.265616]
+05/07 04:13:56 INFO naive.Agent2|Day 0: Daily notification for campaign 312653715
+05/07 04:13:56 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:13:56 INFO naive.Agent2|Day 34: Campaign opportunity - Campaign ID 12380791: day 36 to 40 [MALE, YOUNG], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:13:56 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:13:56 INFO naive.Agent2|Day 34: Campaign total budget bid: 0.0010
+05/07 04:13:56 INFO naive.Agent2|Day 34: Adjusting ucs bid: was 0.10767835043277729 level reported: 0.81 target: 1.0 adjusted: 0.12381608136028927
+05/07 04:13:56 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:14:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:14:00 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:14:00 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:14:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:14:00 SEVERE agentware.ServerConnection|(17) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:14:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:14:00 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:14:00 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:14:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:14:34 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:14:34 INFO naive.Agent2|Day 0 :BankStatus[-4.642284]
+05/07 04:14:34 INFO naive.Agent2|Day 0: Daily notification for campaign 585086859
+05/07 04:14:34 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:14:34 INFO naive.Agent2|Day 37: Campaign opportunity - Campaign ID 1959270460: day 39 to 48 [LOW_INCOME, OLD], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:14:34 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:14:34 INFO naive.Agent2|Day 37: Campaign total budget bid: 0.0010
+05/07 04:14:34 INFO naive.Agent2|Day 37: Adjusting ucs bid: was 0.17785226152478084 level reported: 0.9 target: 0.9 adjusted: 0.1778522615247808
+05/07 04:14:34 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:14:49 INFO naive.Agent2|Day 37 : AdNetworkReport
+05/07 04:14:49 INFO naive.Agent2|Day 37 : Simulation Status Received
+05/07 04:14:49 INFO naive.Agent2|Day 37: Sending BidBundle
+05/07 04:14:49 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:14:50 INFO naive.Agent2|Day 37 :BankStatus[-4.759351]
+05/07 04:14:50 INFO naive.Agent2|Day 37: Daily notification for campaign 1959270460
+05/07 04:14:50 INFO naive.Agent2|Day 37:  allocated to . UCS Level set to 0.81 at price 0.10722997023812433 Qualit Score is: 0.16536912195799147
+05/07 04:14:50 INFO naive.Agent2|Day 38: Campaign opportunity - Campaign ID 1728169245: day 40 to 49 [FEMALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:14:50 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:14:50 INFO naive.Agent2|Day 38: Campaign total budget bid: 0.0010
+05/07 04:14:50 INFO naive.Agent2|Day 38: Adjusting ucs bid: was 0.1778522615247808 level reported: 0.81 target: 0.9 adjusted: 0.16810882210778633
+05/07 04:14:50 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:14:56 INFO naive.Agent2|Day 38 : AdNetworkReport
+05/07 04:14:56 INFO naive.Agent2|Day 38 : Simulation Status Received
+05/07 04:14:56 INFO naive.Agent2|Day 38: Sending BidBundle
+05/07 04:14:56 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:14:57 INFO naive.Agent2|Day 38 :BankStatus[-4.878806]
+05/07 04:14:57 INFO naive.Agent2|Day 38: Daily notification for campaign 1728169245
+05/07 04:14:57 INFO naive.Agent2|Day 38:  allocated to . UCS Level set to 0.81 at price 0.10722997023812433 Qualit Score is: 0.16536912195799147
+05/07 04:14:57 INFO naive.Agent2|Day 39: Campaign opportunity - Campaign ID 1308563172: day 41 to 45 [LOW_INCOME, OLD], reach: 5000 coefs: (v=2.0, m=1.5)
+05/07 04:14:57 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:14:57 INFO naive.Agent2|Day 39: Campaign total budget bid: 0.0010
+05/07 04:14:57 INFO naive.Agent2|Day 39: Adjusting ucs bid: was 0.16810882210778633 level reported: 0.81 target: 0.9 adjusted: 0.12268288013806758
+05/07 04:14:57 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:14:57 INFO naive.Agent2|Day 39 : AdNetworkReport
+05/07 04:14:57 INFO naive.Agent2|Day 39 : Simulation Status Received
+05/07 04:14:57 INFO naive.Agent2|Day 39: Sending BidBundle
+05/07 04:14:57 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:00 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:15:00 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:15:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:00 SEVERE agentware.ServerConnection|(18) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:15:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:00 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:15:00 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:15:00 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:04 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:15:04 INFO naive.NaiveAgent|Day 0 :BankStatus[-3.457445]
+05/07 04:15:04 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 1308563172
+05/07 04:15:04 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:15:04 INFO naive.NaiveAgent|Day 40: Campaign opportunity - Campaign ID 893840760: day 42 to 46 [YOUNG, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:15:04 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:15:04 INFO naive.NaiveAgent|Day 40: Campaign total budget bid: 0.0010
+05/07 04:15:04 INFO naive.NaiveAgent|Day 40: Adjusting ucs bid: was 0.18176210508262172 level reported: 0.5904900000000002 target: 0.8 adjusted: 0.1513093366107816
+05/07 04:15:04 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:04 INFO naive.NaiveAgent|Day 40 : Simulation Status Received
+05/07 04:15:04 INFO naive.NaiveAgent|Day 40: Sending BidBundle
+05/07 04:15:04 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:05 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:05 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:15:05 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:15:05 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:05 SEVERE agentware.ServerConnection|(30) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:15:05 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:05 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:15:05 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:15:05 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:22 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:15:22 INFO naive.Agent2|Day 0 :BankStatus[-5.364556]
+05/07 04:15:22 INFO naive.Agent2|Day 0: Daily notification for campaign 1823559173
+05/07 04:15:22 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:15:22 INFO naive.Agent2|Day 43: Campaign opportunity - Campaign ID 1982735164: day 45 to 47 [FEMALE, YOUNG], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:15:22 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:15:22 INFO naive.Agent2|Day 43: Campaign total budget bid: 0.0010
+05/07 04:15:22 INFO naive.Agent2|Day 43: Adjusting ucs bid: was 0.10550823122898895 level reported: 0.9 target: 0.9 adjusted: 0.10550823122898893
+05/07 04:15:22 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:27 INFO naive.Agent2|Day 43 : AdNetworkReport
+05/07 04:15:27 INFO naive.Agent2|Day 43 : Simulation Status Received
+05/07 04:15:27 INFO naive.Agent2|Day 43: Sending BidBundle
+05/07 04:15:27 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:29 INFO naive.Agent2|Day 43 :BankStatus[-5.480216]
+05/07 04:15:29 INFO naive.Agent2|Day 43: Daily notification for campaign 1982735164
+05/07 04:15:29 INFO naive.Agent2|Day 43:  allocated to . UCS Level set to 0.81 at price 0.0954433603377778 Qualit Score is: 0.16536912195799147
+05/07 04:15:29 INFO naive.Agent2|Day 44: Campaign opportunity - Campaign ID 814943101: day 46 to 48 [FEMALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:15:29 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:15:29 INFO naive.Agent2|Day 44: Campaign total budget bid: 0.0010
+05/07 04:15:29 INFO naive.Agent2|Day 44: Adjusting ucs bid: was 0.10550823122898893 level reported: 0.81 target: 0.9 adjusted: 0.11500397203959792
+05/07 04:15:29 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:29 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:15:29 INFO naive.NaiveAgent|Day 0 :BankStatus[-3.802203]
+05/07 04:15:29 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 1982735164
+05/07 04:15:29 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:15:29 INFO naive.NaiveAgent|Day 44: Campaign opportunity - Campaign ID 814943101: day 46 to 48 [OLD, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:15:29 INFO naive.NaiveAgent|This is the value of cmpBid: 1
+05/07 04:15:29 INFO naive.NaiveAgent|Day 44: Campaign total budget bid: 0.0010
+05/07 04:15:29 INFO naive.NaiveAgent|Day 44: Adjusting ucs bid: was 0.11681926296156236 level reported: 0.5314410000000002 target: 0.9 adjusted: 0.15987405369941282
+05/07 04:15:29 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:29 INFO naive.NaiveAgent|Day 44 : Simulation Status Received
+05/07 04:15:29 INFO naive.NaiveAgent|Day 44: Sending BidBundle
+05/07 04:15:29 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:29 INFO naive.Agent2|Day 44 : AdNetworkReport
+05/07 04:15:29 INFO naive.Agent2|Day 44 : Simulation Status Received
+05/07 04:15:29 INFO naive.Agent2|Day 44: Sending BidBundle
+05/07 04:15:29 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:30 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:15:30 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:15:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:30 SEVERE agentware.ServerConnection|(20) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:15:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:30 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:15:30 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:15:30 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:32 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:15:32 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:15:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:32 SEVERE agentware.ServerConnection|(30) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:15:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:32 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:15:32 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:15:32 SEVERE agentware.SimClient|************************************************************
+05/07 04:15:35 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:15:43 INFO naive.Agent2|Day 0 :BankStatus[-5.719123]
+05/07 04:15:43 INFO naive.Agent2|Day 0: Daily notification for campaign 1414740087
+05/07 04:15:43 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:15:43 INFO naive.Agent2|Day 46: Campaign opportunity - Campaign ID 712707009: day 48 to 50 [LOW_INCOME, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+05/07 04:15:43 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:15:43 INFO naive.Agent2|Day 46: Campaign total budget bid: 0.0010
+05/07 04:15:43 INFO naive.Agent2|Day 46: Adjusting ucs bid: was 0.17038985591072078 level reported: 0.81 target: 0.7 adjusted: 0.15164697176054148
+05/07 04:15:43 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:15:43 INFO naive.Agent2|Day 46 : AdNetworkReport
+05/07 04:15:43 INFO naive.Agent2|Day 46 : Simulation Status Received
+05/07 04:15:43 INFO naive.Agent2|Day 46: Sending BidBundle
+05/07 04:15:43 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:16:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:01 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:16:01 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:16:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:01 SEVERE agentware.ServerConnection|(19) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:16:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:01 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:16:01 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:16:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:08 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:16:20 INFO naive.Agent2|Day 0 :BankStatus[-6.077495]
+05/07 04:16:20 INFO naive.Agent2|Day 0: Daily notification for campaign 262300527
+05/07 04:16:20 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:16:28 INFO naive.Agent2|Day 0 : AdNetworkReport
+05/07 04:16:28 INFO naive.Agent2|Day 0 : Simulation Status Received
+05/07 04:16:28 INFO naive.Agent2|Day 0: Sending BidBundle
+05/07 04:16:28 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:16:29 INFO naive.Agent2|Day 0 :BankStatus[-6.203164]
+05/07 04:16:29 INFO naive.Agent2|Day 0: Daily notification for campaign 0
+05/07 04:16:29 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:16:29 INFO naive.Agent2|Day 50: Campaign opportunity - Campaign ID 375942332: day 52 to 54 [HIGH_INCOME, OLD], reach: 15000 coefs: (v=2.0, m=1.5)
+05/07 04:16:29 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:16:29 INFO naive.Agent2|Day 50: Campaign total budget bid: 0.0010
+05/07 04:16:29 INFO naive.Agent2|Day 50: Adjusting ucs bid: was 0.15774669886321535 level reported: 0.7290000000000001 target: 0.9 adjusted: 0.10636552015423195
+05/07 04:16:29 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:16:30 INFO naive.Agent2|Day 50 : AdNetworkReport
+05/07 04:16:30 INFO naive.Agent2|Day 50 : Simulation Status Received
+05/07 04:16:30 INFO naive.Agent2|Day 50: Sending BidBundle
+05/07 04:16:30 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:16:30 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:16:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:31 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:16:31 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:16:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:31 SEVERE agentware.ServerConnection|(21) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:16:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:31 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:16:31 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:16:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:33 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:16:33 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:16:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:33 SEVERE agentware.ServerConnection|(31) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:16:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:33 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:16:33 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:16:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:16:36 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:16:44 INFO naive.Agent2|Day 0 :BankStatus[-6.448294]
+05/07 04:16:44 INFO naive.Agent2|Day 0: Daily notification for campaign 721157853
+05/07 04:16:44 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:16:44 INFO naive.Agent2|Day 52: Campaign opportunity - Campaign ID 259068766: day 54 to 58 [MALE, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+05/07 04:16:44 INFO naive.Agent2|This is the value of cmpBid: 1
+05/07 04:16:44 INFO naive.Agent2|Day 52: Campaign total budget bid: 0.0010
+05/07 04:16:44 INFO naive.Agent2|Day 52: Adjusting ucs bid: was 0.11878586653997093 level reported: 0.81 target: 0.9 adjusted: 0.11994307642096698
+05/07 04:16:44 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:16:44 INFO naive.Agent2|Day 52 : AdNetworkReport
+05/07 04:16:44 INFO naive.Agent2|Day 52 : Simulation Status Received
+05/07 04:16:44 INFO naive.Agent2|Day 52: Sending BidBundle
+05/07 04:16:44 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:16:45 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:17:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:01 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:17:01 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:17:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:01 SEVERE agentware.ServerConnection|(20) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:17:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:01 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:17:01 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:17:01 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:03 INFO naive.NaiveAgent|Day 0 :BankStatus[-4.560405]
+05/07 04:17:03 INFO naive.NaiveAgent|Day 0: Daily notification for campaign 259068766
+05/07 04:17:03 SEVERE naive.NaiveAgent|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:17:03 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:03 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:17:03 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:17:03 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:03 SEVERE agentware.ServerConnection|(30) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:17:03 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:03 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:17:03 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:17:03 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:09 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:17:22 INFO naive.Agent2|Day 0 :BankStatus[-6.806678]
+05/07 04:17:22 INFO naive.Agent2|Day 0: Daily notification for campaign 948832330
+05/07 04:17:22 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:17:27 INFO naive.Agent2|Day 0 : AdNetworkReport
+05/07 04:17:27 INFO naive.Agent2|Day 0 : Simulation Status Received
+05/07 04:17:27 INFO naive.Agent2|Day 0: Sending BidBundle
+05/07 04:17:27 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:17:28 INFO naive.Agent2|Day 0 :BankStatus[-6.926125]
+05/07 04:17:28 INFO naive.Agent2|Day 0: Daily notification for campaign 0
+05/07 04:17:28 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:17:28 INFO naive.Agent2|Day 0 : AdNetworkReport
+05/07 04:17:28 INFO naive.Agent2|Day 0 : Simulation Status Received
+05/07 04:17:28 INFO naive.Agent2|Day 0: Sending BidBundle
+05/07 04:17:28 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:17:29 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+05/07 04:17:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:31 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:17:31 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent KingHenryII@127.0.0.1.
+05/07 04:17:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:31 SEVERE agentware.ServerConnection|(22) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:17:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:31 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:17:31 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:17:31 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:33 SEVERE agentware.SimClient|* ALERT: Multiple Connections
+05/07 04:17:33 SEVERE agentware.SimClient|* The server connection was closed due to new connection
+from agent BrendanBot@127.0.0.1.
+05/07 04:17:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:33 SEVERE agentware.ServerConnection|(33) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+05/07 04:17:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:33 SEVERE agentware.SimClient|* Connection Lost
+05/07 04:17:33 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+05/07 04:17:33 SEVERE agentware.SimClient|************************************************************
+05/07 04:17:50 INFO naive.Agent2|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+05/07 04:17:57 INFO naive.Agent2|Day 0 :BankStatus[-7.284502]
+05/07 04:17:57 INFO naive.Agent2|Day 0: Daily notification for campaign 0
+05/07 04:17:57 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:17:57 INFO naive.Agent2|Day 0 : AdNetworkReport
+05/07 04:17:57 INFO naive.Agent2|Day 0 : Simulation Status Received
+05/07 04:17:57 INFO naive.Agent2|Day 0: Sending BidBundle
+05/07 04:17:57 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver
+05/07 04:18:00 INFO naive.Agent2|Day 0: Daily notification for campaign 0
+05/07 04:18:00 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException
+05/07 04:18:01 INFO naive.Agent2|Day 0 :BankStatus[-7.523382]
+05/07 04:18:01 INFO naive.Agent2|Day 0 : Simulation Status Received
+05/07 04:18:01 INFO naive.Agent2|Day 0: Sending BidBundle
+05/07 04:18:01 SEVERE naive.Agent2|Exception thrown while trying to parse message.java.lang.NullPointerException: receiver

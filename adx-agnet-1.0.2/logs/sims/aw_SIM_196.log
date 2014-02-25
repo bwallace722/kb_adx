@@ -1,0 +1,164 @@
+14/07 07:49:01 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+14/07 07:49:01 INFO agents.BrownAgent|BrownAgent DAY 0 bid: 500
+14/07 07:49:01 INFO agents.BrownAgent|urgency:0.8
+14/07 07:49:14 INFO agents.BrownAgent|BrownAgent DAY 1 bid: 400
+14/07 07:49:14 INFO agents.BrownAgent|urgency:1.0
+14/07 07:49:23 INFO agents.BrownAgent|BrownAgent DAY 2 bid: 1200
+14/07 07:49:23 INFO agents.BrownAgent|urgency:0.6645333333333333
+14/07 07:49:23 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:49:35 INFO agents.BrownAgent|BrownAgent DAY 3 bid: 640
+14/07 07:49:36 INFO agents.BrownAgent|urgency:0.0
+14/07 07:49:36 INFO agents.BrownAgent|urgency:1.0
+14/07 07:49:47 INFO agents.BrownAgent|BrownAgent DAY 4 bid: 324
+14/07 07:49:48 INFO agents.BrownAgent|urgency:0.0
+14/07 07:49:48 INFO agents.BrownAgent|urgency:1.0676
+14/07 07:49:57 INFO agents.BrownAgent|BrownAgent DAY 5 bid: 778
+14/07 07:50:04 INFO agents.BrownAgent|BrownAgent DAY 6 bid: 622
+14/07 07:50:14 INFO agents.BrownAgent|BrownAgent DAY 7 bid: 622
+14/07 07:50:14 INFO agents.BrownAgent|urgency:0.8
+14/07 07:50:25 INFO agents.BrownAgent|BrownAgent DAY 8 bid: 207
+14/07 07:50:25 INFO agents.BrownAgent|urgency:1.0
+14/07 07:50:25 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:50:34 INFO agents.BrownAgent|BrownAgent DAY 9 bid: 193
+14/07 07:50:34 INFO agents.BrownAgent|urgency:1.3069333333333333
+14/07 07:50:34 INFO agents.BrownAgent|urgency:1.0
+14/07 07:50:43 INFO agents.BrownAgent|BrownAgent DAY 10 bid: 721
+14/07 07:50:44 INFO agents.BrownAgent|urgency:1.9604
+14/07 07:50:44 INFO agents.BrownAgent|urgency:2.0
+14/07 07:50:44 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:50:53 INFO agents.BrownAgent|BrownAgent DAY 11 bid: 773
+14/07 07:50:54 INFO agents.BrownAgent|urgency:2.723733333333333
+14/07 07:50:54 INFO agents.BrownAgent|urgency:1.0
+14/07 07:51:06 INFO agents.BrownAgent|BrownAgent DAY 12 bid: 912
+14/07 07:51:07 INFO agents.BrownAgent|urgency:1.8992
+14/07 07:51:14 INFO agents.BrownAgent|BrownAgent DAY 13 bid: 730
+14/07 07:51:25 INFO agents.BrownAgent|BrownAgent DAY 14 bid: 292
+14/07 07:51:41 INFO agents.BrownAgent|BrownAgent DAY 15 bid: 467
+14/07 07:51:46 INFO agents.BrownAgent|BrownAgent DAY 16 bid: 560
+14/07 07:51:56 INFO agents.BrownAgent|BrownAgent DAY 17 bid: 560
+14/07 07:51:56 INFO agents.BrownAgent|urgency:0.9
+14/07 07:52:03 INFO agents.BrownAgent|BrownAgent DAY 18 bid: 186
+14/07 07:52:03 INFO agents.BrownAgent|urgency:0.8
+14/07 07:52:03 INFO agents.BrownAgent|urgency:1.0
+14/07 07:52:15 INFO agents.BrownAgent|BrownAgent DAY 19 bid: 595
+14/07 07:52:15 INFO agents.BrownAgent|urgency:0.8
+14/07 07:52:15 INFO agents.BrownAgent|urgency:1.0
+14/07 07:52:15 INFO agents.BrownAgent|urgency:1.10025
+14/07 07:52:24 INFO agents.BrownAgent|BrownAgent DAY 20 bid: 492
+14/07 07:52:24 INFO agents.BrownAgent|urgency:0.8
+14/07 07:52:24 INFO agents.BrownAgent|urgency:1.0
+14/07 07:52:24 INFO agents.BrownAgent|urgency:1.2944888888888888
+14/07 07:52:24 INFO agents.BrownAgent|urgency:1.2202285714285712
+14/07 07:52:37 INFO agents.BrownAgent|BrownAgent DAY 21 bid: 302
+14/07 07:52:37 INFO agents.BrownAgent|urgency:1.0
+14/07 07:52:37 INFO agents.BrownAgent|urgency:1.3088
+14/07 07:52:37 INFO agents.BrownAgent|urgency:1.7886666666666666
+14/07 07:52:37 INFO agents.BrownAgent|urgency:1.4235999999999998
+14/07 07:52:45 INFO agents.BrownAgent|BrownAgent DAY 22 bid: 499
+14/07 07:52:45 INFO agents.BrownAgent|urgency:1.2941333333333334
+14/07 07:52:45 INFO agents.BrownAgent|urgency:1.914
+14/07 07:52:45 INFO agents.BrownAgent|urgency:2.469866666666667
+14/07 07:52:45 INFO agents.BrownAgent|urgency:1.7083199999999998
+14/07 07:52:57 INFO agents.BrownAgent|BrownAgent DAY 23 bid: 2297
+14/07 07:52:57 INFO agents.BrownAgent|urgency:1.7956
+14/07 07:52:57 INFO agents.BrownAgent|urgency:3.2008
+14/07 07:52:57 INFO agents.BrownAgent|urgency:2.1353999999999997
+14/07 07:53:07 INFO agents.BrownAgent|BrownAgent DAY 24 bid: 2826
+14/07 07:53:08 INFO agents.BrownAgent|urgency:2.6202666666666667
+14/07 07:53:08 INFO agents.BrownAgent|urgency:2.8471999999999995
+14/07 07:53:14 INFO agents.BrownAgent|BrownAgent DAY 25 bid: 2683
+14/07 07:53:14 INFO agents.BrownAgent|urgency:3.3632999999999997
+14/07 07:53:27 INFO agents.BrownAgent|BrownAgent DAY 26 bid: 1626
+14/07 07:53:28 INFO agents.BrownAgent|urgency:2.4552
+14/07 07:53:36 INFO agents.BrownAgent|BrownAgent DAY 27 bid: 2439
+14/07 07:53:36 INFO agents.BrownAgent|urgency:0.8
+14/07 07:53:44 INFO agents.BrownAgent|BrownAgent DAY 28 bid: 1951
+14/07 07:53:45 INFO agents.BrownAgent|urgency:1.0
+14/07 07:53:55 INFO agents.BrownAgent|BrownAgent DAY 29 bid: 1301
+14/07 07:53:55 INFO agents.BrownAgent|urgency:0.7716
+14/07 07:53:55 INFO agents.BrownAgent|urgency:0.9
+14/07 07:54:08 INFO agents.BrownAgent|BrownAgent DAY 30 bid: 650
+14/07 07:54:08 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:54:08 INFO agents.BrownAgent|urgency:0.1574
+14/07 07:54:08 INFO agents.BrownAgent|urgency:1.0
+14/07 07:54:16 INFO agents.BrownAgent|BrownAgent DAY 31 bid: 650
+14/07 07:54:16 INFO agents.BrownAgent|urgency:1.0
+14/07 07:54:16 INFO agents.BrownAgent|urgency:0.0
+14/07 07:54:16 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:54:16 INFO agents.BrownAgent|urgency:0.9652499999999999
+14/07 07:54:25 INFO agents.BrownAgent|BrownAgent DAY 32 bid: 921
+14/07 07:54:25 INFO agents.BrownAgent|urgency:1.6652
+14/07 07:54:25 INFO agents.BrownAgent|urgency:1.0
+14/07 07:54:25 INFO agents.BrownAgent|urgency:0.8
+14/07 07:54:25 INFO agents.BrownAgent|urgency:0.46011428571428575
+14/07 07:54:36 INFO agents.BrownAgent|BrownAgent DAY 33 bid: 1842
+14/07 07:54:36 INFO agents.BrownAgent|urgency:0.9988
+14/07 07:54:36 INFO agents.BrownAgent|urgency:0.8
+14/07 07:54:36 INFO agents.BrownAgent|urgency:1.0
+14/07 07:54:36 INFO agents.BrownAgent|urgency:0.1835
+14/07 07:54:45 INFO agents.BrownAgent|BrownAgent DAY 34 bid: 2764
+14/07 07:54:45 INFO agents.BrownAgent|urgency:1.0
+14/07 07:54:45 INFO agents.BrownAgent|urgency:0.6658666666666667
+14/07 07:54:45 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:54:45 INFO agents.BrownAgent|urgency:0.14508000000000001
+14/07 07:54:55 INFO agents.BrownAgent|BrownAgent DAY 35 bid: 2211
+14/07 07:54:56 INFO agents.BrownAgent|urgency:0.6664
+14/07 07:54:56 INFO agents.BrownAgent|urgency:0.0
+14/07 07:54:56 INFO agents.BrownAgent|urgency:1.0
+14/07 07:54:56 INFO agents.BrownAgent|urgency:0.15330000000000002
+14/07 07:55:06 INFO agents.BrownAgent|BrownAgent DAY 36 bid: 1179
+14/07 07:55:06 INFO agents.BrownAgent|urgency:0.0
+14/07 07:55:06 INFO agents.BrownAgent|urgency:0.0
+14/07 07:55:06 INFO agents.BrownAgent|urgency:0.9996
+14/07 07:55:06 INFO agents.BrownAgent|urgency:0.20440000000000003
+14/07 07:55:15 INFO agents.BrownAgent|BrownAgent DAY 37 bid: 471
+14/07 07:55:15 INFO agents.BrownAgent|urgency:0.0
+14/07 07:55:15 INFO agents.BrownAgent|urgency:0.30660000000000004
+14/07 07:55:26 INFO agents.BrownAgent|BrownAgent DAY 38 bid: 1415
+14/07 07:55:26 INFO agents.BrownAgent|urgency:0.6132000000000001
+14/07 07:55:26 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:55:35 INFO agents.BrownAgent|BrownAgent DAY 39 bid: 377
+14/07 07:55:35 INFO agents.BrownAgent|urgency:1.0
+14/07 07:55:45 INFO agents.BrownAgent|BrownAgent DAY 40 bid: 1132
+14/07 07:55:45 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:55:45 INFO agents.BrownAgent|urgency:0.9988
+14/07 07:55:54 INFO agents.BrownAgent|BrownAgent DAY 41 bid: 301
+14/07 07:55:54 INFO agents.BrownAgent|urgency:1.0
+14/07 07:56:04 INFO agents.BrownAgent|BrownAgent DAY 42 bid: 447
+14/07 07:56:04 INFO agents.BrownAgent|urgency:1.9288
+14/07 07:56:04 INFO agents.BrownAgent|urgency:0.8
+14/07 07:56:13 INFO agents.BrownAgent|BrownAgent DAY 43 bid: 716
+14/07 07:56:13 INFO agents.BrownAgent|urgency:1.0
+14/07 07:56:25 INFO agents.BrownAgent|BrownAgent DAY 44 bid: 835
+14/07 07:56:25 INFO agents.BrownAgent|urgency:0.8
+14/07 07:56:25 INFO agents.BrownAgent|urgency:1.3333333333333333
+14/07 07:56:36 INFO agents.BrownAgent|BrownAgent DAY 45 bid: 408
+14/07 07:56:36 INFO agents.BrownAgent|urgency:1.0
+14/07 07:56:36 INFO agents.BrownAgent|urgency:1.7776
+14/07 07:56:45 INFO agents.BrownAgent|BrownAgent DAY 46 bid: 1459
+14/07 07:56:45 INFO agents.BrownAgent|urgency:1.1448
+14/07 07:56:45 INFO agents.BrownAgent|urgency:2.4232
+14/07 07:56:55 INFO agents.BrownAgent|BrownAgent DAY 47 bid: 1354
+14/07 07:56:56 INFO agents.BrownAgent|urgency:1.2754
+14/07 07:57:06 INFO agents.BrownAgent|BrownAgent DAY 48 bid: 867
+14/07 07:57:06 INFO agents.BrownAgent|urgency:1.6076
+14/07 07:57:16 INFO agents.BrownAgent|BrownAgent DAY 49 bid: 867
+14/07 07:57:16 INFO agents.BrownAgent|urgency:0.9
+14/07 07:57:25 INFO agents.BrownAgent|BrownAgent DAY 50 bid: 1300
+14/07 07:57:25 INFO agents.BrownAgent|urgency:0.8
+14/07 07:57:25 INFO agents.BrownAgent|urgency:1.0
+14/07 07:57:37 INFO agents.BrownAgent|urgency:1.0
+14/07 07:57:37 INFO agents.BrownAgent|urgency:0.6666666666666666
+14/07 07:57:37 INFO agents.BrownAgent|urgency:0.8933625000000001
+14/07 07:57:44 INFO agents.BrownAgent|urgency:0.8396
+14/07 07:57:44 INFO agents.BrownAgent|urgency:1.0
+14/07 07:57:44 INFO agents.BrownAgent|urgency:0.6186857142857143
+14/07 07:57:54 INFO agents.BrownAgent|urgency:0.2594
+14/07 07:57:54 INFO agents.BrownAgent|urgency:1.9809333333333334
+14/07 07:57:54 INFO agents.BrownAgent|urgency:0.7218
+14/07 07:58:06 INFO agents.BrownAgent|urgency:0.0
+14/07 07:58:06 INFO agents.BrownAgent|urgency:0.86616
+14/07 07:58:14 INFO agents.BrownAgent|urgency:1.0827
+14/07 07:58:24 INFO agents.BrownAgent|urgency:1.0977
+14/07 07:58:35 INFO agents.BrownAgent|urgency:0.6354
+14/07 07:58:43 INFO agents.BrownAgent|urgency:0.0

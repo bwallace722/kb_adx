@@ -1,0 +1,55 @@
+10/07 05:12:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+10/07 05:12:02 INFO naive.ReasonableBot|1 DAY 0 bid: 1590 qs: 0.0
+10/07 05:12:15 INFO naive.ReasonableBot|1 DAY 1 bid: 424 qs: 1.0
+10/07 05:12:22 INFO naive.ReasonableBot|1 DAY 2 bid: 339 qs: 1.0
+10/07 05:12:32 INFO naive.ReasonableBot|1 DAY 3 bid: 542 qs: 1.0
+10/07 05:12:43 INFO naive.ReasonableBot|1 DAY 4 bid: 217 qs: 1.0
+10/07 05:12:52 INFO naive.ReasonableBot|1 DAY 5 bid: 521 qs: 1.0
+10/07 05:13:02 INFO naive.ReasonableBot|1 DAY 6 WON at cost 0.645
+10/07 05:13:02 INFO naive.ReasonableBot|1 DAY 6 bid: 173 qs: 1.096194706983661
+10/07 05:13:12 INFO naive.ReasonableBot|1 DAY 7 bid: 416 qs: 1.096194706983661
+10/07 05:13:22 INFO naive.ReasonableBot|1 DAY 8 bid: 333 qs: 1.096194706983661
+10/07 05:13:33 INFO naive.ReasonableBot|1 DAY 9 WON at cost 0.39799999999999996
+10/07 05:13:33 INFO naive.ReasonableBot|1 DAY 9 bid: 140 qs: 1.096194706983661
+10/07 05:13:43 INFO naive.ReasonableBot|1 DAY 10 bid: 312 qs: 1.096194706983661
+10/07 05:13:53 INFO naive.ReasonableBot|1 DAY 11 bid: 217 qs: 1.096194706983661
+10/07 05:14:02 INFO naive.ReasonableBot|1 DAY 12 bid: 425 qs: 0.7091647973069257
+10/07 05:14:12 INFO naive.ReasonableBot|1 DAY 13 bid: 427 qs: 0.7091647973069257
+10/07 05:14:22 INFO naive.ReasonableBot|1 DAY 14 WON at cost 0.5492463237395965
+10/07 05:14:22 INFO naive.ReasonableBot|1 DAY 14 bid: 827 qs: 0.7091647973069257
+10/07 05:14:32 INFO naive.ReasonableBot|1 DAY 15 WON at cost 1.0084469539344567
+10/07 05:14:32 INFO naive.ReasonableBot|1 DAY 15 bid: 1099 qs: 0.7091647973069257
+10/07 05:14:43 INFO naive.ReasonableBot|1 DAY 16 WON at cost 2.465379450069545
+10/07 05:14:43 INFO naive.ReasonableBot|1 DAY 16 bid: 1531 qs: 0.7091647973069257
+10/07 05:14:53 INFO naive.ReasonableBot|1 DAY 17 WON at cost 2.06184118295528
+10/07 05:14:53 INFO naive.ReasonableBot|1 DAY 17 bid: 2061 qs: 0.7091647973069257
+10/07 05:15:03 INFO naive.ReasonableBot|1 DAY 18 bid: 1726 qs: 0.30873993084426055
+10/07 05:15:14 INFO naive.ReasonableBot|1 DAY 19 bid: 15322 qs: 0.30873993084426055
+10/07 05:15:24 INFO naive.ReasonableBot|1 DAY 20 bid: 36041 qs: 0.752332964503329
+10/07 05:15:34 INFO naive.ReasonableBot|1 DAY 21 bid: 58159 qs: 0.46304042343238516
+10/07 05:15:43 INFO naive.ReasonableBot|1 DAY 22 bid: 57174 qs: 0.589732202300741
+10/07 05:15:56 INFO naive.ReasonableBot|1 DAY 23 bid: 19062 qs: 0.589732202300741
+10/07 05:16:03 INFO naive.ReasonableBot|1 DAY 24 bid: 56796 qs: 0.589732202300741
+10/07 05:16:14 INFO naive.ReasonableBot|1 DAY 25 bid: 45437 qs: 0.589732202300741
+10/07 05:16:24 INFO naive.ReasonableBot|1 DAY 26 bid: 36349 qs: 0.589732202300741
+10/07 05:16:34 INFO naive.ReasonableBot|1 DAY 27 bid: 19386 qs: 0.589732202300741
+10/07 05:16:43 INFO naive.ReasonableBot|1 DAY 28 bid: 23263 qs: 0.8473925932003057
+10/07 05:16:54 INFO naive.ReasonableBot|1 DAY 29 bid: 6203 qs: 0.8473925932003057
+10/07 05:17:03 INFO naive.ReasonableBot|1 DAY 30 bid: 9925 qs: 0.8473925932003057
+10/07 05:17:12 INFO naive.ReasonableBot|1 DAY 31 bid: 3970 qs: 0.8473925932003057
+10/07 05:17:24 INFO naive.ReasonableBot|1 DAY 32 bid: 9528 qs: 0.8473925932003057
+10/07 05:17:31 INFO naive.ReasonableBot|1 DAY 33 bid: 7623 qs: 0.8473925932003057
+10/07 05:17:42 INFO naive.ReasonableBot|1 DAY 34 bid: 6098 qs: 0.8473925932003057
+10/07 05:17:52 INFO naive.ReasonableBot|1 DAY 35 bid: 1626 qs: 0.8473925932003057
+10/07 05:18:04 INFO naive.ReasonableBot|1 DAY 36 bid: 2602 qs: 0.8473925932003057
+10/07 05:18:13 INFO naive.ReasonableBot|1 DAY 37 bid: 1040 qs: 0.8473925932003057
+10/07 05:18:22 INFO naive.ReasonableBot|1 DAY 38 bid: 1665 qs: 0.8473925932003057
+10/07 05:18:26 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+10/07 05:18:26 SEVERE agentware.SimClient|************************************************************
+10/07 05:18:26 SEVERE agentware.SimClient|* Connection Lost
+10/07 05:18:26 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+10/07 05:18:26 SEVERE agentware.SimClient|************************************************************

@@ -1,0 +1,25 @@
+08/07 21:25:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc778a7f
+08/07 21:25:02 INFO naive.ReasonableBot|DAY 0 Actually bidding 1
+08/07 21:26:23 INFO naive.ReasonableBot|DAY 1 WON at cost 0.032
+08/07 21:26:23 INFO naive.ReasonableBot|DAY 1 Actually bidding 1
+08/07 21:28:18 INFO naive.ReasonableBot|Day 2 ongoing campaigns:
+[MALE, OLD] days left: 3/4 target reach: 1250 to go: 624
+[OLD, LOW_INCOME] days left: 4/4 target reach: 5000 to go: 5000
+08/07 21:28:19 INFO naive.ReasonableBot|DAY 2 Actually bidding 1
+08/07 21:28:19 INFO naive.ReasonableBot|Day 3 ongoing campaigns:
+[MALE, OLD] days left: 2/4 target reach: 1250 to go: 624
+[OLD, LOW_INCOME] days left: 3/4 target reach: 5000 to go: 5000
+08/07 21:28:19 INFO naive.ReasonableBot|DAY 3 Actually bidding 1
+08/07 21:28:29 INFO naive.ReasonableBot|Day 4 ongoing campaigns:
+[MALE, OLD] days left: 1/4 target reach: 1250 to go: 624
+[OLD, LOW_INCOME] days left: 2/4 target reach: 5000 to go: 5000
+08/07 21:28:29 INFO naive.ReasonableBot|DAY 4 Actually bidding 1
+08/07 21:28:34 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+[MALE, OLD] days left: 0/4 target reach: 1250 to go: 624
+[OLD, LOW_INCOME] days left: 1/4 target reach: 5000 to go: 5000
+08/07 21:28:34 INFO naive.ReasonableBot|DAY 5 Actually bidding 1
+08/07 21:29:14 INFO naive.ReasonableBot|Day 6 ongoing campaigns:
+[OLD, LOW_INCOME] days left: 0/4 target reach: 5000 to go: 5000
+08/07 21:29:14 INFO naive.ReasonableBot|DAY 6 Actually bidding 1
+08/07 21:29:32 INFO naive.ReasonableBot|Day 7 ongoing campaigns:
+08/07 21:29:32 INFO naive.ReasonableBot|DAY 7 Actually bidding 1

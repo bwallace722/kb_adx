@@ -1,0 +1,279 @@
+07/07 20:26:00 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 20:26:00 INFO naive.ReasonableBot|DAY 0 Actually bidding 1000
+07/07 20:26:13 INFO naive.ReasonableBot|DAY 1 Actually bidding 1200
+07/07 20:26:30 INFO naive.ReasonableBot|Day 2 ongoing campaigns:
+832682594 days left: 3/4 target reach: 1250 to go: 622
+07/07 20:26:30 INFO naive.ReasonableBot|DAY 2 WON at cost 5.614
+07/07 20:26:30 INFO naive.ReasonableBot|DAY 2 Actually bidding 800
+07/07 20:26:35 INFO naive.ReasonableBot|Day 3 ongoing campaigns:
+832682594 days left: 2/4 target reach: 1250 to go: 0
+1411133200 days left: 2/2 target reach: 15000 to go: 15000
+07/07 20:26:35 INFO naive.ReasonableBot|DAY 3 Actually bidding 960
+07/07 20:26:53 INFO naive.ReasonableBot|Day 4 ongoing campaigns:
+832682594 days left: 1/4 target reach: 1250 to go: 0
+1411133200 days left: 1/2 target reach: 15000 to go: 15000
+07/07 20:26:53 INFO naive.ReasonableBot|DAY 4 WON at cost 2.284
+07/07 20:26:53 INFO naive.ReasonableBot|DAY 4 Actually bidding 640
+07/07 20:26:58 INFO naive.ReasonableBot|Day 5 ongoing campaigns:
+832682594 days left: 0/4 target reach: 1250 to go: 0
+1932407610 days left: 4/4 target reach: 15000 to go: 15000
+1411133200 days left: 0/2 target reach: 15000 to go: 14516
+07/07 20:26:59 INFO naive.ReasonableBot|DAY 5 Actually bidding 512
+07/07 20:27:08 INFO naive.ReasonableBot|Day 6 ongoing campaigns:
+1932407610 days left: 3/4 target reach: 15000 to go: 15000
+07/07 20:27:08 INFO naive.ReasonableBot|DAY 6 WON at cost 0.7040000000000001
+07/07 20:27:09 INFO naive.ReasonableBot|DAY 6 Actually bidding 256
+07/07 20:27:16 INFO naive.ReasonableBot|Day 7 ongoing campaigns:
+533038833 days left: 4/4 target reach: 10000 to go: 10000
+1932407610 days left: 2/4 target reach: 15000 to go: 14256
+07/07 20:27:16 INFO naive.ReasonableBot|DAY 7 WON at cost 0.5614745430233608
+07/07 20:27:16 INFO naive.ReasonableBot|DAY 7 Actually bidding 512
+07/07 20:27:25 INFO naive.ReasonableBot|Day 8 ongoing campaigns:
+533038833 days left: 3/4 target reach: 10000 to go: 7368
+1043015921 days left: 9/9 target reach: 5000 to go: 5000
+1932407610 days left: 1/4 target reach: 15000 to go: 13979
+07/07 20:27:25 INFO naive.ReasonableBot|DAY 8 WON at cost 0.6577148496769699
+07/07 20:27:25 INFO naive.ReasonableBot|DAY 8 Actually bidding 512
+07/07 20:27:39 INFO naive.ReasonableBot|Day 9 ongoing campaigns:
+1023577220 days left: 2/2 target reach: 10000 to go: 10000
+533038833 days left: 2/4 target reach: 10000 to go: 2367
+1043015921 days left: 8/9 target reach: 5000 to go: 2499
+1932407610 days left: 0/4 target reach: 15000 to go: 13979
+07/07 20:27:39 INFO naive.ReasonableBot|DAY 9 WON at cost 0.9130874933708805
+07/07 20:27:39 INFO naive.ReasonableBot|DAY 9 Actually bidding 768
+07/07 20:27:45 INFO naive.ReasonableBot|Day 10 ongoing campaigns:
+1023577220 days left: 1/2 target reach: 10000 to go: 4999
+533038833 days left: 1/4 target reach: 10000 to go: 0
+1043015921 days left: 7/9 target reach: 5000 to go: 0
+226843702 days left: 9/9 target reach: 10000 to go: 10000
+07/07 20:27:45 INFO naive.ReasonableBot|DAY 10 Actually bidding 409
+07/07 20:28:02 INFO naive.ReasonableBot|Day 11 ongoing campaigns:
+1023577220 days left: 0/2 target reach: 10000 to go: 4999
+533038833 days left: 0/4 target reach: 10000 to go: 0
+1043015921 days left: 6/9 target reach: 5000 to go: 0
+226843702 days left: 8/9 target reach: 10000 to go: 10000
+07/07 20:28:02 INFO naive.ReasonableBot|DAY 11 Actually bidding 491
+07/07 20:28:07 INFO naive.ReasonableBot|Day 12 ongoing campaigns:
+1043015921 days left: 5/9 target reach: 5000 to go: 0
+226843702 days left: 7/9 target reach: 10000 to go: 10000
+07/07 20:28:07 INFO naive.ReasonableBot|DAY 12 Actually bidding 262
+07/07 20:28:15 INFO naive.ReasonableBot|Day 13 ongoing campaigns:
+1043015921 days left: 4/9 target reach: 5000 to go: 0
+226843702 days left: 6/9 target reach: 10000 to go: 10000
+07/07 20:28:15 INFO naive.ReasonableBot|DAY 13 WON at cost 3.8332953504915315
+07/07 20:28:15 INFO naive.ReasonableBot|DAY 13 Actually bidding 131
+07/07 20:28:24 INFO naive.ReasonableBot|Day 14 ongoing campaigns:
+537967664 days left: 9/9 target reach: 10000 to go: 10000
+1043015921 days left: 3/9 target reach: 5000 to go: 0
+226843702 days left: 5/9 target reach: 10000 to go: 4998
+07/07 20:28:24 INFO naive.ReasonableBot|DAY 14 WON at cost 1.0058990544985515
+07/07 20:28:24 INFO naive.ReasonableBot|DAY 14 Actually bidding 131
+07/07 20:28:35 INFO naive.ReasonableBot|Day 15 ongoing campaigns:
+1142814583 days left: 9/9 target reach: 5000 to go: 5000
+537967664 days left: 8/9 target reach: 10000 to go: 4997
+1043015921 days left: 2/9 target reach: 5000 to go: 0
+226843702 days left: 4/9 target reach: 10000 to go: 1399
+07/07 20:28:35 INFO naive.ReasonableBot|DAY 15 WON at cost 0.8290018164913436
+07/07 20:28:35 INFO naive.ReasonableBot|DAY 15 Actually bidding 131
+07/07 20:28:45 INFO naive.ReasonableBot|Day 16 ongoing campaigns:
+1142814583 days left: 8/9 target reach: 5000 to go: 2498
+1733748380 days left: 2/2 target reach: 5000 to go: 5000
+537967664 days left: 7/9 target reach: 10000 to go: 0
+1043015921 days left: 1/9 target reach: 5000 to go: 0
+226843702 days left: 3/9 target reach: 10000 to go: 1399
+07/07 20:28:45 INFO naive.ReasonableBot|DAY 16 WON at cost 0.8656885992555726
+07/07 20:28:45 INFO naive.ReasonableBot|DAY 16 Actually bidding 262
+07/07 20:28:55 INFO naive.ReasonableBot|Day 17 ongoing campaigns:
+1142814583 days left: 7/9 target reach: 5000 to go: 0
+1269472580 days left: 2/2 target reach: 5000 to go: 5000
+1733748380 days left: 1/2 target reach: 5000 to go: 2499
+537967664 days left: 6/9 target reach: 10000 to go: 0
+1043015921 days left: 0/9 target reach: 5000 to go: 0
+226843702 days left: 2/9 target reach: 10000 to go: 1399
+07/07 20:28:55 INFO naive.ReasonableBot|DAY 17 WON at cost 0.8991340807438674
+07/07 20:28:55 INFO naive.ReasonableBot|DAY 17 Actually bidding 131
+07/07 20:29:06 INFO naive.ReasonableBot|Day 18 ongoing campaigns:
+1142814583 days left: 6/9 target reach: 5000 to go: 0
+1269472580 days left: 1/2 target reach: 5000 to go: 2498
+1733748380 days left: 0/2 target reach: 5000 to go: 0
+778252370 days left: 4/4 target reach: 10000 to go: 10000
+537967664 days left: 5/9 target reach: 10000 to go: 0
+226843702 days left: 1/9 target reach: 10000 to go: 1399
+07/07 20:29:06 INFO naive.ReasonableBot|DAY 18 WON at cost 0.3590640212821409
+07/07 20:29:06 INFO naive.ReasonableBot|DAY 18 Actually bidding 131
+07/07 20:29:15 INFO naive.ReasonableBot|Day 19 ongoing campaigns:
+1142814583 days left: 5/9 target reach: 5000 to go: 0
+1106691885 days left: 2/2 target reach: 5000 to go: 5000
+1269472580 days left: 0/2 target reach: 5000 to go: 0
+778252370 days left: 3/4 target reach: 10000 to go: 10000
+537967664 days left: 4/9 target reach: 10000 to go: 0
+226843702 days left: 0/9 target reach: 10000 to go: 1399
+07/07 20:29:15 INFO naive.ReasonableBot|DAY 19 WON at cost 1.1503345969001617
+07/07 20:29:15 INFO naive.ReasonableBot|DAY 19 Actually bidding 131
+07/07 20:29:24 INFO naive.ReasonableBot|Day 20 ongoing campaigns:
+1142814583 days left: 4/9 target reach: 5000 to go: 0
+1106691885 days left: 1/2 target reach: 5000 to go: 4860
+778252370 days left: 2/4 target reach: 10000 to go: 10000
+1851304752 days left: 4/4 target reach: 5000 to go: 5000
+537967664 days left: 3/9 target reach: 10000 to go: 0
+07/07 20:29:24 INFO naive.ReasonableBot|DAY 20 WON at cost 0.7733167350279836
+07/07 20:29:24 INFO naive.ReasonableBot|DAY 20 Actually bidding 393
+07/07 20:29:34 INFO naive.ReasonableBot|Day 21 ongoing campaigns:
+1142814583 days left: 3/9 target reach: 5000 to go: 0
+1106691885 days left: 0/2 target reach: 5000 to go: 4703
+778252370 days left: 1/4 target reach: 10000 to go: 10000
+1851304752 days left: 3/4 target reach: 5000 to go: 2499
+1508081474 days left: 9/9 target reach: 5000 to go: 5000
+537967664 days left: 2/9 target reach: 10000 to go: 0
+07/07 20:29:34 INFO naive.ReasonableBot|DAY 21 WON at cost 13.555752558988342
+07/07 20:29:34 INFO naive.ReasonableBot|DAY 21 Actually bidding 393
+07/07 20:29:47 INFO naive.ReasonableBot|Day 22 ongoing campaigns:
+1142814583 days left: 2/9 target reach: 5000 to go: 0
+778252370 days left: 0/4 target reach: 10000 to go: 10000
+1851304752 days left: 2/4 target reach: 5000 to go: 0
+1508081474 days left: 8/9 target reach: 5000 to go: 2496
+537967664 days left: 1/9 target reach: 10000 to go: 0
+1576039210 days left: 4/4 target reach: 15000 to go: 15000
+07/07 20:29:47 INFO naive.ReasonableBot|DAY 22 WON at cost 3.764726613020339
+07/07 20:29:47 INFO naive.ReasonableBot|DAY 22 Actually bidding 393
+07/07 20:29:57 INFO naive.ReasonableBot|Day 23 ongoing campaigns:
+1142814583 days left: 1/9 target reach: 5000 to go: 0
+667490435 days left: 2/2 target reach: 15000 to go: 15000
+1851304752 days left: 1/4 target reach: 5000 to go: 0
+1508081474 days left: 7/9 target reach: 5000 to go: 0
+537967664 days left: 0/9 target reach: 10000 to go: 0
+1576039210 days left: 3/4 target reach: 15000 to go: 7495
+07/07 20:29:57 INFO naive.ReasonableBot|DAY 23 WON at cost 1.2413744400774487
+07/07 20:29:57 INFO naive.ReasonableBot|DAY 23 Actually bidding 393
+07/07 20:30:06 INFO naive.ReasonableBot|Day 24 ongoing campaigns:
+1142814583 days left: 0/9 target reach: 5000 to go: 0
+667490435 days left: 1/2 target reach: 15000 to go: 7496
+1851304752 days left: 0/4 target reach: 5000 to go: 0
+1508081474 days left: 6/9 target reach: 5000 to go: 0
+85344994 days left: 9/9 target reach: 15000 to go: 15000
+1576039210 days left: 2/4 target reach: 15000 to go: 7495
+07/07 20:30:06 INFO naive.ReasonableBot|DAY 24 Actually bidding 314
+07/07 20:30:26 INFO naive.ReasonableBot|Day 25 ongoing campaigns:
+667490435 days left: 0/2 target reach: 15000 to go: 0
+1508081474 days left: 5/9 target reach: 5000 to go: 0
+85344994 days left: 8/9 target reach: 15000 to go: 15000
+1576039210 days left: 1/4 target reach: 15000 to go: 7495
+07/07 20:30:26 INFO naive.ReasonableBot|DAY 25 WON at cost 2.1969262352599794
+07/07 20:30:26 INFO naive.ReasonableBot|DAY 25 Actually bidding 209
+07/07 20:30:32 INFO naive.ReasonableBot|Day 26 ongoing campaigns:
+1508081474 days left: 4/9 target reach: 5000 to go: 0
+85344994 days left: 7/9 target reach: 15000 to go: 7494
+879538754 days left: 2/2 target reach: 15000 to go: 15000
+1576039210 days left: 0/4 target reach: 15000 to go: 7495
+07/07 20:30:32 INFO naive.ReasonableBot|DAY 26 Actually bidding 83
+07/07 20:30:35 INFO naive.ReasonableBot|Day 27 ongoing campaigns:
+1508081474 days left: 3/9 target reach: 5000 to go: 0
+85344994 days left: 6/9 target reach: 15000 to go: 7494
+879538754 days left: 1/2 target reach: 15000 to go: 15000
+07/07 20:30:36 INFO naive.ReasonableBot|DAY 27 Actually bidding 201
+07/07 20:30:47 INFO naive.ReasonableBot|Day 28 ongoing campaigns:
+1508081474 days left: 2/9 target reach: 5000 to go: 0
+85344994 days left: 5/9 target reach: 15000 to go: 7494
+879538754 days left: 0/2 target reach: 15000 to go: 15000
+07/07 20:30:47 INFO naive.ReasonableBot|DAY 28 WON at cost 2.824019636881852
+07/07 20:30:47 INFO naive.ReasonableBot|DAY 28 Actually bidding 201
+07/07 20:30:58 INFO naive.ReasonableBot|Day 29 ongoing campaigns:
+1508081474 days left: 1/9 target reach: 5000 to go: 0
+85344994 days left: 4/9 target reach: 15000 to go: 3741
+1912700135 days left: 9/9 target reach: 15000 to go: 15000
+07/07 20:30:58 INFO naive.ReasonableBot|DAY 29 WON at cost 0.41096806378388945
+07/07 20:30:58 INFO naive.ReasonableBot|DAY 29 Actually bidding 67
+07/07 20:31:09 INFO naive.ReasonableBot|Day 30 ongoing campaigns:
+991972572 days left: 2/2 target reach: 15000 to go: 15000
+1508081474 days left: 0/9 target reach: 5000 to go: 0
+85344994 days left: 3/9 target reach: 15000 to go: 0
+1912700135 days left: 8/9 target reach: 15000 to go: 7498
+07/07 20:31:09 INFO naive.ReasonableBot|DAY 30 WON at cost 0.08145211308145307
+07/07 20:31:10 INFO naive.ReasonableBot|DAY 30 Actually bidding 67
+07/07 20:31:16 INFO naive.ReasonableBot|Day 31 ongoing campaigns:
+991972572 days left: 1/2 target reach: 15000 to go: 14433
+1620112460 days left: 9/9 target reach: 5000 to go: 5000
+85344994 days left: 2/9 target reach: 15000 to go: 0
+1912700135 days left: 7/9 target reach: 15000 to go: 0
+07/07 20:31:16 INFO naive.ReasonableBot|DAY 31 Actually bidding 161
+07/07 20:31:30 INFO naive.ReasonableBot|Day 32 ongoing campaigns:
+991972572 days left: 0/2 target reach: 15000 to go: 12311
+1620112460 days left: 8/9 target reach: 5000 to go: 5000
+85344994 days left: 1/9 target reach: 15000 to go: 0
+1912700135 days left: 6/9 target reach: 15000 to go: 0
+07/07 20:31:30 INFO naive.ReasonableBot|DAY 32 WON at cost 0.7910902719726098
+07/07 20:31:30 INFO naive.ReasonableBot|DAY 32 Actually bidding 161
+07/07 20:31:44 INFO naive.ReasonableBot|Day 33 ongoing campaigns:
+1620112460 days left: 7/9 target reach: 5000 to go: 4226
+578232019 days left: 9/9 target reach: 15000 to go: 15000
+85344994 days left: 0/9 target reach: 15000 to go: 0
+1912700135 days left: 5/9 target reach: 15000 to go: 0
+07/07 20:31:44 INFO naive.ReasonableBot|DAY 33 Actually bidding 42
+07/07 20:31:53 INFO naive.ReasonableBot|Day 34 ongoing campaigns:
+1620112460 days left: 6/9 target reach: 5000 to go: 3355
+578232019 days left: 8/9 target reach: 15000 to go: 15000
+1912700135 days left: 4/9 target reach: 15000 to go: 0
+07/07 20:31:53 INFO naive.ReasonableBot|DAY 34 Actually bidding 34
+07/07 20:32:03 INFO naive.ReasonableBot|Day 35 ongoing campaigns:
+1620112460 days left: 5/9 target reach: 5000 to go: 2775
+578232019 days left: 7/9 target reach: 15000 to go: 15000
+1912700135 days left: 3/9 target reach: 15000 to go: 0
+07/07 20:32:03 INFO naive.ReasonableBot|DAY 35 Actually bidding 27
+07/07 20:32:10 INFO naive.ReasonableBot|Day 36 ongoing campaigns:
+1620112460 days left: 4/9 target reach: 5000 to go: 2342
+578232019 days left: 6/9 target reach: 15000 to go: 12533
+1912700135 days left: 2/9 target reach: 15000 to go: 0
+07/07 20:32:10 INFO naive.ReasonableBot|DAY 36 Actually bidding 21
+07/07 20:32:18 INFO naive.ReasonableBot|Day 37 ongoing campaigns:
+1620112460 days left: 3/9 target reach: 5000 to go: 1917
+578232019 days left: 5/9 target reach: 15000 to go: 10165
+1912700135 days left: 1/9 target reach: 15000 to go: 0
+07/07 20:32:18 INFO naive.ReasonableBot|DAY 37 Actually bidding 52
+07/07 20:32:25 INFO naive.ReasonableBot|Day 38 ongoing campaigns:
+1620112460 days left: 2/9 target reach: 5000 to go: 1460
+578232019 days left: 4/9 target reach: 15000 to go: 7856
+1912700135 days left: 0/9 target reach: 15000 to go: 0
+07/07 20:32:25 INFO naive.ReasonableBot|DAY 38 WON at cost 1.698261939294688
+07/07 20:32:25 INFO naive.ReasonableBot|DAY 38 Actually bidding 35
+07/07 20:32:45 INFO naive.ReasonableBot|Day 39 ongoing campaigns:
+786620568 days left: 9/9 target reach: 15000 to go: 15000
+1620112460 days left: 1/9 target reach: 5000 to go: 1074
+578232019 days left: 3/9 target reach: 15000 to go: 5492
+07/07 20:32:45 INFO naive.ReasonableBot|DAY 39 WON at cost 1.6448879926311406
+07/07 20:32:45 INFO naive.ReasonableBot|DAY 39 Actually bidding 17
+07/07 20:33:21 INFO naive.ReasonableBot|Day 40 ongoing campaigns:
+786620568 days left: 8/9 target reach: 15000 to go: 14808
+1620112460 days left: 0/9 target reach: 5000 to go: 589
+578232019 days left: 2/9 target reach: 15000 to go: 2830
+1102235484 days left: 9/9 target reach: 10000 to go: 10000
+07/07 20:33:21 INFO naive.ReasonableBot|DAY 40 Actually bidding 28
+07/07 20:34:13 INFO naive.ReasonableBot|Day 41 ongoing campaigns:
+786620568 days left: 7/9 target reach: 15000 to go: 14676
+578232019 days left: 1/9 target reach: 15000 to go: 615
+1102235484 days left: 8/9 target reach: 10000 to go: 10000
+07/07 20:34:13 INFO naive.ReasonableBot|DAY 41 Actually bidding 22
+07/07 20:34:24 INFO naive.ReasonableBot|Day 42 ongoing campaigns:
+786620568 days left: 6/9 target reach: 15000 to go: 14541
+578232019 days left: 0/9 target reach: 15000 to go: 0
+1102235484 days left: 7/9 target reach: 10000 to go: 10000
+07/07 20:34:24 INFO naive.ReasonableBot|DAY 42 Actually bidding 27
+07/07 20:34:42 INFO naive.ReasonableBot|Day 43 ongoing campaigns:
+786620568 days left: 5/9 target reach: 15000 to go: 14323
+1102235484 days left: 6/9 target reach: 10000 to go: 10000
+07/07 20:34:42 INFO naive.ReasonableBot|DAY 43 Actually bidding 7
+07/07 20:35:19 INFO naive.ReasonableBot|Day 44 ongoing campaigns:
+786620568 days left: 4/9 target reach: 15000 to go: 14161
+1102235484 days left: 5/9 target reach: 10000 to go: 10000
+07/07 20:35:19 INFO naive.ReasonableBot|DAY 44 Actually bidding 17
+07/07 20:35:46 INFO naive.ReasonableBot|Day 45 ongoing campaigns:
+786620568 days left: 3/9 target reach: 15000 to go: 14008
+1102235484 days left: 4/9 target reach: 10000 to go: 10000
+07/07 20:35:46 INFO naive.ReasonableBot|DAY 45 Actually bidding 13
+07/07 20:36:07 INFO naive.ReasonableBot|Day 46 ongoing campaigns:
+786620568 days left: 2/9 target reach: 15000 to go: 13624
+1102235484 days left: 3/9 target reach: 10000 to go: 7828
+07/07 20:36:07 INFO naive.ReasonableBot|DAY 46 Actually bidding 7
+07/07 20:36:20 SEVERE agentware.SimClient|************************************************************
+07/07 20:36:20 SEVERE agentware.SimClient|* Forced Simulation End
+07/07 20:36:20 SEVERE agentware.SimClient|* forcing simulation to end at time unit 62 (max 61 time units)
+07/07 20:36:20 SEVERE agentware.SimClient|************************************************************

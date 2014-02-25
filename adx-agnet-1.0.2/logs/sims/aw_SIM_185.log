@@ -1,0 +1,313 @@
+14/07 01:14:01 INFO agents.BrownAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+14/07 01:14:01 INFO agents.BrownAgent|Day 0 :BankStatus[0.000000]
+14/07 01:14:01 INFO agents.BrownAgent|tau.tac.adx.report.demand.InitialCampaignMessage[356011733,1250,1,5,[YOUNG, MALE],2.0,1.5,demand,[]]
+14/07 01:14:01 INFO agents.BrownAgent|Day 0: Allocated campaign - Campaign ID 356011733: day 1 to 5 [YOUNG, MALE], reach: 1250 coefs: (v=2.0, m=1.5)
+14/07 01:14:01 INFO agents.BrownAgent|Day 0: Campaign opportunity - Campaign ID 226386081: day 2 to 6 [YOUNG, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:14:01 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:14:01 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:14:01 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:14:01 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:14:01 INFO agents.BrownAgent|Day 0 ended. Starting next day
+14/07 01:14:14 INFO agents.BrownAgent|Day 1 :BankStatus[0.000000]
+14/07 01:14:14 INFO agents.BrownAgent|Day 1: Daily notification for campaign 226386081
+14/07 01:14:14 INFO agents.BrownAgent|about to update modeler
+14/07 01:14:14 INFO agents.BrownAgent|Day 1:  WON at cost 1.499. UCS Level set to 0.6561000000000001 at price 0.08012550441649065 Qualit Score is: 1.0
+14/07 01:14:14 INFO agents.BrownAgent|Day 1: Campaign opportunity - Campaign ID 608447606: day 3 to 5 [YOUNG, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:14:14 INFO agents.BrownAgent|Day 1 : AdNetworkReport
+14/07 01:14:14 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:14:14 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:14:14 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:14:14 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:14:14 INFO agents.BrownAgent|Day 1 ended. Starting next day
+14/07 01:14:23 INFO agents.BrownAgent|Day 2 :BankStatus[-0.103401]
+14/07 01:14:23 INFO agents.BrownAgent|Day 2: Updating campaign 356011733 stats: 628.0 tgtImps 741.0 nonTgtImps. Cost of imps is 5.176805530726884E-4
+14/07 01:14:23 INFO agents.BrownAgent|Day 2: Daily notification for campaign 608447606
+14/07 01:14:23 INFO agents.BrownAgent|about to update modeler
+14/07 01:14:23 INFO agents.BrownAgent|Day 2:  WON at cost 1.195. UCS Level set to 1.0 at price 0.15992249548611281 Qualit Score is: 1.0
+14/07 01:14:23 INFO agents.BrownAgent|Day 2: Campaign opportunity - Campaign ID 1771778680: day 4 to 13 [YOUNG, LOW_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:14:23 INFO agents.BrownAgent|Day 2 : AdNetworkReport
+14/07 01:14:23 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:14:23 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:14:23 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:14:23 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:14:23 INFO agents.BrownAgent|Day 2 ended. Starting next day
+14/07 01:14:32 INFO agents.BrownAgent|Day 3 :BankStatus[-0.201493]
+14/07 01:14:32 INFO agents.BrownAgent|Day 3: Updating campaign 226386081 stats: 3758.0 tgtImps 2569.0 nonTgtImps. Cost of imps is 3.438812855136486E-4
+14/07 01:14:32 INFO agents.BrownAgent|Day 3: Updating campaign 356011733 stats: 1254.5 tgtImps 2072.5 nonTgtImps. Cost of imps is 0.001674465311697751
+14/07 01:14:32 INFO agents.BrownAgent|Day 3: Daily notification for campaign 1771778680
+14/07 01:14:32 INFO agents.BrownAgent|about to update modeler
+14/07 01:14:32 INFO agents.BrownAgent|Day 3:  WON at cost 2.702. UCS Level set to 0.9 at price 0.1125585435891832 Qualit Score is: 1.0
+14/07 01:14:32 INFO agents.BrownAgent|Day 3: Campaign opportunity - Campaign ID 1273692418: day 5 to 7 [FEMALE, LOW_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:14:33 INFO agents.BrownAgent|Day 3 : AdNetworkReport
+14/07 01:14:33 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:14:33 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:14:33 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:14:33 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:14:33 INFO agents.BrownAgent|Day 3 ended. Starting next day
+14/07 01:14:43 INFO agents.BrownAgent|Day 4 :BankStatus[-0.290498]
+14/07 01:14:43 INFO agents.BrownAgent|Day 4: Updating campaign 226386081 stats: 6253.5 tgtImps 4378.0 nonTgtImps. Cost of imps is 7.281641658482715E-4
+14/07 01:14:43 INFO agents.BrownAgent|Day 4: Updating campaign 356011733 stats: 1568.5 tgtImps 2165.5 nonTgtImps. Cost of imps is 0.001761803695483138
+14/07 01:14:43 INFO agents.BrownAgent|Day 4: Updating campaign 608447606 stats: 514.0 tgtImps 2152.5 nonTgtImps. Cost of imps is 8.118268501132053E-5
+14/07 01:14:43 INFO agents.BrownAgent|Day 4: Daily notification for campaign 1273692418
+14/07 01:14:43 INFO agents.BrownAgent|about to update modeler
+14/07 01:14:43 INFO agents.BrownAgent|Day 4:  allocated to DummyAdnetwork-6. UCS Level set to 0.5904900000000002 at price 0.060207989395815745 Qualit Score is: 1.0
+14/07 01:14:43 INFO agents.BrownAgent|Day 4: Campaign opportunity - Campaign ID 418590325: day 6 to 15 [YOUNG, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:14:43 INFO agents.BrownAgent|Day 4 : AdNetworkReport
+14/07 01:14:43 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:14:43 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:14:43 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:14:43 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:14:43 INFO agents.BrownAgent|Day 4 ended. Starting next day
+14/07 01:14:54 INFO agents.BrownAgent|Day 5 :BankStatus[-0.385083]
+14/07 01:14:54 INFO agents.BrownAgent|Day 5: Updating campaign 226386081 stats: 8836.5 tgtImps 5325.0 nonTgtImps. Cost of imps is 9.52371671934634E-4
+14/07 01:14:54 INFO agents.BrownAgent|Day 5: Updating campaign 356011733 stats: 1568.5 tgtImps 2165.5 nonTgtImps. Cost of imps is 0.001761803695483138
+14/07 01:14:54 INFO agents.BrownAgent|Day 5: Updating campaign 1771778680 stats: 2426.5 tgtImps 3124.5 nonTgtImps. Cost of imps is 6.883700944432906E-4
+14/07 01:14:54 INFO agents.BrownAgent|Day 5: Updating campaign 608447606 stats: 1334.5 tgtImps 3895.5 nonTgtImps. Cost of imps is 2.561958873489766E-4
+14/07 01:14:54 INFO agents.BrownAgent|Day 5: Daily notification for campaign 418590325
+14/07 01:14:54 INFO agents.BrownAgent|about to update modeler
+14/07 01:14:54 INFO agents.BrownAgent|Day 5:  WON at cost 3.1660000000000004. UCS Level set to 0.9 at price 0.12623281850653337 Qualit Score is: 1.0
+14/07 01:14:54 INFO agents.BrownAgent|Day 5: Campaign opportunity - Campaign ID 2097933476: day 7 to 9 [YOUNG, FEMALE], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:14:55 INFO agents.BrownAgent|Day 5 : AdNetworkReport
+14/07 01:14:55 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:14:55 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:14:55 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:14:55 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:14:55 INFO agents.BrownAgent|Day 5 ended. Starting next day
+14/07 01:15:04 INFO agents.BrownAgent|Day 6 :BankStatus[-0.487751]
+14/07 01:15:04 INFO agents.BrownAgent|Day 6: Updating campaign 226386081 stats: 10505.5 tgtImps 6056.5 nonTgtImps. Cost of imps is 0.0010751758926338397
+14/07 01:15:04 INFO agents.BrownAgent|Day 6: Updating campaign 1771778680 stats: 4474.5 tgtImps 11031.5 nonTgtImps. Cost of imps is 0.002284629587173294
+14/07 01:15:04 INFO agents.BrownAgent|Day 6: Daily notification for campaign 2097933476
+14/07 01:15:04 INFO agents.BrownAgent|about to update modeler
+14/07 01:15:04 INFO agents.BrownAgent|Day 6:  allocated to DummyAdnetwork-2. UCS Level set to 0.7290000000000001 at price 0.08967870767574783 Qualit Score is: 0.5208182457866746
+14/07 01:15:04 INFO agents.BrownAgent|Day 6: Campaign opportunity - Campaign ID 1561958232: day 8 to 10 [HIGH_INCOME, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:15:04 INFO agents.BrownAgent|Day 6 : AdNetworkReport
+14/07 01:15:04 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:15:04 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:15:04 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:15:04 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:15:04 INFO agents.BrownAgent|Day 6 ended. Starting next day
+14/07 01:15:12 INFO agents.BrownAgent|Day 7 :BankStatus[1.035425]
+14/07 01:15:12 INFO agents.BrownAgent|Day 7: Updating campaign 418590325 stats: 7502.0 tgtImps 2480.0 nonTgtImps. Cost of imps is 0.0010095244530764558
+14/07 01:15:12 INFO agents.BrownAgent|Day 7: Updating campaign 1771778680 stats: 7392.0 tgtImps 19864.5 nonTgtImps. Cost of imps is 0.0036611735445041546
+14/07 01:15:12 INFO agents.BrownAgent|Day 7: Daily notification for campaign 1561958232
+14/07 01:15:12 INFO agents.BrownAgent|about to update modeler
+14/07 01:15:12 INFO agents.BrownAgent|Day 7:  allocated to DummyAdnetwork-7. UCS Level set to 0.81 at price 0.1040173366030146 Qualit Score is: 0.8357151647705974
+14/07 01:15:12 INFO agents.BrownAgent|Day 7: Campaign opportunity - Campaign ID 268226088: day 9 to 13 [FEMALE, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:15:12 INFO agents.BrownAgent|Day 7 : AdNetworkReport
+14/07 01:15:12 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:15:12 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:15:12 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:15:12 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:15:12 INFO agents.BrownAgent|Day 7 ended. Starting next day
+14/07 01:15:22 INFO agents.BrownAgent|Day 8 :BankStatus[2.507913]
+14/07 01:15:22 INFO agents.BrownAgent|Day 8: Updating campaign 418590325 stats: 11278.5 tgtImps 7433.0 nonTgtImps. Cost of imps is 0.002100271614366083
+14/07 01:15:22 INFO agents.BrownAgent|Day 8: Updating campaign 1771778680 stats: 9818.0 tgtImps 22701.5 nonTgtImps. Cost of imps is 0.004077068524107636
+14/07 01:15:22 INFO agents.BrownAgent|Day 8: Daily notification for campaign 268226088
+14/07 01:15:22 INFO agents.BrownAgent|about to update modeler
+14/07 01:15:22 INFO agents.BrownAgent|Day 8:  allocated to DummyAdnetwork-7. UCS Level set to 0.81 at price 0.10765336273528996 Qualit Score is: 0.8357151647705974
+14/07 01:15:22 INFO agents.BrownAgent|Day 8: Campaign opportunity - Campaign ID 399928377: day 10 to 19 [LOW_INCOME, OLD], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:15:22 INFO agents.BrownAgent|Day 8 : AdNetworkReport
+14/07 01:15:22 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:15:22 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:15:22 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:15:22 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:15:22 INFO agents.BrownAgent|Day 8 ended. Starting next day
+14/07 01:15:32 INFO agents.BrownAgent|Day 9 :BankStatus[2.416868]
+14/07 01:15:32 INFO agents.BrownAgent|Day 9: Updating campaign 418590325 stats: 12641.0 tgtImps 8935.5 nonTgtImps. Cost of imps is 0.002211197146074115
+14/07 01:15:32 INFO agents.BrownAgent|Day 9: Updating campaign 1771778680 stats: 10522.0 tgtImps 23376.5 nonTgtImps. Cost of imps is 0.00411097927821928
+14/07 01:15:32 INFO agents.BrownAgent|Day 9: Daily notification for campaign 399928377
+14/07 01:15:32 INFO agents.BrownAgent|about to update modeler
+14/07 01:15:32 INFO agents.BrownAgent|Day 9:  allocated to DummyAdnetwork. UCS Level set to 0.81 at price 0.10366885542194375 Qualit Score is: 0.8357151647705974
+14/07 01:15:32 INFO agents.BrownAgent|Day 9: Campaign opportunity - Campaign ID 43166919: day 11 to 20 [MALE, HIGH_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:15:32 INFO agents.BrownAgent|Day 9 : AdNetworkReport
+14/07 01:15:32 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:15:32 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:15:32 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:15:32 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:15:32 INFO agents.BrownAgent|Day 9 ended. Starting next day
+14/07 01:15:43 INFO agents.BrownAgent|Day 10 :BankStatus[2.329411]
+14/07 01:15:43 INFO agents.BrownAgent|Day 10: Updating campaign 418590325 stats: 12971.5 tgtImps 9311.5 nonTgtImps. Cost of imps is 0.0022208972882196737
+14/07 01:15:43 INFO agents.BrownAgent|Day 10: Updating campaign 1771778680 stats: 10522.0 tgtImps 23379.5 nonTgtImps. Cost of imps is 0.004110979441495573
+14/07 01:15:43 INFO agents.BrownAgent|Day 10: Daily notification for campaign 43166919
+14/07 01:15:43 INFO agents.BrownAgent|about to update modeler
+14/07 01:15:43 INFO agents.BrownAgent|Day 10:  allocated to DummyAdnetwork-4. UCS Level set to 0.81 at price 0.10459473961046661 Qualit Score is: 0.8357151647705974
+14/07 01:15:43 INFO agents.BrownAgent|Day 10: Campaign opportunity - Campaign ID 956915932: day 12 to 16 [MALE, OLD], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:15:43 INFO agents.BrownAgent|Day 10 : AdNetworkReport
+14/07 01:15:43 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:15:43 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:15:43 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:15:43 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:15:43 INFO agents.BrownAgent|Day 10 ended. Starting next day
+14/07 01:15:52 INFO agents.BrownAgent|Day 11 :BankStatus[2.238122]
+14/07 01:15:52 INFO agents.BrownAgent|Day 11: Updating campaign 418590325 stats: 13110.5 tgtImps 9549.0 nonTgtImps. Cost of imps is 0.002223362131908387
+14/07 01:15:52 INFO agents.BrownAgent|Day 11: Updating campaign 1771778680 stats: 10522.0 tgtImps 23379.5 nonTgtImps. Cost of imps is 0.004110979441495573
+14/07 01:15:52 INFO agents.BrownAgent|Day 11: Daily notification for campaign 956915932
+14/07 01:15:52 INFO agents.BrownAgent|about to update modeler
+14/07 01:15:52 INFO agents.BrownAgent|Day 11:  allocated to DummyAdnetwork-5. UCS Level set to 0.5904900000000002 at price 0.07349724277470651 Qualit Score is: 0.8357151647705974
+14/07 01:15:52 INFO agents.BrownAgent|Day 11: Campaign opportunity - Campaign ID 291548311: day 13 to 17 [HIGH_INCOME, OLD], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:15:52 INFO agents.BrownAgent|Day 11 : AdNetworkReport
+14/07 01:15:52 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:15:52 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:15:52 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:15:52 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:15:52 INFO agents.BrownAgent|Day 11 ended. Starting next day
+14/07 01:16:03 INFO agents.BrownAgent|Day 12 :BankStatus[2.142824]
+14/07 01:16:03 INFO agents.BrownAgent|Day 12: Updating campaign 418590325 stats: 13414.0 tgtImps 9822.0 nonTgtImps. Cost of imps is 0.002227566112844602
+14/07 01:16:03 INFO agents.BrownAgent|Day 12: Updating campaign 1771778680 stats: 10522.0 tgtImps 23379.5 nonTgtImps. Cost of imps is 0.004110979441495573
+14/07 01:16:03 INFO agents.BrownAgent|Day 12: Daily notification for campaign 291548311
+14/07 01:16:03 INFO agents.BrownAgent|about to update modeler
+14/07 01:16:03 INFO agents.BrownAgent|Day 12:  allocated to DummyAdnetwork-4. UCS Level set to 1.0 at price 0.14787251534171078 Qualit Score is: 0.8357151647705974
+14/07 01:16:03 INFO agents.BrownAgent|Day 12: Campaign opportunity - Campaign ID 1741031945: day 14 to 23 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:16:03 INFO agents.BrownAgent|Day 12 : AdNetworkReport
+14/07 01:16:03 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:16:03 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:16:03 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:16:03 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:16:03 INFO agents.BrownAgent|Day 12 ended. Starting next day
+14/07 01:16:13 INFO agents.BrownAgent|Day 13 :BankStatus[2.054941]
+14/07 01:16:13 INFO agents.BrownAgent|Day 13: Updating campaign 418590325 stats: 14013.5 tgtImps 10225.0 nonTgtImps. Cost of imps is 0.00223687171133868
+14/07 01:16:13 INFO agents.BrownAgent|Day 13: Updating campaign 1771778680 stats: 10522.0 tgtImps 23379.5 nonTgtImps. Cost of imps is 0.004110979441495573
+14/07 01:16:13 INFO agents.BrownAgent|Day 13: Daily notification for campaign 1741031945
+14/07 01:16:13 INFO agents.BrownAgent|about to update modeler
+14/07 01:16:13 INFO agents.BrownAgent|Day 13:  allocated to DummyAdnetwork-6. UCS Level set to 0.6561000000000001 at price 0.07964351025060959 Qualit Score is: 0.8357151647705974
+14/07 01:16:13 INFO agents.BrownAgent|Day 13: Campaign opportunity - Campaign ID 1821949087: day 15 to 19 [MALE, OLD], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:16:13 INFO agents.BrownAgent|Day 13 : AdNetworkReport
+14/07 01:16:13 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:16:13 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:16:13 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:16:13 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:16:13 INFO agents.BrownAgent|Day 13 ended. Starting next day
+14/07 01:16:23 INFO agents.BrownAgent|Day 14 :BankStatus[1.963111]
+14/07 01:16:23 INFO agents.BrownAgent|Day 14: Updating campaign 418590325 stats: 14327.0 tgtImps 10610.0 nonTgtImps. Cost of imps is 0.0022452507206530995
+14/07 01:16:23 INFO agents.BrownAgent|Day 14: Daily notification for campaign 1821949087
+14/07 01:16:23 INFO agents.BrownAgent|about to update modeler
+14/07 01:16:23 INFO agents.BrownAgent|Day 14:  allocated to DummyAdnetwork-4. UCS Level set to 0.9 at price 0.12465105785513862 Qualit Score is: 0.9624775467244593
+14/07 01:16:23 INFO agents.BrownAgent|Day 14: Campaign opportunity - Campaign ID 999057985: day 16 to 18 [HIGH_INCOME, OLD], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:16:23 INFO agents.BrownAgent|Day 14 : AdNetworkReport
+14/07 01:16:23 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:16:23 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:16:23 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:16:23 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:16:23 INFO agents.BrownAgent|Day 14 ended. Starting next day
+14/07 01:16:32 INFO agents.BrownAgent|Day 15 :BankStatus[4.693685]
+14/07 01:16:32 INFO agents.BrownAgent|Day 15: Updating campaign 418590325 stats: 14532.5 tgtImps 11047.5 nonTgtImps. Cost of imps is 0.0022511554651926907
+14/07 01:16:32 INFO agents.BrownAgent|Day 15: Daily notification for campaign 999057985
+14/07 01:16:32 INFO agents.BrownAgent|about to update modeler
+14/07 01:16:32 INFO agents.BrownAgent|Day 15:  allocated to DummyAdnetwork-3. UCS Level set to 0.6561000000000001 at price 0.08295933433159665 Qualit Score is: 0.9624775467244593
+14/07 01:16:32 INFO agents.BrownAgent|Day 15: Campaign opportunity - Campaign ID 1367913177: day 17 to 26 [YOUNG, FEMALE], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:16:32 INFO agents.BrownAgent|Day 15 : AdNetworkReport
+14/07 01:16:32 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:16:32 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:16:32 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:16:32 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:16:32 INFO agents.BrownAgent|Day 15 ended. Starting next day
+14/07 01:16:42 INFO agents.BrownAgent|Day 16 :BankStatus[4.599138]
+14/07 01:16:42 INFO agents.BrownAgent|Day 16: Daily notification for campaign 1367913177
+14/07 01:16:42 INFO agents.BrownAgent|about to update modeler
+14/07 01:16:42 INFO agents.BrownAgent|Day 16:  allocated to DummyAdnetwork. UCS Level set to 0.9 at price 0.12381456910465856 Qualit Score is: 0.9796330941665448
+14/07 01:16:42 INFO agents.BrownAgent|Day 16: Campaign opportunity - Campaign ID 124445578: day 18 to 27 [HIGH_INCOME, OLD], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:16:42 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:16:42 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:16:42 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:16:42 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:16:42 INFO agents.BrownAgent|Day 16 ended. Starting next day
+14/07 01:16:52 INFO agents.BrownAgent|Day 17 :BankStatus[7.638499]
+14/07 01:16:52 INFO agents.BrownAgent|Day 17: Daily notification for campaign 124445578
+14/07 01:16:52 INFO agents.BrownAgent|about to update modeler
+14/07 01:16:52 INFO agents.BrownAgent|Day 17:  allocated to DummyAdnetwork-5. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:16:52 INFO agents.BrownAgent|Day 17: Campaign opportunity - Campaign ID 1704164497: day 19 to 21 [YOUNG, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:16:52 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:16:52 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:16:52 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:16:52 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:16:52 INFO agents.BrownAgent|Day 17 ended. Starting next day
+14/07 01:17:02 INFO agents.BrownAgent|Day 18 :BankStatus[7.537856]
+14/07 01:17:02 INFO agents.BrownAgent|Day 18: Daily notification for campaign 1704164497
+14/07 01:17:02 INFO agents.BrownAgent|about to update modeler
+14/07 01:17:02 INFO agents.BrownAgent|Day 18:  allocated to DummyAdnetwork-4. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:17:02 INFO agents.BrownAgent|Day 18: Campaign opportunity - Campaign ID 806959842: day 20 to 24 [MALE, OLD], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:17:02 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:17:02 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:17:02 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:17:02 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:17:02 INFO agents.BrownAgent|Day 18 ended. Starting next day
+14/07 01:17:13 INFO agents.BrownAgent|Day 19 :BankStatus[7.432794]
+14/07 01:17:13 INFO agents.BrownAgent|Day 19: Daily notification for campaign 806959842
+14/07 01:17:13 INFO agents.BrownAgent|about to update modeler
+14/07 01:17:13 INFO agents.BrownAgent|Day 19:  allocated to DummyAdnetwork-7. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:17:13 INFO agents.BrownAgent|Day 19: Campaign opportunity - Campaign ID 1385519006: day 21 to 23 [FEMALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:17:13 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:17:13 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:17:13 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:17:13 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:17:13 INFO agents.BrownAgent|Day 19 ended. Starting next day
+14/07 01:17:22 INFO agents.BrownAgent|Day 20 :BankStatus[7.331385]
+14/07 01:17:22 INFO agents.BrownAgent|Day 20: Daily notification for campaign 1385519006
+14/07 01:17:22 INFO agents.BrownAgent|about to update modeler
+14/07 01:17:22 INFO agents.BrownAgent|Day 20:  allocated to DummyAdnetwork-6. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:17:22 INFO agents.BrownAgent|Day 20: Campaign opportunity - Campaign ID 744309995: day 22 to 24 [FEMALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:17:22 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:17:22 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:17:22 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:17:22 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:17:22 INFO agents.BrownAgent|Day 20 ended. Starting next day
+14/07 01:17:31 INFO agents.BrownAgent|Day 21 :BankStatus[7.242085]
+14/07 01:17:31 INFO agents.BrownAgent|Day 21: Daily notification for campaign 744309995
+14/07 01:17:31 INFO agents.BrownAgent|about to update modeler
+14/07 01:17:31 INFO agents.BrownAgent|Day 21:  allocated to DummyAdnetwork-2. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:17:31 INFO agents.BrownAgent|Day 21: Campaign opportunity - Campaign ID 726662489: day 23 to 32 [FEMALE, LOW_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:17:31 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:17:31 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:17:31 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:17:31 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:17:32 INFO agents.BrownAgent|Day 21 ended. Starting next day
+14/07 01:17:42 INFO agents.BrownAgent|Day 22 :BankStatus[7.158639]
+14/07 01:17:42 INFO agents.BrownAgent|Day 22: Daily notification for campaign 726662489
+14/07 01:17:42 INFO agents.BrownAgent|about to update modeler
+14/07 01:17:42 INFO agents.BrownAgent|Day 22:  allocated to DummyAdnetwork-2. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:17:42 INFO agents.BrownAgent|Day 22: Campaign opportunity - Campaign ID 2024726254: day 24 to 26 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:17:42 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:17:42 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:17:42 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:17:42 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:17:42 INFO agents.BrownAgent|Day 22 ended. Starting next day
+14/07 01:17:52 INFO agents.BrownAgent|Day 23 :BankStatus[7.068122]
+14/07 01:17:52 INFO agents.BrownAgent|Day 23: Daily notification for campaign 2024726254
+14/07 01:17:52 INFO agents.BrownAgent|about to update modeler
+14/07 01:17:52 INFO agents.BrownAgent|Day 23:  allocated to DummyAdnetwork-4. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:17:52 INFO agents.BrownAgent|Day 23: Campaign opportunity - Campaign ID 1209090760: day 25 to 27 [YOUNG, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+14/07 01:17:52 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:17:52 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:17:52 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:17:52 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:17:52 INFO agents.BrownAgent|Day 23 ended. Starting next day
+14/07 01:18:01 INFO agents.BrownAgent|Day 24 :BankStatus[6.975096]
+14/07 01:18:02 INFO agents.BrownAgent|Day 24: Daily notification for campaign 1209090760
+14/07 01:18:02 INFO agents.BrownAgent|about to update modeler
+14/07 01:18:02 INFO agents.BrownAgent|Day 24:  allocated to DummyAdnetwork-5. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:18:02 INFO agents.BrownAgent|Day 24: Campaign opportunity - Campaign ID 542550789: day 26 to 28 [FEMALE, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+14/07 01:18:02 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:18:02 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:18:02 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:18:02 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:18:02 INFO agents.BrownAgent|Day 24 ended. Starting next day
+14/07 01:18:12 INFO agents.BrownAgent|Day 25 :BankStatus[6.887367]
+14/07 01:18:12 INFO agents.BrownAgent|Day 25: Daily notification for campaign 542550789
+14/07 01:18:12 INFO agents.BrownAgent|about to update modeler
+14/07 01:18:12 INFO agents.BrownAgent|Day 25:  allocated to DummyAdnetwork-2. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:18:12 INFO agents.BrownAgent|Day 25: Campaign opportunity - Campaign ID 501744191: day 27 to 36 [YOUNG, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:18:12 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:18:12 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:18:12 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:18:12 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:18:12 INFO agents.BrownAgent|Day 25 ended. Starting next day
+14/07 01:18:22 INFO agents.BrownAgent|Day 26 :BankStatus[6.798278]
+14/07 01:18:22 INFO agents.BrownAgent|Day 26: Daily notification for campaign 501744191
+14/07 01:18:22 INFO agents.BrownAgent|about to update modeler
+14/07 01:18:22 INFO agents.BrownAgent|Day 26:  allocated to DummyAdnetwork-4. UCS Level set to 0.47829690000000014 at price 0.0 Qualit Score is: 0.9796330941665448
+14/07 01:18:22 INFO agents.BrownAgent|Day 26: Campaign opportunity - Campaign ID 355203271: day 28 to 32 [MALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+14/07 01:18:22 INFO agents.BrownAgent|about to get bid bundle from optimizer
+14/07 01:18:22 INFO agents.BrownAgent|the bid bundle was null
+14/07 01:18:22 INFO agents.BrownAgent|just got new bid bundle
+14/07 01:18:22 INFO agents.BrownAgent|just sent new bid bundle
+14/07 01:18:22 INFO agents.BrownAgent|Day 26 ended. Starting next day

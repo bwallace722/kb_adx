@@ -1,0 +1,411 @@
+28/06 21:55:02 INFO naive.NaiveAgent|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+28/06 21:55:02 INFO naive.NaiveAgent|Day 0 :BankStatus[0.000000]
+28/06 21:55:02 INFO naive.NaiveAgent|tau.tac.adx.report.demand.InitialCampaignMessage[1376458372,1250,1,5,[YOUNG, LOW_INCOME],2.0,1.5,demand,[]]
+28/06 21:55:02 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.InitialCampaignMessage[1376458372,1250,1,5,[YOUNG, LOW_INCOME],2.0,1.5,demand,[]]]
+java.lang.ClassFormatError: Incompatible magic value 1347093252 in class file naive/NaiveAgent$CampaignData
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:615)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)
+	at java.net.URLClassLoader.access$000(URLClassLoader.java:58)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	at naive.NaiveAgent.handleInitialCampaignMessage(NaiveAgent.java:200)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:129)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:02 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[570828555,15000,2,4,[YOUNG, FEMALE],2.0,1.5,0,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:02 INFO naive.NaiveAgent|Day 0 : Simulation Status Received
+28/06 21:55:02 INFO naive.NaiveAgent|Day 0: Sending BidBundle
+28/06 21:55:02 INFO naive.NaiveAgent|Day 0 ended. Starting next day
+28/06 21:55:15 INFO naive.NaiveAgent|Day 1 :BankStatus[0.000000]
+28/06 21:55:15 INFO naive.NaiveAgent|Day 1: Daily notification for campaign 570828555
+28/06 21:55:15 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=1, serviceLevel=0.47829690000000014, price=0.0, qualityScore=1.0, campaignId=570828555, winner=DummyAdnetwork, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:15 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1980262792,15000,3,7,[LOW_INCOME, FEMALE],2.0,1.5,1,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:15 INFO naive.NaiveAgent|Day 1 : Simulation Status Received
+28/06 21:55:15 INFO naive.NaiveAgent|Day 1: Sending BidBundle
+28/06 21:55:15 INFO naive.NaiveAgent|Day 1 ended. Starting next day
+28/06 21:55:25 INFO naive.NaiveAgent|Day 2 :BankStatus[-0.089989]
+28/06 21:55:25 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,(CampaignReport CampaignReportEntry [tgt imps=0.0, ntg imps=0.0, cost=0.0])]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleCampaignReport(NaiveAgent.java:408)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:133)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:25 INFO naive.NaiveAgent|Day 2: Daily notification for campaign 1980262792
+28/06 21:55:25 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=2, serviceLevel=0.47829690000000014, price=0.0, qualityScore=1.0, campaignId=1980262792, winner=DummyAdnetwork-4, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:25 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1261605277,5000,4,6,[YOUNG, HIGH_INCOME],2.0,1.5,2,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:26 INFO naive.NaiveAgent|Day 2 : Simulation Status Received
+28/06 21:55:26 INFO naive.NaiveAgent|Day 2: Sending BidBundle
+28/06 21:55:26 INFO naive.NaiveAgent|Day 2 ended. Starting next day
+28/06 21:55:37 INFO naive.NaiveAgent|Day 3 :BankStatus[-0.177699]
+28/06 21:55:37 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,(CampaignReport CampaignReportEntry [tgt imps=0.0, ntg imps=0.0, cost=0.0])]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleCampaignReport(NaiveAgent.java:408)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:133)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:37 INFO naive.NaiveAgent|Day 3: Daily notification for campaign 1261605277
+28/06 21:55:37 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=3, serviceLevel=0.47829690000000014, price=0.0, qualityScore=1.0, campaignId=1261605277, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:37 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1502443911,15000,5,9,[OLD, HIGH_INCOME],2.0,1.5,3,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:37 INFO naive.NaiveAgent|Day 3 : Simulation Status Received
+28/06 21:55:37 INFO naive.NaiveAgent|Day 3: Sending BidBundle
+28/06 21:55:37 INFO naive.NaiveAgent|Day 3 ended. Starting next day
+28/06 21:55:44 INFO naive.NaiveAgent|Day 4 :BankStatus[-0.266043]
+28/06 21:55:44 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,(CampaignReport CampaignReportEntry [tgt imps=0.0, ntg imps=0.0, cost=0.0])]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleCampaignReport(NaiveAgent.java:408)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:133)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:44 INFO naive.NaiveAgent|Day 4: Daily notification for campaign 1502443911
+28/06 21:55:44 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=4, serviceLevel=0.47829690000000014, price=0.0, qualityScore=1.0, campaignId=1502443911, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:44 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1444077524,10000,6,10,[OLD, LOW_INCOME],2.0,1.5,4,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:44 INFO naive.NaiveAgent|Day 4 : Simulation Status Received
+28/06 21:55:44 INFO naive.NaiveAgent|Day 4: Sending BidBundle
+28/06 21:55:44 INFO naive.NaiveAgent|Day 4 ended. Starting next day
+28/06 21:55:54 INFO naive.NaiveAgent|Day 5 :BankStatus[-0.349384]
+28/06 21:55:54 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,(CampaignReport CampaignReportEntry [tgt imps=0.0, ntg imps=0.0, cost=0.0])]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleCampaignReport(NaiveAgent.java:408)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:133)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:54 INFO naive.NaiveAgent|Day 5: Daily notification for campaign 1444077524
+28/06 21:55:54 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=5, serviceLevel=0.47829690000000014, price=0.0, qualityScore=1.0, campaignId=1444077524, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:54 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1462361088,15000,7,11,[YOUNG, LOW_INCOME],2.0,1.5,5,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:55:54 INFO naive.NaiveAgent|Day 5 : Simulation Status Received
+28/06 21:55:54 INFO naive.NaiveAgent|Day 5: Sending BidBundle
+28/06 21:55:54 INFO naive.NaiveAgent|Day 5 ended. Starting next day
+28/06 21:56:03 INFO naive.NaiveAgent|Day 6 :BankStatus[-0.423207]
+28/06 21:56:03 INFO naive.NaiveAgent|Day 6: Daily notification for campaign 1462361088
+28/06 21:56:03 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=6, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=1462361088, winner=DummyAdnetwork-5, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:03 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1565870685,15000,8,17,[YOUNG, HIGH_INCOME],2.0,1.5,6,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:03 INFO naive.NaiveAgent|Day 6 : Simulation Status Received
+28/06 21:56:03 INFO naive.NaiveAgent|Day 6: Sending BidBundle
+28/06 21:56:03 INFO naive.NaiveAgent|Day 6 ended. Starting next day
+28/06 21:56:15 INFO naive.NaiveAgent|Day 7 :BankStatus[-0.505065]
+28/06 21:56:15 INFO naive.NaiveAgent|Day 7: Daily notification for campaign 1565870685
+28/06 21:56:15 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=7, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=1565870685, winner=DummyAdnetwork-7, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:15 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[843088881,5000,9,13,[MALE, HIGH_INCOME],2.0,1.5,7,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:15 INFO naive.NaiveAgent|Day 7 : Simulation Status Received
+28/06 21:56:15 INFO naive.NaiveAgent|Day 7: Sending BidBundle
+28/06 21:56:15 INFO naive.NaiveAgent|Day 7 ended. Starting next day
+28/06 21:56:23 INFO naive.NaiveAgent|Day 8 :BankStatus[-0.587894]
+28/06 21:56:23 INFO naive.NaiveAgent|Day 8: Daily notification for campaign 843088881
+28/06 21:56:23 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=8, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=843088881, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:23 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1287232232,15000,10,12,[YOUNG, HIGH_INCOME],2.0,1.5,8,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:23 INFO naive.NaiveAgent|Day 8 : Simulation Status Received
+28/06 21:56:23 INFO naive.NaiveAgent|Day 8: Sending BidBundle
+28/06 21:56:23 INFO naive.NaiveAgent|Day 8 ended. Starting next day
+28/06 21:56:36 INFO naive.NaiveAgent|Day 9 :BankStatus[-0.663447]
+28/06 21:56:36 INFO naive.NaiveAgent|Day 9: Daily notification for campaign 1287232232
+28/06 21:56:36 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=9, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=1287232232, winner=DummyAdnetwork-3, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:36 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[2040895767,10000,11,15,[LOW_INCOME, MALE],2.0,1.5,9,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:36 INFO naive.NaiveAgent|Day 9 : Simulation Status Received
+28/06 21:56:36 INFO naive.NaiveAgent|Day 9: Sending BidBundle
+28/06 21:56:36 INFO naive.NaiveAgent|Day 9 ended. Starting next day
+28/06 21:56:43 INFO naive.NaiveAgent|Day 10 :BankStatus[-0.742316]
+28/06 21:56:43 INFO naive.NaiveAgent|Day 10: Daily notification for campaign 2040895767
+28/06 21:56:43 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=10, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=2040895767, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:43 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[296548711,10000,12,14,[YOUNG, MALE],2.0,1.5,10,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:43 INFO naive.NaiveAgent|Day 10 : Simulation Status Received
+28/06 21:56:43 INFO naive.NaiveAgent|Day 10: Sending BidBundle
+28/06 21:56:43 INFO naive.NaiveAgent|Day 10 ended. Starting next day
+28/06 21:56:54 INFO naive.NaiveAgent|Day 11 :BankStatus[-0.819900]
+28/06 21:56:54 INFO naive.NaiveAgent|Day 11: Daily notification for campaign 296548711
+28/06 21:56:54 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=11, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=296548711, winner=DummyAdnetwork, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:54 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1864726023,15000,13,22,[YOUNG, MALE],2.0,1.5,11,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:56:54 INFO naive.NaiveAgent|Day 11 : Simulation Status Received
+28/06 21:56:54 INFO naive.NaiveAgent|Day 11: Sending BidBundle
+28/06 21:56:54 INFO naive.NaiveAgent|Day 11 ended. Starting next day
+28/06 21:57:03 INFO naive.NaiveAgent|Day 12 :BankStatus[-0.894870]
+28/06 21:57:03 INFO naive.NaiveAgent|Day 12: Daily notification for campaign 1864726023
+28/06 21:57:03 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=12, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=1864726023, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:03 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1470065802,10000,14,23,[LOW_INCOME, MALE],2.0,1.5,12,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:03 INFO naive.NaiveAgent|Day 12 : Simulation Status Received
+28/06 21:57:03 INFO naive.NaiveAgent|Day 12: Sending BidBundle
+28/06 21:57:03 INFO naive.NaiveAgent|Day 12 ended. Starting next day
+28/06 21:57:12 INFO naive.NaiveAgent|Day 13 :BankStatus[-0.968332]
+28/06 21:57:12 INFO naive.NaiveAgent|Day 13: Daily notification for campaign 1470065802
+28/06 21:57:12 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=13, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=1470065802, winner=DummyAdnetwork-5, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:12 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1763930941,5000,15,19,[OLD, LOW_INCOME],2.0,1.5,13,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:12 INFO naive.NaiveAgent|Day 13 : Simulation Status Received
+28/06 21:57:12 INFO naive.NaiveAgent|Day 13: Sending BidBundle
+28/06 21:57:12 INFO naive.NaiveAgent|Day 13 ended. Starting next day
+28/06 21:57:22 INFO naive.NaiveAgent|Day 14 :BankStatus[-1.045019]
+28/06 21:57:22 INFO naive.NaiveAgent|Day 14: Daily notification for campaign 1763930941
+28/06 21:57:22 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=14, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=1763930941, winner=DummyAdnetwork-7, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:22 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[846522931,15000,16,25,[OLD, HIGH_INCOME],2.0,1.5,14,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:22 INFO naive.NaiveAgent|Day 14 : Simulation Status Received
+28/06 21:57:22 INFO naive.NaiveAgent|Day 14: Sending BidBundle
+28/06 21:57:22 INFO naive.NaiveAgent|Day 14 ended. Starting next day
+28/06 21:57:32 INFO naive.NaiveAgent|Day 15 :BankStatus[-1.120670]
+28/06 21:57:32 INFO naive.NaiveAgent|Day 15: Daily notification for campaign 846522931
+28/06 21:57:32 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=15, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=846522931, winner=DummyAdnetwork-6, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:32 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[247967257,5000,17,21,[LOW_INCOME, MALE],2.0,1.5,15,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:32 INFO naive.NaiveAgent|Day 15 : Simulation Status Received
+28/06 21:57:32 INFO naive.NaiveAgent|Day 15: Sending BidBundle
+28/06 21:57:32 INFO naive.NaiveAgent|Day 15 ended. Starting next day
+28/06 21:57:42 INFO naive.NaiveAgent|Day 16 :BankStatus[-1.193248]
+28/06 21:57:42 INFO naive.NaiveAgent|Day 16: Daily notification for campaign 247967257
+28/06 21:57:42 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,AdNetworkDailyNotification [effectiveDay=16, serviceLevel=0.47829690000000014, price=0.0, qualityScore=0.4, campaignId=247967257, winner=DummyAdnetwork-3, cost=0.0]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleAdNetworkDailyNotification(NaiveAgent.java:282)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:135)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:42 SEVERE agentware.AgentServiceImpl|agent could not handle message Message[coordinator,adv1,tau.tac.adx.report.demand.CampaignOpportunityMessage[1852821523,5000,18,22,[FEMALE, HIGH_INCOME],2.0,1.5,16,[]]]
+java.lang.ClassFormatError: naive/NaiveAgent$CampaignData
+	at naive.NaiveAgent.handleICampaignOpportunityMessage(NaiveAgent.java:222)
+	at naive.NaiveAgent.messageReceived(NaiveAgent.java:131)
+	at se.sics.tasim.aw.AgentService.deliverToAgent(AgentService.java:130)
+	at tau.tac.adx.agentware.AgentServiceImpl.deliverToAgent(AgentServiceImpl.java:134)
+	at tau.tac.adx.agentware.SimClient.run(SimClient.java:439)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:42 INFO naive.NaiveAgent|Day 16 : Simulation Status Received
+28/06 21:57:42 INFO naive.NaiveAgent|Day 16: Sending BidBundle
+28/06 21:57:42 INFO naive.NaiveAgent|Day 16 ended. Starting next day
+28/06 21:57:52 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+28/06 21:57:52 SEVERE agentware.SimClient|************************************************************
+28/06 21:57:52 SEVERE agentware.SimClient|* Connection Lost
+28/06 21:57:52 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+28/06 21:57:52 SEVERE agentware.SimClient|************************************************************

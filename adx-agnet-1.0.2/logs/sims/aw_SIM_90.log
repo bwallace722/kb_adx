@@ -1,0 +1,54 @@
+07/07 03:29:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+07/07 03:29:01 INFO naive.ReasonableBot|DAY 0 Actually bidding 5048
+07/07 03:29:22 INFO naive.ReasonableBot|DAY 1 Actually bidding 6057
+07/07 03:29:44 INFO naive.ReasonableBot|DAY 2 Actually bidding 1615
+07/07 03:29:54 INFO naive.ReasonableBot|DAY 3 Actually bidding 1292
+07/07 03:29:54 INFO naive.ReasonableBot|DAY 4 Actually bidding 1033
+07/07 03:31:04 INFO naive.ReasonableBot|DAY 5 Actually bidding 2481
+07/07 03:32:29 INFO naive.ReasonableBot|DAY 6 Actually bidding 1323
+07/07 03:32:45 INFO naive.ReasonableBot|DAY 7 Actually bidding 1058
+07/07 03:32:45 INFO naive.ReasonableBot|DAY 8 Actually bidding 423
+07/07 03:32:57 INFO naive.ReasonableBot|DAY 9 Actually bidding 1016
+07/07 03:33:23 INFO naive.ReasonableBot|DAY 10 Actually bidding 271
+07/07 03:33:23 INFO naive.ReasonableBot|DAY 11 Actually bidding 216
+07/07 03:33:45 INFO naive.ReasonableBot|DAY 12 Actually bidding 346
+07/07 03:33:53 INFO naive.ReasonableBot|DAY 13 Actually bidding 138
+07/07 03:34:02 INFO naive.ReasonableBot|DAY 14 Actually bidding 333
+07/07 03:34:16 INFO naive.ReasonableBot|DAY 15 Actually bidding 177
+07/07 03:34:20 INFO naive.ReasonableBot|DAY 16 Actually bidding 71
+07/07 03:34:27 INFO naive.ReasonableBot|DAY 17 Actually bidding 170
+07/07 03:34:43 INFO naive.ReasonableBot|DAY 18 Actually bidding 136
+07/07 03:34:54 INFO naive.ReasonableBot|DAY 19 Actually bidding 72
+07/07 03:34:59 INFO naive.ReasonableBot|DAY 20 Actually bidding 29
+07/07 03:35:07 INFO naive.ReasonableBot|DAY 21 Actually bidding 46
+07/07 03:35:14 INFO naive.ReasonableBot|DAY 22 Actually bidding 37
+07/07 03:35:19 INFO naive.ReasonableBot|DAY 23 Actually bidding 14
+07/07 03:35:25 INFO naive.ReasonableBot|DAY 24 Actually bidding 11
+07/07 03:35:25 INFO naive.ReasonableBot|DAY 25 Actually bidding 9
+07/07 03:35:31 INFO naive.ReasonableBot|DAY 26 Actually bidding 15
+07/07 03:35:37 INFO naive.ReasonableBot|DAY 27 Actually bidding 6
+07/07 03:35:40 INFO naive.ReasonableBot|DAY 28 Actually bidding 9
+07/07 03:35:47 INFO naive.ReasonableBot|DAY 29 Actually bidding 3
+07/07 03:35:48 INFO naive.ReasonableBot|DAY 30 Actually bidding 6
+07/07 03:35:57 INFO naive.ReasonableBot|DAY 31 Actually bidding 2
+07/07 03:36:06 INFO naive.ReasonableBot|DAY 32 Actually bidding 1
+07/07 03:36:07 INFO naive.ReasonableBot|DAY 33 Actually bidding 4
+07/07 03:36:11 INFO naive.ReasonableBot|DAY 34 Actually bidding 3
+07/07 03:36:12 INFO naive.ReasonableBot|DAY 35 Actually bidding 1
+07/07 03:36:18 INFO naive.ReasonableBot|DAY 36 Actually bidding 2
+07/07 03:36:19 INFO naive.ReasonableBot|DAY 37 Actually bidding 1
+07/07 03:36:36 INFO naive.ReasonableBot|DAY 38 Actually bidding 1
+07/07 03:36:43 INFO naive.ReasonableBot|DAY 39 Actually bidding 1
+07/07 03:37:04 INFO naive.ReasonableBot|DAY 40 Actually bidding 1
+07/07 03:37:05 INFO naive.ReasonableBot|DAY 41 Actually bidding 1
+07/07 03:37:25 INFO naive.ReasonableBot|DAY 42 Actually bidding 1
+07/07 03:37:28 INFO naive.ReasonableBot|DAY 43 Actually bidding 1
+07/07 03:38:01 INFO naive.ReasonableBot|DAY 44 Actually bidding 1
+07/07 03:38:21 INFO naive.ReasonableBot|DAY 45 Actually bidding 1
+07/07 03:38:27 INFO naive.ReasonableBot|DAY 46 Actually bidding 1
+07/07 03:38:27 INFO naive.ReasonableBot|DAY 47 Actually bidding 1
+07/07 03:38:42 INFO naive.ReasonableBot|DAY 48 Actually bidding 1
+07/07 03:39:20 SEVERE agentware.SimClient|************************************************************
+07/07 03:39:20 SEVERE agentware.SimClient|* Forced Simulation End
+07/07 03:39:20 SEVERE agentware.SimClient|* forcing simulation to end at time unit 62 (max 61 time units)
+07/07 03:39:20 SEVERE agentware.SimClient|************************************************************

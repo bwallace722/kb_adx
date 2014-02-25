@@ -1,0 +1,241 @@
+25/02 16:02:03 INFO naive.BrendanBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc76a1c1
+25/02 16:02:03 INFO naive.BrendanBot|Day 0 :BankStatus[0.000000]
+25/02 16:02:03 INFO naive.BrendanBot|tau.tac.adx.report.demand.InitialCampaignMessage[658731598,1250,1,5,[FEMALE, OLD],2.0,1.5,demand,[]]
+25/02 16:02:03 INFO naive.BrendanBot|Day 0: Allocated campaign - Campaign ID 658731598: day 1 to 5 [FEMALE, OLD], reach: 1250 coefs: (v=2.0, m=1.5)
+25/02 16:02:03 INFO naive.BrendanBot|Day 0: Campaign opportunity - Campaign ID 1677170384: day 2 to 6 [YOUNG, MALE], reach: 5000 coefs: (v=2.0, m=1.5)
+25/02 16:02:03 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:02:03 INFO naive.BrendanBot|Day 0: Campaign total budget bid: 0.0010
+25/02 16:02:03 INFO naive.BrendanBot|Day 0: Initial ucs bid is 0.11132055684057285
+25/02 16:02:03 INFO naive.BrendanBot|Day 0 : Simulation Status Received
+25/02 16:02:03 INFO naive.BrendanBot|Day 0: Updated 36 Bid Bundle entries for Campaign id 658731598
+25/02 16:02:03 INFO naive.BrendanBot|Day 0: Sending BidBundle
+25/02 16:02:03 INFO naive.BrendanBot|Day 0 ended. Starting next day
+25/02 16:02:18 INFO naive.BrendanBot|Day 1 :BankStatus[0.000000]
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Daily notification for campaign 1677170384
+25/02 16:02:18 INFO naive.BrendanBot|Day 1:  WON at cost 0.511. UCS Level set to 0.9 at price 0.045000000000000005 Qualit Score is: 1.0
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Campaign opportunity - Campaign ID 21845470: day 3 to 7 [YOUNG, LOW_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+25/02 16:02:18 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Campaign total budget bid: 0.0010
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Adjusting ucs bid: was 0.11132055684057285 level reported: 0.9 target: 0.8 adjusted: 0.10018850115651556
+25/02 16:02:18 INFO naive.BrendanBot|Day 1 : Simulation Status Received
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Updated 36 Bid Bundle entries for Campaign id 1677170384
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Updated 36 Bid Bundle entries for Campaign id 658731598
+25/02 16:02:18 INFO naive.BrendanBot|Day 1: Sending BidBundle
+25/02 16:02:18 INFO naive.BrendanBot|Day 1 ended. Starting next day
+25/02 16:02:27 INFO naive.BrendanBot|Day 2 :BankStatus[0.000000]
+25/02 16:02:27 INFO naive.BrendanBot|Day 2: Updating campaign 658731598 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:02:27 INFO naive.BrendanBot|Day 2: Daily notification for campaign 21845470
+25/02 16:02:27 INFO naive.BrendanBot|Day 2:  WON at cost 0.408. UCS Level set to 0.9 at price 0.0684766395 Qualit Score is: 1.0
+25/02 16:02:27 INFO naive.BrendanBot|Day 2: Campaign opportunity - Campaign ID 594754518: day 4 to 8 [OLD, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+25/02 16:02:27 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:02:27 INFO naive.BrendanBot|Day 2: Campaign total budget bid: 0.0010
+25/02 16:02:27 INFO naive.BrendanBot|Day 2: Adjusting ucs bid: was 0.10018850115651556 level reported: 0.9 target: 0.8 adjusted: 0.09016965104086401
+25/02 16:02:28 INFO naive.BrendanBot|Day 2 : AdNetworkReport
+25/02 16:02:28 INFO naive.BrendanBot|Day 2 : Simulation Status Received
+25/02 16:02:28 INFO naive.BrendanBot|Day 2: Updated 36 Bid Bundle entries for Campaign id 1677170384
+25/02 16:02:28 INFO naive.BrendanBot|Day 2: Updated 36 Bid Bundle entries for Campaign id 658731598
+25/02 16:02:28 INFO naive.BrendanBot|Day 2: Updated 36 Bid Bundle entries for Campaign id 21845470
+25/02 16:02:28 INFO naive.BrendanBot|Day 2: Sending BidBundle
+25/02 16:02:28 INFO naive.BrendanBot|Day 2 ended. Starting next day
+25/02 16:02:35 INFO naive.BrendanBot|Day 3 :BankStatus[-0.013702]
+25/02 16:02:35 INFO naive.BrendanBot|Day 3: Updating campaign 658731598 stats: 626.5 tgtImps 638.5 nonTgtImps. Cost of imps is 0.002124965537724234
+25/02 16:02:35 INFO naive.BrendanBot|Day 3: Updating campaign 1677170384 stats: 2500.5 tgtImps 4963.5 nonTgtImps. Cost of imps is 0.011576572534288381
+25/02 16:02:35 INFO naive.BrendanBot|Day 3: Daily notification for campaign 594754518
+25/02 16:02:35 INFO naive.BrendanBot|Day 3:  WON at cost 0.327. UCS Level set to 0.9 at price 0.06874837688428949 Qualit Score is: 1.0
+25/02 16:02:35 INFO naive.BrendanBot|Day 3: Campaign opportunity - Campaign ID 1733217084: day 5 to 7 [FEMALE, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+25/02 16:02:35 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:02:35 INFO naive.BrendanBot|Day 3: Campaign total budget bid: 0.0010
+25/02 16:02:35 INFO naive.BrendanBot|Day 3: Adjusting ucs bid: was 0.09016965104086401 level reported: 0.9 target: 0.8 adjusted: 0.08115268593677762
+25/02 16:02:36 INFO naive.BrendanBot|Day 3 : AdNetworkReport
+25/02 16:02:36 INFO naive.BrendanBot|Day 3 : Simulation Status Received
+25/02 16:02:36 INFO naive.BrendanBot|Day 3: Updated 36 Bid Bundle entries for Campaign id 1677170384
+25/02 16:02:36 INFO naive.BrendanBot|Day 3: Updated 36 Bid Bundle entries for Campaign id 594754518
+25/02 16:02:36 INFO naive.BrendanBot|Day 3: Updated 36 Bid Bundle entries for Campaign id 658731598
+25/02 16:02:36 INFO naive.BrendanBot|Day 3: Updated 36 Bid Bundle entries for Campaign id 21845470
+25/02 16:02:36 INFO naive.BrendanBot|Day 3: Sending BidBundle
+25/02 16:02:36 INFO naive.BrendanBot|Day 3 ended. Starting next day
+25/02 16:02:45 INFO naive.BrendanBot|Day 4 :BankStatus[-0.028758]
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updating campaign 658731598 stats: 1253.5 tgtImps 777.0 nonTgtImps. Cost of imps is 0.0031121939034587645
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updating campaign 1677170384 stats: 5001.0 tgtImps 6739.5 nonTgtImps. Cost of imps is 0.01731221255316449
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updating campaign 21845470 stats: 2501.5 tgtImps 4095.0 nonTgtImps. Cost of imps is 0.008333111212298818
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Daily notification for campaign 1733217084
+25/02 16:02:45 INFO naive.BrendanBot|Day 4:  WON at cost 0.261. UCS Level set to 0.81 at price 0.06294238931665755 Qualit Score is: 1.0
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Campaign opportunity - Campaign ID 1996862364: day 6 to 15 [MALE, HIGH_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+25/02 16:02:45 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Campaign total budget bid: 0.0010
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Adjusting ucs bid: was 0.08115268593677762 level reported: 0.81 target: 0.8 adjusted: 0.08034115907740984
+25/02 16:02:45 INFO naive.BrendanBot|Day 4 : AdNetworkReport
+25/02 16:02:45 INFO naive.BrendanBot|Day 4 : Simulation Status Received
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updated 36 Bid Bundle entries for Campaign id 1677170384
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updated 36 Bid Bundle entries for Campaign id 594754518
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updated 36 Bid Bundle entries for Campaign id 658731598
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updated 36 Bid Bundle entries for Campaign id 21845470
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Updated 36 Bid Bundle entries for Campaign id 1733217084
+25/02 16:02:45 INFO naive.BrendanBot|Day 4: Sending BidBundle
+25/02 16:02:45 INFO naive.BrendanBot|Day 4 ended. Starting next day
+25/02 16:02:54 INFO naive.BrendanBot|Day 5 :BankStatus[-0.043104]
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Updating campaign 594754518 stats: 2502.5 tgtImps 1620.0 nonTgtImps. Cost of imps is 0.004402251421997079
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Updating campaign 658731598 stats: 1566.5 tgtImps 959.0 nonTgtImps. Cost of imps is 0.0036768708610842612
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Updating campaign 1677170384 stats: 6251.0 tgtImps 9170.0 nonTgtImps. Cost of imps is 0.021346007908831025
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Updating campaign 21845470 stats: 5002.0 tgtImps 6698.5 nonTgtImps. Cost of imps is 0.013678491776724255
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Daily notification for campaign 1996862364
+25/02 16:02:54 INFO naive.BrendanBot|Day 5:  WON at cost 0.209. UCS Level set to 0.6561000000000001 at price 0.05235815679381491 Qualit Score is: 1.0
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Campaign opportunity - Campaign ID 1793450848: day 7 to 9 [MALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+25/02 16:02:54 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Campaign total budget bid: 0.0010
+25/02 16:02:54 INFO naive.BrendanBot|Day 5: Adjusting ucs bid: was 0.08034115907740984 level reported: 0.6561000000000001 target: 0.8 adjusted: 0.0919022518686491
+25/02 16:02:55 INFO naive.BrendanBot|Day 5 : AdNetworkReport
+25/02 16:02:55 INFO naive.BrendanBot|Day 5 : Simulation Status Received
+25/02 16:02:55 INFO naive.BrendanBot|Day 5: Updated 36 Bid Bundle entries for Campaign id 1677170384
+25/02 16:02:55 INFO naive.BrendanBot|Day 5: Updated 36 Bid Bundle entries for Campaign id 594754518
+25/02 16:02:55 INFO naive.BrendanBot|Day 5: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:02:55 INFO naive.BrendanBot|Day 5: Updated 36 Bid Bundle entries for Campaign id 21845470
+25/02 16:02:55 INFO naive.BrendanBot|Day 5: Updated 36 Bid Bundle entries for Campaign id 1733217084
+25/02 16:02:55 INFO naive.BrendanBot|Day 5: Sending BidBundle
+25/02 16:02:55 INFO naive.BrendanBot|Day 5 ended. Starting next day
+25/02 16:03:06 INFO naive.BrendanBot|Day 6 :BankStatus[-0.072753]
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updating campaign 594754518 stats: 5003.5 tgtImps 5338.5 nonTgtImps. Cost of imps is 0.011139939124489996
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updating campaign 1733217084 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updating campaign 1677170384 stats: 6254.0 tgtImps 9170.0 nonTgtImps. Cost of imps is 0.021349953279071077
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updating campaign 21845470 stats: 6251.5 tgtImps 28155.0 nonTgtImps. Cost of imps is 0.03658139029410892
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Daily notification for campaign 1793450848
+25/02 16:03:06 INFO naive.BrendanBot|Day 6:  WON at cost 0.334. UCS Level set to 0.81 at price 0.0733384809045 Qualit Score is: 1.09675510096673
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Campaign opportunity - Campaign ID 2138657770: day 8 to 17 [FEMALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+25/02 16:03:06 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Campaign total budget bid: 0.0010
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Adjusting ucs bid: was 0.0919022518686491 level reported: 0.81 target: 0.8 adjusted: 0.09098322934996261
+25/02 16:03:06 INFO naive.BrendanBot|Day 6 : AdNetworkReport
+25/02 16:03:06 INFO naive.BrendanBot|Day 6 : Simulation Status Received
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updated 36 Bid Bundle entries for Campaign id 594754518
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updated 36 Bid Bundle entries for Campaign id 21845470
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updated 36 Bid Bundle entries for Campaign id 1733217084
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Updated 36 Bid Bundle entries for Campaign id 1793450848
+25/02 16:03:06 INFO naive.BrendanBot|Day 6: Sending BidBundle
+25/02 16:03:06 INFO naive.BrendanBot|Day 6 ended. Starting next day
+25/02 16:03:13 INFO naive.BrendanBot|Day 7 :BankStatus[1.364544]
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updating campaign 1996862364 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updating campaign 594754518 stats: 6253.0 tgtImps 10727.0 nonTgtImps. Cost of imps is 0.02083968290818893
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updating campaign 1733217084 stats: 2501.0 tgtImps 444.0 nonTgtImps. Cost of imps is 0.004548759916982545
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updating campaign 21845470 stats: 6254.5 tgtImps 28158.0 nonTgtImps. Cost of imps is 0.036588160326155396
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Daily notification for campaign 2138657770
+25/02 16:03:13 INFO naive.BrendanBot|Day 7:  WON at cost 0.26709086338470533. UCS Level set to 1.0 at price 0.07426791343821278 Qualit Score is: 1.1346854744229913
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Campaign opportunity - Campaign ID 90995352: day 9 to 13 [YOUNG, MALE], reach: 15000 coefs: (v=2.0, m=1.5)
+25/02 16:03:13 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Campaign total budget bid: 0.0010
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Adjusting ucs bid: was 0.09098322934996261 level reported: 1.0 target: 0.8 adjusted: 0.0727865834799701
+25/02 16:03:13 INFO naive.BrendanBot|Day 7 : AdNetworkReport
+25/02 16:03:13 INFO naive.BrendanBot|Day 7 : Simulation Status Received
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updated 36 Bid Bundle entries for Campaign id 594754518
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updated 36 Bid Bundle entries for Campaign id 2138657770
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Updated 36 Bid Bundle entries for Campaign id 1793450848
+25/02 16:03:13 INFO naive.BrendanBot|Day 7: Sending BidBundle
+25/02 16:03:13 INFO naive.BrendanBot|Day 7 ended. Starting next day
+25/02 16:03:22 INFO naive.BrendanBot|Day 8 :BankStatus[1.943459]
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updating campaign 1793450848 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updating campaign 1996862364 stats: 2501.5 tgtImps 6077.0 nonTgtImps. Cost of imps is 0.010235480509940123
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updating campaign 594754518 stats: 6253.0 tgtImps 10727.0 nonTgtImps. Cost of imps is 0.02083968290818893
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Daily notification for campaign 90995352
+25/02 16:03:22 INFO naive.BrendanBot|Day 8:  WON at cost 0.33221453931913575. UCS Level set to 1.0 at price 0.05941433075057022 Qualit Score is: 1.0601689304634496
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Campaign opportunity - Campaign ID 1397379544: day 10 to 12 [YOUNG, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+25/02 16:03:22 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Campaign total budget bid: 0.0010
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Adjusting ucs bid: was 0.0727865834799701 level reported: 1.0 target: 0.8 adjusted: 0.05822926678397608
+25/02 16:03:22 INFO naive.BrendanBot|Day 8 : AdNetworkReport
+25/02 16:03:22 INFO naive.BrendanBot|Day 8 : Simulation Status Received
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updated 36 Bid Bundle entries for Campaign id 90995352
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updated 36 Bid Bundle entries for Campaign id 2138657770
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Updated 36 Bid Bundle entries for Campaign id 1793450848
+25/02 16:03:22 INFO naive.BrendanBot|Day 8: Sending BidBundle
+25/02 16:03:22 INFO naive.BrendanBot|Day 8 ended. Starting next day
+25/02 16:03:32 INFO naive.BrendanBot|Day 9 :BankStatus[2.666707]
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updating campaign 1793450848 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updating campaign 1996862364 stats: 5004.0 tgtImps 6257.0 nonTgtImps. Cost of imps is 0.012794854883165025
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updating campaign 2138657770 stats: 5002.0 tgtImps 2983.5 nonTgtImps. Cost of imps is 0.008571439668253402
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Daily notification for campaign 1397379544
+25/02 16:03:32 INFO naive.BrendanBot|Day 9:  WON at cost 0.16535193844819762. UCS Level set to 1.0 at price 0.04753146460045617 Qualit Score is: 1.119933365659032
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Campaign opportunity - Campaign ID 1957650537: day 11 to 13 [FEMALE, HIGH_INCOME], reach: 10000 coefs: (v=2.0, m=1.5)
+25/02 16:03:32 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Campaign total budget bid: 0.0010
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Adjusting ucs bid: was 0.05822926678397608 level reported: 1.0 target: 0.8 adjusted: 0.046583413427180864
+25/02 16:03:32 INFO naive.BrendanBot|Day 9 : AdNetworkReport
+25/02 16:03:32 INFO naive.BrendanBot|Day 9 : Simulation Status Received
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updated 36 Bid Bundle entries for Campaign id 90995352
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updated 36 Bid Bundle entries for Campaign id 2138657770
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Updated 36 Bid Bundle entries for Campaign id 1397379544
+25/02 16:03:32 INFO naive.BrendanBot|Day 9: Sending BidBundle
+25/02 16:03:32 INFO naive.BrendanBot|Day 9 ended. Starting next day
+25/02 16:03:44 INFO naive.BrendanBot|Day 10 :BankStatus[3.021168]
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updating campaign 1996862364 stats: 6254.0 tgtImps 9009.5 nonTgtImps. Cost of imps is 0.01706847179784517
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updating campaign 2138657770 stats: 10005.0 tgtImps 5611.0 nonTgtImps. Cost of imps is 0.017010691262808526
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updating campaign 90995352 stats: 7502.5 tgtImps 3684.0 nonTgtImps. Cost of imps is 0.01207300304536436
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Daily notification for campaign 1957650537
+25/02 16:03:44 INFO naive.BrendanBot|Day 10:  WON at cost 0.13994289643420094. UCS Level set to 1.0 at price 0.038025171680364935 Qualit Score is: 0.44797334626361285
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Campaign opportunity - Campaign ID 1824740920: day 12 to 16 [MALE, OLD], reach: 10000 coefs: (v=2.0, m=1.5)
+25/02 16:03:44 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Campaign total budget bid: 0.0010
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Adjusting ucs bid: was 0.046583413427180864 level reported: 1.0 target: 0.8 adjusted: 0.03726673074174469
+25/02 16:03:44 INFO naive.BrendanBot|Day 10 : AdNetworkReport
+25/02 16:03:44 INFO naive.BrendanBot|Day 10 : Simulation Status Received
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updated 36 Bid Bundle entries for Campaign id 90995352
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updated 36 Bid Bundle entries for Campaign id 1957650537
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updated 36 Bid Bundle entries for Campaign id 2138657770
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Updated 36 Bid Bundle entries for Campaign id 1397379544
+25/02 16:03:44 INFO naive.BrendanBot|Day 10: Sending BidBundle
+25/02 16:03:44 INFO naive.BrendanBot|Day 10 ended. Starting next day
+25/02 16:03:52 INFO naive.BrendanBot|Day 11 :BankStatus[3.001548]
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updating campaign 1397379544 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updating campaign 1996862364 stats: 6255.0 tgtImps 9009.5 nonTgtImps. Cost of imps is 0.017068564414320777
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updating campaign 2138657770 stats: 12507.0 tgtImps 6223.0 nonTgtImps. Cost of imps is 0.020612764922143846
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updating campaign 90995352 stats: 15005.0 tgtImps 10926.0 nonTgtImps. Cost of imps is 0.02809011821480226
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Daily notification for campaign 1824740920
+25/02 16:03:52 INFO naive.BrendanBot|Day 11:  WON at cost 0.044536571419935486. UCS Level set to 1.0 at price 0.030420137344291946 Qualit Score is: 0.44797334626361285
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Campaign opportunity - Campaign ID 818999587: day 13 to 22 [YOUNG, LOW_INCOME], reach: 5000 coefs: (v=2.0, m=1.5)
+25/02 16:03:52 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Campaign total budget bid: 0.0010
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Adjusting ucs bid: was 0.03726673074174469 level reported: 1.0 target: 0.8 adjusted: 0.029813384593395754
+25/02 16:03:52 INFO naive.BrendanBot|Day 11 : AdNetworkReport
+25/02 16:03:52 INFO naive.BrendanBot|Day 11 : Simulation Status Received
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updated 36 Bid Bundle entries for Campaign id 90995352
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updated 36 Bid Bundle entries for Campaign id 1957650537
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updated 36 Bid Bundle entries for Campaign id 1824740920
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updated 36 Bid Bundle entries for Campaign id 2138657770
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Updated 36 Bid Bundle entries for Campaign id 1397379544
+25/02 16:03:52 INFO naive.BrendanBot|Day 11: Sending BidBundle
+25/02 16:03:52 INFO naive.BrendanBot|Day 11 ended. Starting next day
+25/02 16:04:03 INFO naive.BrendanBot|Day 12 :BankStatus[2.986866]
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Updating campaign 1397379544 stats: 0.0 tgtImps 0.0 nonTgtImps. Cost of imps is 0.0
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Updating campaign 1996862364 stats: 6255.0 tgtImps 9009.5 nonTgtImps. Cost of imps is 0.017068564414320777
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Updating campaign 2138657770 stats: 12510.0 tgtImps 6223.0 nonTgtImps. Cost of imps is 0.02061647238730641
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Updating campaign 90995352 stats: 18754.0 tgtImps 11763.0 nonTgtImps. Cost of imps is 0.034361699536645245
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Updating campaign 1957650537 stats: 5001.0 tgtImps 2348.5 nonTgtImps. Cost of imps is 0.008407053417683582
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Daily notification for campaign 818999587
+25/02 16:04:03 INFO naive.BrendanBot|Day 12:  WON at cost 0.017569473128965375. UCS Level set to 1.0 at price 0.024336109875433554 Qualit Score is: 0.44797334626361285
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Campaign opportunity - Campaign ID 809645645: day 14 to 16 [MALE, LOW_INCOME], reach: 15000 coefs: (v=2.0, m=1.5)
+25/02 16:04:03 INFO naive.BrendanBot|This is the value of cmpBid: 1
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Campaign total budget bid: 0.0010
+25/02 16:04:03 INFO naive.BrendanBot|Day 12: Adjusting ucs bid: was 0.029813384593395754 level reported: 1.0 target: 0.8 adjusted: 0.023850707674716604
+25/02 16:04:04 INFO naive.BrendanBot|Day 12 : AdNetworkReport
+25/02 16:04:04 INFO naive.BrendanBot|Day 12 : Simulation Status Received
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Updated 36 Bid Bundle entries for Campaign id 818999587
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Updated 36 Bid Bundle entries for Campaign id 90995352
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Updated 36 Bid Bundle entries for Campaign id 1957650537
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Updated 36 Bid Bundle entries for Campaign id 1824740920
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Updated 36 Bid Bundle entries for Campaign id 1996862364
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Updated 36 Bid Bundle entries for Campaign id 2138657770
+25/02 16:04:04 INFO naive.BrendanBot|Day 12: Sending BidBundle
+25/02 16:04:04 INFO naive.BrendanBot|Day 12 ended. Starting next day
+25/02 16:04:15 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+25/02 16:04:15 SEVERE agentware.SimClient|************************************************************
+25/02 16:04:15 SEVERE agentware.SimClient|* Connection Lost
+25/02 16:04:15 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+25/02 16:04:15 SEVERE agentware.SimClient|************************************************************

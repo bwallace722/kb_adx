@@ -1,0 +1,49 @@
+14/07 01:56:01 INFO naive.ReasonableBot|UNKNOWN Message Received: edu.umich.eecs.tac.props.AdvertiserInfo@bc771620
+14/07 01:56:01 INFO naive.ReasonableBot|2 DAY 0 bid: 524 qs: 0.0
+14/07 01:56:15 INFO naive.ReasonableBot|2 DAY 1 bid: 1259 qs: 1.0
+14/07 01:56:25 INFO naive.ReasonableBot|2 DAY 2 bid: 335 qs: 1.0
+14/07 01:56:37 INFO naive.ReasonableBot|2 DAY 3 WON at cost 0.4
+14/07 01:56:37 INFO naive.ReasonableBot|2 DAY 3 bid: 1007 qs: 1.0
+14/07 01:56:44 INFO naive.ReasonableBot|2 DAY 4 bid: 537 qs: 1.0
+14/07 01:56:54 INFO naive.ReasonableBot|2 DAY 5 WON at cost 0.607
+14/07 01:56:54 INFO naive.ReasonableBot|2 DAY 5 bid: 805 qs: 1.0
+14/07 01:57:03 INFO naive.ReasonableBot|2 DAY 6 WON at cost 1.92
+14/07 01:57:03 INFO naive.ReasonableBot|2 DAY 6 bid: 921 qs: 1.0965687861071913
+14/07 01:57:13 INFO naive.ReasonableBot|2 DAY 7 bid: 870 qs: 1.0965687861071913
+14/07 01:57:23 INFO naive.ReasonableBot|2 DAY 8 bid: 532 qs: 1.0965687861071913
+14/07 01:57:34 INFO naive.ReasonableBot|2 DAY 9 WON at cost 0.7597421619178226
+14/07 01:57:34 INFO naive.ReasonableBot|2 DAY 9 bid: 916 qs: 1.1259166358892563
+14/07 01:57:42 INFO naive.ReasonableBot|2 DAY 10 WON at cost 5.524028494831662
+14/07 01:57:42 INFO naive.ReasonableBot|2 DAY 10 bid: 1091 qs: 1.1259166358892563
+14/07 01:57:53 INFO naive.ReasonableBot|2 DAY 11 bid: 737 qs: 1.1259166358892563
+14/07 01:58:03 INFO naive.ReasonableBot|2 DAY 12 bid: 339 qs: 1.0380565718649328
+14/07 01:58:14 INFO naive.ReasonableBot|2 DAY 13 WON at cost 0.8596405985756473
+14/07 01:58:14 INFO naive.ReasonableBot|2 DAY 13 bid: 1812 qs: 1.0380565718649328
+14/07 01:58:24 INFO naive.ReasonableBot|2 DAY 14 WON at cost 2.003343477130573
+14/07 01:58:24 INFO naive.ReasonableBot|2 DAY 14 bid: 757 qs: 0.41522262874597315
+14/07 01:58:33 INFO naive.ReasonableBot|2 DAY 15 bid: 605 qs: 0.8223745441669188
+14/07 01:58:43 INFO naive.ReasonableBot|2 DAY 16 bid: 1318 qs: 0.9259262566082905
+14/07 01:58:53 INFO naive.ReasonableBot|2 DAY 17 bid: 1582 qs: 1.0345851928246113
+14/07 01:59:03 INFO naive.ReasonableBot|2 DAY 18 WON at cost 1.6650355447021083
+14/07 01:59:03 INFO naive.ReasonableBot|2 DAY 18 bid: 597 qs: 1.0345851928246113
+14/07 01:59:13 INFO naive.ReasonableBot|2 DAY 19 bid: 1435 qs: 1.0345851928246113
+14/07 01:59:23 INFO naive.ReasonableBot|2 DAY 20 bid: 1148 qs: 1.084620870558859
+14/07 01:59:37 INFO naive.ReasonableBot|2 DAY 21 bid: 450 qs: 1.084620870558859
+14/07 01:59:44 INFO naive.ReasonableBot|2 DAY 22 WON at cost 1.8006401171387298
+14/07 01:59:44 INFO naive.ReasonableBot|2 DAY 22 bid: 450 qs: 0.6986231333316903
+14/07 01:59:52 INFO naive.ReasonableBot|2 DAY 23 WON at cost 0.95514881510192
+14/07 01:59:52 INFO naive.ReasonableBot|2 DAY 23 bid: 900 qs: 0.6986231333316903
+14/07 02:00:02 INFO naive.ReasonableBot|2 DAY 24 bid: 720 qs: 0.6986231333316903
+14/07 02:00:12 INFO naive.ReasonableBot|2 DAY 25 WON at cost 1.0733754434374556
+14/07 02:00:12 INFO naive.ReasonableBot|2 DAY 25 bid: 360 qs: 0.6986231333316903
+14/07 02:00:24 INFO naive.ReasonableBot|2 DAY 26 WON at cost 0.47757440755096
+14/07 02:00:24 INFO naive.ReasonableBot|2 DAY 26 bid: 1459 qs: 0.6986231333316903
+14/07 02:00:30 SEVERE agentware.ServerConnection|(1) could not read
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:375)
+	at tau.tac.adx.agentware.ServerConnection.run(ServerConnection.java:216)
+	at java.lang.Thread.run(Thread.java:680)
+14/07 02:00:30 SEVERE agentware.SimClient|************************************************************
+14/07 02:00:30 SEVERE agentware.SimClient|* Connection Lost
+14/07 02:00:30 SEVERE agentware.SimClient|* Lost connection to localhost (will reconnect in 30 seconds)
+14/07 02:00:30 SEVERE agentware.SimClient|************************************************************
